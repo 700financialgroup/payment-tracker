@@ -1,0 +1,570 @@
+('C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT '
+ 'DATABASE\\build\\PaymentTracker\\PYZ-00.pyz',
+ [('__future__',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_ast_unparse',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\_ast_unparse.py',
+   'PYMODULE'),
+  ('_colorize',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\_colorize.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_opcode_metadata',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\_opcode_metadata.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_py_warnings',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\_py_warnings.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('annotationlib',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\annotationlib.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\ast.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('compression',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\compression\\__init__.py',
+   'PYMODULE'),
+  ('compression._common',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\compression\\_common\\__init__.py',
+   'PYMODULE'),
+  ('compression._common._streams',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\compression\\_common\\_streams.py',
+   'PYMODULE'),
+  ('compression.zstd',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\compression\\zstd\\__init__.py',
+   'PYMODULE'),
+  ('compression.zstd._zstdfile',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\compression\\zstd\\_zstdfile.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\csv.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\dis.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._functional',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\importlib\\resources\\_functional.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\pathlib\\__init__.py',
+   'PYMODULE'),
+  ('pathlib._os',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\pathlib\\_os.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\random.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\signal.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\socket.py',
+   'PYMODULE'),
+  ('sqlite3',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('sqlite3.__main__',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\sqlite3\\__main__.py',
+   'PYMODULE'),
+  ('sqlite3.dbapi2',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\sqlite3\\dbapi2.py',
+   'PYMODULE'),
+  ('sqlite3.dump',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\sqlite3\\dump.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\string\\__init__.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\threading.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.dialog',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\tkinter\\dialog.py',
+   'PYMODULE'),
+  ('tkinter.filedialog',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\tkinter\\filedialog.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.simpledialog',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\tkinter\\simpledialog.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\typing.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Users\\beltr\\OneDrive\\Desktop\\PAYMENT DATABASE\\Payment '
+   'DB\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE')])
