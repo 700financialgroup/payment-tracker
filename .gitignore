@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Build / packaging
+build/
+dist/
+*.spec
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
