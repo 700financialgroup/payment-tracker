@@ -221,25 +221,19 @@ def pull_ghl_clients():
         return []
     print("Pulling GHL clients...")
     clients = []
+    seen_ids = set()
     headers = {
         'Authorization': f'Bearer {GHL_API_KEY}',
         'Version': '2021-07-28',
         'Content-Type': 'application/json'
     }
-    seen_ids = set()
-
-    # Use search endpoint with query instead of tag filter
-    after_id = None
     after_val = None
+    after_id = None
     page = 0
     while True:
         try:
-            params = {
-                'locationId': GHL_LOCATION,
-                'limit': 100,
-                'query': 'client.round'
-            }
-            if after_id:
+            params = {'locationId': GHL_LOCATION, 'limit': 100, 'query': 'client.round'}
+            if after_val:
                 params['startAfter'] = after_val
                 params['startAfterId'] = after_id
             r = requests.get('https://services.leadconnectorhq.com/contacts/',
@@ -249,75 +243,62 @@ def pull_ghl_clients():
                 break
             data = r.json()
             batch = data.get('contacts', [])
+            meta = data.get('meta', {})
             page += 1
-            print(f"  Page {page}: {len(batch)} contacts")
+            print(f"  Page {page}: {len(batch)} contacts (total in GHL: {meta.get('total','?')})")
             if not batch:
                 break
             for c in batch:
-                    cid = c.get('id')
-                    if cid in seen_ids:
-                        continue
-                    seen_ids.add(cid)
-                    # Extract custom fields
-                    cf = {f['id']: f['value'] for f in c.get('customFields', [])}
-                    round_num = cf.get(GHL_CF_ROUND, 0)
-                    language = cf.get(GHL_CF_LANGUAGE, '')
-                    plan = cf.get(GHL_CF_PLAN, '')
-                    installment = cf.get(GHL_CF_INSTALLMENT, '')
-                    # Get round from tags if not in custom field
-                    tags = c.get('tags', [])
-                    if not round_num:
-                        for t in tags:
-                            if t.startswith('client.round'):
-                                try: round_num = int(t.replace('client.round',''))
-                                except: pass
-                    # Get language from tags if not in custom field
-                    if not language:
-                        if 'language: spanish' in tags: language = 'Spanish'
-                        elif 'language: english' in tags: language = 'English'
-                    # Status flags
-                    flags = []
-                    if 'payment missing' in tags: flags.append('payment_missing')
-                    if 'no show to call' in tags: flags.append('no_show')
-                    if 'idiq fail' in tags: flags.append('idiq_fail')
-                    if 'sla-breached' in tags: flags.append('sla_breached')
-                    if 'fanbasis failed' in tags: flags.append('fanbasis_failed')
-                    # Determine platform from tags
-                    platform = 'Auth.net'
-                    if 'fanbasis paid' in tags or 'fanbasis contact' in tags or 'fanbasis-payment' in tags:
-                        platform = 'Fanbasis'
-                    clients.append({
-                        'id': cid,
-                        'name': f"{c.get('firstName','')} {c.get('lastName','')}".strip(),
-                        'phone': c.get('phone', ''),
-                        'email': c.get('email', ''),
-                        'round': round_num,
-                        'language': language,
-                        'plan': plan,
-                        'installment': float(installment) if installment else 0,
-                        'platform': platform,
-                        'flags': flags,
-                        'tags': tags,
-                        'dateAdded': c.get('dateAdded', '')[:10]
-                    })
-            # Pagination using searchAfter array on last contact
+                cid = c.get('id')
+                if cid in seen_ids:
+                    continue
+                seen_ids.add(cid)
+                cf = {f['id']: f['value'] for f in c.get('customFields', [])}
+                round_num = cf.get(GHL_CF_ROUND, 0)
+                language = cf.get(GHL_CF_LANGUAGE, '')
+                plan = cf.get(GHL_CF_PLAN, '')
+                installment = cf.get(GHL_CF_INSTALLMENT, '')
+                tags = c.get('tags', [])
+                if not round_num:
+                    for t in tags:
+                        if t.startswith('client.round'):
+                            try: round_num = int(t.replace('client.round',''))
+                            except: pass
+                if not language:
+                    if 'language: spanish' in tags: language = 'Spanish'
+                    elif 'language: english' in tags: language = 'English'
+                flags = []
+                if 'payment missing' in tags: flags.append('payment_missing')
+                if 'no show to call' in tags: flags.append('no_show')
+                if 'idiq fail' in tags: flags.append('idiq_fail')
+                if 'sla-breached' in tags: flags.append('sla_breached')
+                if 'fanbasis failed' in tags: flags.append('fanbasis_failed')
+                platform = 'Fanbasis' if any(t in tags for t in ['fanbasis paid','fanbasis contact','fanbasis-payment']) else 'Auth.net'
+                clients.append({
+                    'id': cid,
+                    'name': f"{c.get('firstName','')} {c.get('lastName','')}".strip(),
+                    'phone': c.get('phone', ''),
+                    'email': c.get('email', ''),
+                    'round': round_num,
+                    'language': language,
+                    'plan': plan,
+                    'installment': float(installment) if installment else 0,
+                    'platform': platform,
+                    'flags': flags,
+                    'tags': tags,
+                    'dateAdded': c.get('dateAdded', '')[:10]
+                })
             if len(batch) < 100:
                 break
-            last = batch[-1]
-            sa = last.get('searchAfter', [])
-            if len(sa) >= 2:
-                after_val = sa[0]
-                after_id = sa[1]
-            else:
+            after_val = meta.get('startAfter')
+            after_id = meta.get('startAfterId')
+            if not after_val:
                 break
         except Exception as e:
             print(f"  GHL error: {e}")
-            import traceback; traceback.print_exc()
             break
-    
-    # Filter to only active dispute clients
-    active = [cl for cl in clients if any(t.startswith('client.round') for t in cl.get('tags',[]))]
-    print(f"  {len(active)} active GHL clients pulled ({len(clients)} total searched)")
+    active = [cl for cl in clients if any(t.startswith('client.round') for t in cl.get('tags', []))]
+    print(f"  {len(active)} active clients ({len(clients)} total fetched)")
     return active
 
 
