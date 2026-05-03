@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03 05:55 UTC",
+  "updated": "2026-05-03 06:11 UTC",
   "today_total": 0,
   "payments": [
     {
@@ -246,7 +246,7 @@
       "id": "zelle_28978602000",
       "date": "2026-04-26",
       "time": "",
-      "name": "Zelle Sender",
+      "name": "Danny Beltre",
       "amount": 120.0,
       "status": "received",
       "platform": "Zelle",
