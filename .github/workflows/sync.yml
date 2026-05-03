@@ -26,4 +26,5 @@ jobs:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
           GMAIL_APP_PASSWORD: ${{secrets.GMAIL_APP_PASSWORD}}
           GMAIL_ADDRESS: ${{secrets.GMAIL_ADDRESS}}
+          GHL_API_KEY: ${{secrets.GHL_API_KEY}}
         run: python scripts/sync_v2.py
