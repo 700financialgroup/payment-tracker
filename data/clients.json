@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03 19:50 UTC",
+  "updated": "2026-05-03 20:17 UTC",
   "total": 297,
   "clients": [
     {
@@ -291,17 +291,20 @@
       "email": "angie.ortiz9@aol.com",
       "round": 1,
       "language": "Spanish",
-      "plan": "",
+      "plan": "900 Payment Plan",
       "installment": 0,
-      "platform": "Auth.net",
+      "platform": "Fanbasis",
       "flags": [
-        "no_show"
+        "no_show",
+        "fanbasis_failed"
       ],
       "tags": [
         "booked appointment",
         "no show to call",
         "client.round1",
-        "language: spanish"
+        "language: spanish",
+        "fanbasis failed",
+        "fanbasis contact"
       ],
       "dateAdded": "2025-11-29"
     },
