@@ -226,25 +226,33 @@ def pull_ghl_clients():
         'Version': '2021-07-28',
         'Content-Type': 'application/json'
     }
-    # Search for all contacts with client.round tags
-    search_tags = ['client.round1','client.round2','client.round3','client.round4','client.round5']
     seen_ids = set()
-    
-    for tag in search_tags:
-        after = None
-        while True:
+
+    # Use search endpoint with query instead of tag filter
+    after_id = None
+    after_val = None
+    page = 0
+    while True:
+        try:
             params = {
                 'locationId': GHL_LOCATION,
                 'limit': 100,
-                'tags': tag
+                'query': 'client.round'
             }
-            if after:
-                params['searchAfter'] = after
-            try:
-                r = requests.get('https://services.leadconnectorhq.com/contacts/',
-                    headers=headers, params=params, timeout=15)
-                data = r.json()
-                batch = data.get('contacts', [])
+            if after_id:
+                params['searchAfter'] = after_val
+                params['searchAfterId'] = after_id
+            r = requests.get('https://services.leadconnectorhq.com/contacts/',
+                headers=headers, params=params, timeout=15)
+            if r.status_code != 200:
+                print(f"  GHL API error: {r.status_code} {r.text[:200]}")
+                break
+            data = r.json()
+            batch = data.get('contacts', [])
+            page += 1
+            print(f"  Page {page}: {len(batch)} contacts")
+            if not batch:
+                break
                 for c in batch:
                     cid = c.get('id')
                     if cid in seen_ids:
@@ -292,21 +300,25 @@ def pull_ghl_clients():
                         'tags': tags,
                         'dateAdded': c.get('dateAdded', '')[:10]
                     })
-                if len(batch) < 100 or not data.get('meta', {}).get('nextPageUrl'):
-                    break
-                # Get searchAfter for pagination
-                if batch:
-                    after = batch[-1].get('searchAfter', [None])[0]
-                    if not after:
-                        break
-                else:
-                    break
-            except Exception as e:
-                print(f"  GHL error ({tag}): {e}")
+            # Pagination
+            last = batch[-1] if batch else None
+            sa = last.get('searchAfter', []) if last else []
+            if len(sa) >= 2:
+                after_val = sa[0]
+                after_id = sa[1]
+            else:
                 break
+            if len(batch) < 100:
+                break
+        except Exception as e:
+            print(f"  GHL error: {e}")
+            import traceback; traceback.print_exc()
+            break
     
-    print(f"  {len(clients)} GHL clients pulled")
-    return clients
+    # Filter to only active dispute clients
+    active = [cl for cl in clients if any(t.startswith('client.round') for t in cl.get('tags',[]))]
+    print(f"  {len(active)} active GHL clients pulled ({len(clients)} total searched)")
+    return active
 
 
 def write_clients_to_github(clients):
