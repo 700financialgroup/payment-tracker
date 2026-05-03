@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03 06:11 UTC",
+  "updated": "2026-05-03 06:40 UTC",
   "today_total": 0,
   "payments": [
     {
@@ -295,7 +295,7 @@
       "date": "2026-04-25",
       "time": "",
       "name": "Fanbasis Client",
-      "amount": 200.0,
+      "amount": 196.4,
       "status": "DISPUTE OPENED",
       "platform": "Fanbasis",
       "ok": false,
@@ -307,7 +307,7 @@
       "date": "2026-04-25",
       "time": "",
       "name": "Fanbasis Client",
-      "amount": 200.0,
+      "amount": 196.4,
       "status": "DISPUTE OPENED",
       "platform": "Fanbasis",
       "ok": false,
@@ -319,7 +319,7 @@
       "date": "2026-04-25",
       "time": "",
       "name": "Fanbasis Client",
-      "amount": 200.0,
+      "amount": 196.4,
       "status": "DISPUTE OPENED",
       "platform": "Fanbasis",
       "ok": false,
