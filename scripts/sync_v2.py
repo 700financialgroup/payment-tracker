@@ -121,8 +121,13 @@ def pull_gmail():
                 _, data = mail.fetch(num, '(RFC822)')
                 msg = email.message_from_bytes(data[0][1])
                 body = get_body(msg)
-                am = re.search(r'Amount[\s\S]{0,30}\$([\d,]+\.?\d*)', body)
-                nm = re.search(r'Zelle.{0,5}payment\s+([A-Za-z][A-Za-z\s]{2,40}?)\s+sent you money', body)
+                # Multiple amount patterns for Chase Zelle emails
+                am = (re.search(r'Amount\s*\$\s*([\d,]+\.?\d*)', body) or
+                      re.search(r'\$([\d,]+\.\d{2})', body) or
+                      re.search(r'Amount[^\d$]{0,20}([\d,]+\.\d{2})', body))
+                # Name patterns - Zelle emails vary
+                nm = (re.search(r'payment\s+([A-Z][A-Z\s]{2,40}?)\s+sent you money', body) or
+                      re.search(r'([A-Z][A-Z\s]{2,40}?)\s+sent you', body))
                 tx = re.search(r'Transaction number\s*(\d+)', body)
                 dm = re.search(r'Sent on\s+(\w+ \d+,?\s*\d{4})', body)
                 if am:
@@ -139,6 +144,8 @@ def pull_gmail():
                         'name': name, 'amount': amount, 'status': 'received',
                         'platform': 'Zelle', 'ok': True, 'settled': True, 'pending': False})
                     print(f"  Zelle: {name} ${amount}")
+                else:
+                    print(f"  Zelle: no amount found in email {num.decode()}")
             except Exception as e: print(f"  Zelle error: {e}")
 
         def parse_fb(num, label):
