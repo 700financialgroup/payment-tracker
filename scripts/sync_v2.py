@@ -70,9 +70,9 @@ def get_date(msg):
 def pull_stripe():
     print("Pulling Stripe...")
     payments = []
-    since = int((datetime.utcnow() - timedelta(hours=48)).timestamp())
+    # Pull ALL payments (no date filter) for total collected accuracy
     headers = {'Authorization': f'Bearer {STRIPE_KEY}'}
-    url = f'https://api.stripe.com/v1/payment_intents?limit=100&created[gte]={since}'
+    url = 'https://api.stripe.com/v1/payment_intents?limit=100'
     while url:
         data = requests.get(url, headers=headers).json()
         if 'error' in data:
@@ -113,7 +113,8 @@ def pull_authnet():
                 'settled': False, 'pending': tx['transactionStatus']=='capturedPendingSettlement'})
     except Exception as e: print(f"  Unsettled error: {e}")
     try:
-        y = (datetime.utcnow()-timedelta(days=2)).strftime('%Y-%m-%dT00:00:00Z')
+        # Pull last 730 days (2 years) for full history
+        y = (datetime.utcnow()-timedelta(days=730)).strftime('%Y-%m-%dT00:00:00Z')
         t = datetime.utcnow().strftime('%Y-%m-%dT23:59:59Z')
         for b in authnet_post({'getSettledBatchListRequest': {'merchantAuthentication': auth, 'includeStatistics': False, 'firstSettlementDate': y, 'lastSettlementDate': t}}).get('batchList', []):
             for tx in authnet_post({'getTransactionListRequest': {'merchantAuthentication': auth, 'batchId': b['batchId'], 'paging': {'limit':1000,'offset':1}}}).get('transactions', []):
