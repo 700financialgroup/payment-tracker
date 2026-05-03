@@ -240,8 +240,8 @@ def pull_ghl_clients():
                 'query': 'client.round'
             }
             if after_id:
-                params['searchAfter'] = after_val
-                params['searchAfterId'] = after_id
+                params['startAfter'] = after_val
+                params['startAfterId'] = after_id
             r = requests.get('https://services.leadconnectorhq.com/contacts/',
                 headers=headers, params=params, timeout=15)
             if r.status_code != 200:
@@ -300,15 +300,15 @@ def pull_ghl_clients():
                         'tags': tags,
                         'dateAdded': c.get('dateAdded', '')[:10]
                     })
-            # Pagination
-            last = batch[-1] if batch else None
-            sa = last.get('searchAfter', []) if last else []
+            # Pagination using searchAfter array on last contact
+            if len(batch) < 100:
+                break
+            last = batch[-1]
+            sa = last.get('searchAfter', [])
             if len(sa) >= 2:
                 after_val = sa[0]
                 after_id = sa[1]
             else:
-                break
-            if len(batch) < 100:
                 break
         except Exception as e:
             print(f"  GHL error: {e}")
