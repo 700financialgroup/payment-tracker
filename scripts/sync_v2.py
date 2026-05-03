@@ -113,10 +113,29 @@ def pull_authnet():
                 'settled': False, 'pending': tx['transactionStatus']=='capturedPendingSettlement'})
     except Exception as e: print(f"  Unsettled error: {e}")
     try:
-        # Pull last 730 days (2 years) for full history
-        y = (datetime.utcnow()-timedelta(days=730)).strftime('%Y-%m-%dT00:00:00Z')
-        t = datetime.utcnow().strftime('%Y-%m-%dT23:59:59Z')
-        for b in authnet_post({'getSettledBatchListRequest': {'merchantAuthentication': auth, 'includeStatistics': False, 'firstSettlementDate': y, 'lastSettlementDate': t}}).get('batchList', []):
+        # Pull month by month from Oct 2025 to now (Auth.net has 31-day limit per request)
+        all_batches = []
+        cur = datetime(2025, 10, 1)
+        while cur <= datetime.utcnow():
+            if cur.month == 12:
+                next_m = datetime(cur.year + 1, 1, 1)
+            else:
+                next_m = datetime(cur.year, cur.month + 1, 1)
+            end = min(next_m - timedelta(seconds=1), datetime.utcnow())
+            try:
+                result = authnet_post({'getSettledBatchListRequest': {
+                    'merchantAuthentication': auth, 'includeStatistics': False,
+                    'firstSettlementDate': cur.strftime('%Y-%m-%dT00:00:00Z'),
+                    'lastSettlementDate': end.strftime('%Y-%m-%dT23:59:59Z')
+                }})
+                batches = result.get('batchList', [])
+                if batches:
+                    all_batches.extend(batches)
+                    print(f"  Auth.net {cur.strftime('%b %Y')}: {len(batches)} batches")
+            except Exception as e:
+                print(f"  Auth.net {cur.strftime('%b %Y')} error: {e}")
+            cur = next_m
+        for b in all_batches:
             for tx in authnet_post({'getTransactionListRequest': {'merchantAuthentication': auth, 'batchId': b['batchId'], 'paging': {'limit':1000,'offset':1}}}).get('transactions', []):
                 payments.append({'id': tx['transId'], 'date': b.get('settlementTimeLocal','')[:10],
                     'time': b.get('settlementTimeLocal','')[11:16],
@@ -277,6 +296,32 @@ def load_fanbasis_historical():
             return data
     except Exception as e:
         print(f"  Historical Fanbasis load error: {e}")
+    return []
+
+def load_zelle_historical():
+    """Load historical Zelle data from GitHub repo"""
+    try:
+        url = f'https://raw.githubusercontent.com/{GITHUB_REPO}/main/data/zelle_historical.json'
+        r = requests.get(url + '?t=' + str(int(__import__("time").time())), timeout=10)
+        if r.status_code == 200:
+            data = r.json()
+            print(f"  Loaded {len(data)} historical Zelle records")
+            return data
+    except Exception as e:
+        print(f"  Historical Zelle load error: {e}")
+    return []
+
+def load_authnet_historical():
+    """Load historical Auth.net data from GitHub repo"""
+    try:
+        url = f'https://raw.githubusercontent.com/{GITHUB_REPO}/main/data/authnet_historical.json'
+        r = requests.get(url + '?t=' + str(int(__import__("time").time())), timeout=10)
+        if r.status_code == 200:
+            data = r.json()
+            print(f"  Loaded {len(data)} historical Auth.net records")
+            return data
+    except Exception as e:
+        print(f"  Historical Auth.net load error: {e}")
     return []
 
 def pull_ghl_clients():
@@ -455,6 +500,16 @@ if __name__ == '__main__':
         if historical:
             all_payments.extend(historical)
     except Exception as e: errors.append(f"Fanbasis historical: {e}")
+    try:
+        zelle_hist = load_zelle_historical()
+        if zelle_hist:
+            all_payments.extend(zelle_hist)
+    except Exception as e: errors.append(f"Zelle historical: {e}")
+    try:
+        authnet_hist = load_authnet_historical()
+        if authnet_hist:
+            all_payments.extend(authnet_hist)
+    except Exception as e: errors.append(f"Auth.net historical: {e}")
     write_to_github(all_payments)
     try:
         ghl_clients = pull_ghl_clients()
