@@ -90,7 +90,7 @@ def pull_stripe():
                 'name': name, 'amount': pi['amount']/100, 'status': pi['status'],
                 'platform': 'Stripe', 'ok': pi['status']=='succeeded',
                 'settled': pi['status']=='succeeded', 'pending': False})
-        url = (f"https://api.stripe.com/v1/payment_intents?limit=100&created[gte]={since}&starting_after={data['data'][-1]['id']}"
+        url = (f"https://api.stripe.com/v1/payment_intents?limit=100&starting_after={data['data'][-1]['id']}"
                if data.get('has_more') else None)
     print(f"  {len(payments)} Stripe payments found")
     return payments
