@@ -253,7 +253,7 @@ def pull_ghl_clients():
             print(f"  Page {page}: {len(batch)} contacts")
             if not batch:
                 break
-                for c in batch:
+            for c in batch:
                     cid = c.get('id')
                     if cid in seen_ids:
                         continue
