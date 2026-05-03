@@ -1,0 +1,30 @@
+{
+  "updated": "2026-05-03 04:18 UTC",
+  "today_total": 0,
+  "payments": [
+    {
+      "id": "81594303635",
+      "date": "2026-05-02",
+      "time": "12:01",
+      "name": "Alida Capellan",
+      "amount": 160.0,
+      "status": "capturedPendingSettlement",
+      "platform": "Auth.net",
+      "ok": true,
+      "settled": false,
+      "pending": true
+    },
+    {
+      "id": "81592866212",
+      "date": "2026-05-01",
+      "time": "22:31",
+      "name": "Yosmarlin",
+      "amount": 200.0,
+      "status": "declined",
+      "platform": "Auth.net",
+      "ok": false,
+      "settled": true,
+      "pending": false
+    }
+  ]
+}
