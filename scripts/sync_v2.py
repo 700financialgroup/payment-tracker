@@ -21,6 +21,16 @@ def clean(text):
     text = re.sub(r'<[^>]+>', ' ', text or '')
     return ' '.join(text.split()).strip()
 
+def short_plan(plan):
+    p = plan.lower()
+    if '900' in p and 'promo' in p: return '900 Plan Promo'
+    if '900' in p and ('oferta' in p or 'reparacion' in p): return '900 Plan (ES)'
+    if '900' in p: return '900 Plan'
+    if '500' in p: return '500 Plan'
+    if 'monthly' in p: return 'Monthly'
+    if 'mentorship' in p: return 'Mentorship'
+    return plan[:20] if plan else 'Plan'
+
 def get_body(msg):
     html_body = None
     if msg.is_multipart():
@@ -177,7 +187,7 @@ def pull_gmail():
             if p:
                 payments.append({'id': f'fb_sale_{p["num"]}_{p["date"]}', 'date': p['date'],
                     'time': '', 'name': p['name'], 'amount': p['amount'],
-                    'status': f'New Sale — {p["plan"]}', 'platform': 'Fanbasis',
+                    'status': 'New Sale', 'platform': 'Fanbasis',
                     'ok': True, 'settled': True, 'pending': False})
                 print(f"  Fanbasis New Sale: {p['name']}")
 
@@ -190,7 +200,7 @@ def pull_gmail():
             if p:
                 payments.append({'id': f'fb_renewal_{p["num"]}_{p["date"]}', 'date': p['date'],
                     'time': '', 'name': p['name'], 'amount': p['amount'],
-                    'status': f'Renewal — {p["plan"]}', 'platform': 'Fanbasis',
+                    'status': 'Renewal', 'platform': 'Fanbasis',
                     'ok': True, 'settled': True, 'pending': False})
                 print(f"  Fanbasis Renewal: {p['name']}")
 
