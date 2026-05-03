@@ -92,10 +92,20 @@ def decode_str(s):
     return result
 
 def get_body(msg):
+    # Try plain text first
     if msg.is_multipart():
         for part in msg.walk():
             if part.get_content_type() == 'text/plain':
                 try: return part.get_payload(decode=True).decode('utf-8', errors='ignore')
+                except: pass
+        # Fall back to HTML if no plain text
+        for part in msg.walk():
+            if part.get_content_type() == 'text/html':
+                try:
+                    html = part.get_payload(decode=True).decode('utf-8', errors='ignore')
+                    # Strip HTML tags for regex parsing
+                    import re as re2
+                    return re2.sub(r'<[^>]+>', ' ', html)
                 except: pass
     else:
         try: return msg.get_payload(decode=True).decode('utf-8', errors='ignore')
@@ -115,7 +125,7 @@ def pull_gmail():
         mail.login(GMAIL_ADDRESS, GMAIL_PASSWORD)
         mail.select('INBOX')
         
-        since_date = (datetime.utcnow() - timedelta(days=3)).strftime('%d-%b-%Y')
+        since_date = (datetime.utcnow() - timedelta(days=14)).strftime('%d-%b-%Y')
 
         # ── ZELLE ──────────────────────────────────────────────
         _, msgs = mail.search(None, f'(FROM "no.reply.alerts@chase.com" SUBJECT "You received money with Zelle" SINCE {since_date})')
