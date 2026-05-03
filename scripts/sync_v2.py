@@ -409,8 +409,10 @@ def write_to_github(all_payments):
     for p in all_payments:
         if p['id'] not in seen:
             seen.add(p['id']); unique.append(p)
+    all_time_total = round(sum(p['amount'] for p in unique if p.get('ok')), 2)
     payload = {'updated': now,
-        'today_total': sum(p['amount'] for p in unique if p.get('date')==today and p.get('ok')),
+        'today_total': round(sum(p['amount'] for p in unique if p.get('date')==today and p.get('ok')), 2),
+        'all_time_total': all_time_total,
         'payments': sorted(unique, key=lambda x: x.get('date',''), reverse=True)}
     content = base64.b64encode(json.dumps(payload, indent=2).encode()).decode()
     headers = {'Authorization': f'Bearer {GITHUB_TOKEN}', 'Accept': 'application/vnd.github.v3+json'}
