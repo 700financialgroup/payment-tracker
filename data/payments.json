@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03 05:12 UTC",
+  "updated": "2026-05-03 05:15 UTC",
   "today_total": 0,
   "payments": [
     {
@@ -183,6 +183,18 @@
       "pending": false
     },
     {
+      "id": "zelle_29001110372",
+      "date": "2026-04-28",
+      "time": "",
+      "name": "Kersy Gonzalez",
+      "amount": 175.0,
+      "status": "received",
+      "platform": "Zelle",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
       "id": "fb_renewal_19244_2026-04-28",
       "date": "2026-04-28",
       "time": "",
@@ -226,6 +238,18 @@
       "amount": 160.0,
       "status": "Renewal \u2014 Oferta De Reparacion De Credito 900",
       "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "zelle_28978602000",
+      "date": "2026-04-26",
+      "time": "",
+      "name": "Zelle Sender",
+      "amount": 120.0,
+      "status": "received",
+      "platform": "Zelle",
       "ok": true,
       "settled": true,
       "pending": false
@@ -300,6 +324,18 @@
       "platform": "Fanbasis",
       "ok": false,
       "settled": false,
+      "pending": false
+    },
+    {
+      "id": "zelle_28948822993",
+      "date": "2026-04-24",
+      "time": "",
+      "name": "Lorena Arroyo Henriquez",
+      "amount": 100.0,
+      "status": "received",
+      "platform": "Zelle",
+      "ok": true,
+      "settled": true,
       "pending": false
     },
     {
@@ -387,6 +423,18 @@
       "pending": false
     },
     {
+      "id": "zelle_28915141258",
+      "date": "2026-04-21",
+      "time": "",
+      "name": "Paula Romero",
+      "amount": 175.0,
+      "status": "received",
+      "platform": "Zelle",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
       "id": "fb_sale_18879_2026-04-21",
       "date": "2026-04-21",
       "time": "",
@@ -418,6 +466,18 @@
       "amount": 175.0,
       "status": "Renewal \u2014 900 Payment Plan",
       "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "zelle_28894205017",
+      "date": "2026-04-19",
+      "time": "",
+      "name": "Casilda Inoa Guzman",
+      "amount": 100.0,
+      "status": "received",
+      "platform": "Zelle",
       "ok": true,
       "settled": true,
       "pending": false
