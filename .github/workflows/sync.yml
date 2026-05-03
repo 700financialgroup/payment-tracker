@@ -14,13 +14,12 @@ jobs:
         with:
           python-version: '3.11'
       - name: Install deps
-        run: pip install requests gspread google-auth
+        run: pip install requests
       - name: Run PayFlow Sync
         env:
           STRIPE_SECRET_KEY: ${{secrets.STRIPE_SECRET_KEY}}
           AUTHNET_LOGIN: ${{secrets.AUTHNET_LOGIN}}
           AUTHNET_KEY: ${{secrets.AUTHNET_KEY}}
-          GOOGLE_SHEET_ID: ${{secrets.GOOGLE_SHEET_ID}}
-          GOOGLE_CREDS_JSON: ${{secrets.GOOGLE_CREDS_JSON}}
+          GOOGLE_SHEETS_WEBHOOK: ${{secrets.GOOGLE_SHEETS_WEBHOOK}}
           SLACK_WEBHOOK_URL: ${{secrets.SLACK_WEBHOOK_URL}}
-        run: python scripts/sync.py
+        run: python scripts/sync_v2.py
