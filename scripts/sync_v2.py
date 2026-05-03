@@ -217,19 +217,45 @@ def pull_gmail():
                     'ok': True, 'settled': True, 'pending': False})
                 print(f"  Fanbasis Renewal: {p['name']}")
 
-        # FANBASIS DISPUTE
+        # FANBASIS DISPUTE — parse plain text body, deduplicate alerts
+        seen_disputes = load_seen_disputes()
+        new_seen = set(seen_disputes)
         _, msgs = mail.search(None, f'(FROM "support@fanbasis.com" SUBJECT "A customer has opened a dispute" SINCE {since})')
         nums = msgs[0].split() if msgs[0] else []
         for num in nums:
-            p = parse_fb(num, 'Dispute')
-            if p:
-                payments.append({'id': f'fb_dispute_{p["num"]}_{p["date"]}', 'date': p['date'],
-                    'time': '', 'name': p['name'], 'amount': p['amount'],
+            try:
+                _, data = mail.fetch(num, '(RFC822)')
+                msg = email.message_from_bytes(data[0][1])
+                body = get_body(msg)
+                nm = re.search(r'\*\*Customer:\*\*\s*(.+?)(?:\r?\n|$)', body)
+                am = re.search(r'\*\*Amount:\*\*\s*\$?([\d,]+\.?\d*)', body)
+                pm = re.search(r'\*\*Product:\*\*\s*(.+?)(?:\r?\n|$)', body)
+                rm = re.search(r'\*\*Reason:\*\*\s*(.+?)(?:\r?\n|$)', body)
+                dm = re.search(r'\*\*Last day to submit evidence:\*\*\s*(.+?)(?:\r?\n|$)', body)
+                name = nm.group(1).strip().title() if nm else 'Unknown Client'
+                amount = float(am.group(1).replace(',','')) if am else 0.0
+                product = pm.group(1).strip() if pm else ''
+                reason = rm.group(1).strip() if rm else ''
+                deadline = dm.group(1).strip() if dm else ''
+                pay_date = get_date(msg)
+                dispute_id = f'fb_dispute_{num.decode()}_{pay_date}'
+                payments.append({'id': dispute_id, 'date': pay_date,
+                    'time': '', 'name': name, 'amount': amount,
                     'status': 'DISPUTE OPENED', 'platform': 'Fanbasis',
                     'ok': False, 'settled': False, 'pending': False})
-                print(f"  ⚠️ Dispute: {p['name']}")
-                if SLACK_WEBHOOK:
-                    requests.post(SLACK_WEBHOOK, json={'message': f'🚨 *FANBASIS DISPUTE*\n\nClient: *{p["name"]}*\nAmount: ${p["amount"]}\n\n<@U0AU1BFUJCD> — action required!', 'type': 'billing'}, timeout=5)
+                if dispute_id not in seen_disputes:
+                    new_seen.add(dispute_id)
+                    print(f"  ⚠️ NEW Dispute: {name} ${amount} — {reason}")
+                    if SLACK_WEBHOOK:
+                        requests.post(SLACK_WEBHOOK, json={
+                            'message': f'🚨 *FANBASIS DISPUTE OPENED*\n\n• Client: *{name}*\n• Product: {product}\n• Amount: *${amount}*\n• Reason: {reason}\n• Deadline: {deadline}\n\n<@U0AU1BFUJCD> — submit evidence ASAP!',
+                            'type': 'billing'}, timeout=5)
+                else:
+                    print(f"  ⚠️ Known dispute (no re-alert): {name}")
+            except Exception as e:
+                print(f"  Dispute error: {e}")
+        if new_seen != seen_disputes:
+            save_seen_disputes(new_seen)
 
         mail.close()
         mail.logout()
