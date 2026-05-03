@@ -1,1 +1,131 @@
-IiIiCjcwMCBDcmVkaXQgUGF5Rmxvd8KgLS0gQXV0byBTeW5jIEJvdCB2MgpSdW5zIGV2ZXJ5IDMwIG1pbnV0ZXMgdmlhIEdpdEh1YiBBY3Rpb25zClB1bGxzIGZyb206IFN0cmlwZSwgQXV0aC5uZXQKV3JpdGVzIHRvOiBHb29nbGUgU2hlZXRzIHZpYSBBcHBzIFNjcmlwdCBXZWIgQXBwCiIiIgoKaW1wb3J0IG9zCmltcG9ydCBqc29uCmltcG9ydCByZXF1ZXN0cwpmcm9tIGRhdGV0aW1lIGltcG9ydCBkYXRldGltZSwgdGltZWRlbHRhCgpTVFJJUEVfS0VZID0gb3MuZW52aXJvblsnU1RSSVBFX1NFQ1JFVF9LRVknXQpBVVRITkVUX0xPR0lOID0gb3MuZW52aXJvblsnQVVUSE5FVF9MT0dJTiddCkFVVEhORVRfS0VZID0gb3MuZW52aXJvblsnQVVUSE5FVF9LRVknXQpTSEVFVFNfV0VCSE9PSyA9IG9zLmVudmlyb25bJ0dPT0dMRV9TSEVFVFNfV0VCSE9PSyddClNMQUNLX1dFQkhPT0sgPSBvcy5lbnZpcm9uLmdldCgnU0xBQ0tfV0VCSE9PS19VUkwnLCAnJykKQVVUSE5FVF9VUkwgPSAnaHR0cHM6Ly9hcGkuYXV0aG9yaXplLm5ldC94bWwvdjEvcmVxdWVzdC5hcGknCgoKZGVmIHB1bGxfc3RyaXBlKCk6CiAgICBwcmludCgi8J+kpiBQdWxsaW5nIFN0cmlwZS4uLiIpCiAgICBwYXltZW50cyA9IFtdCiAgICBzaW5jZSA9IGludCgoZGF0ZXRpbWUudXRjbm93KCkgLSB0aW1lZGVsdGEoaG91cnM9NDgpKS50aW1lc3RhbXAoKSkKICAgIGhlYWRlcnMgPSB7J0F1dGhvcml6YXRpb24nOiBmJ0JlYXJlciB7U1RSSVBFX0tFWX0nfQogICAgdXJsID0gZidodHRwczovL2FwaS5zdHJpcGUuY29tL3YxL3BheW1lbnRfaW50ZW50cz9saW1pdD0xMDAmY3JlYXRlZFtndGVdPXtzaW5jZX0nCiAgICB3aGlsZSB1cmw6CiAgICAgICAgZGF0YSA9IHJlcXVlc3RzLmdldCh1cmwsIGhlYWRlcnM9aGVhZGVycykuanNvbigpCiAgICAgICAgZm9yIHBpIGluIGRhdGEuZ2V0KCdkYXRhJywgW10pOgogICAgICAgICAgICBuYW1lID0gcGkuZ2V0KCdkZXNjcmlwdGlvbicsICcnKQogICAgICAgICAgICBpZiBwaS5nZXQoJ2N1c3RvbWVyJyk6CiAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgYyA9IHJlcXVlc3RzLmdldChmImh0dHBzOi8vYXBpLnN0cmlwZS5jb20vdjEvY3VzdG9tZXJzL3twaVsnY3VzdG9tZXInXX0iLCBoZWFkZXJzPWhlYWRlcnMpLmpzb24oKQogICAgICAgICAgICAgICAgICAgIG5hbWUgPSBjLmdldCgnbmFtZScpIG9yIGMuZ2V0KCdlbWFpbCcsICcnKS5zcGxpdCgnQCcpWzBdIG9yIG5hbWUKICAgICAgICAgICAgICAgIGV4Y2VwdDogcGFzcwogICAgICAgICAgICBwYXltZW50cy5hcHBlbmQoeydpZCc6IHBpWydpZCddLCAnZGF0ZSc6IGRhdGV0aW1lLnV0Y2Zyb210aW1lc3RhbXAocGlbJ2NyZWF0ZWQnXSkuc3RyZnRpbWUoJyVZLSVtLSVkJyksICd0aW1lJzogZGF0ZXRpbWUudXRjZnJvbXRpbWVzdGFtcChwaVsnY3JlYXRlZCddKS5zdHJmdGltZSgnJUg6JU0nKSwgJ25hbWUnOiBuYW1lLCAnYW1vdW50JzogcGlbJ2Ftb3VudCddLzEwMCwgJ3N0YXR1cyc6IHBpWydzdGF0dXMnXSwgJ3BsYXRmb3JtJzogJ1N0cmlwZScsICdvayc6IHBpWydzdGF0dXMnXT09J3N1Y2NlZWRlZCcsICdzZXR0bGVkJzogcGlbJ3N0YXR1cyddPT0nc3VjY2VlZGVkJywgJ3BlbmRpbmcnOiBGYWxzZX0pCiAgICAgICAgdXJsID0gKGYiaHR0cHM6Ly9hcGkuc3RyaXBlLmNvbS92MS9wYXltZW50X2ludGVudHM/bGltaXQ9MTAwJmNyZWF0ZWRbZ3RlXT17c2luY2V9JnN0YXJ0aW5nX2FmdGVyPXtkYXRhWydkYXRhJ11bLTFdWydpZCddfSIgaWYgZGF0YS5nZXQoJ2hhc19tb3JlJykgZWxzZSBOb25lKQogICAgcHJpbnQoZiIgIOKchSB7bGVuKHBheW1lbnRzKX0gU3RyaXBlIHBheW1lbnRzIikKICAgIHJldHVybiBwYXltZW50cwoKCmRlZiBhdXRobmV0X3Bvc3QocCk6CiAgICByID0gcmVxdWVzdHMucG9zdChBVVRITkVUX1VSTCwganNvbj1wLCBoZWFkZXJzPXsnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nfSkKICAgIHJldHVybiBqc29uLmxvYWRzKHIudGV4dC5sc3RyaXAoJ1x1ZmVmZicpKQoKCmRlZiBwdWxsX2F1dGhuZXQoKToKICAgIHByaW50KCLwn5SmIFB1bGxpbmcgQXV0aC5uZXQuLi4iKQogICAgcGF5bWVudHMgPSBbXQogICAgYXV0aCA9IHsnbmFtZSc6IEFVVEhORVRfTE9HSU4sICd0cmFuc2FjdGlvbktleSc6IEFVVEhORVRfS0VZfQogICAgdHJ5OgogICAgICAgIHJlc3AgPSBhdXRobmV0X3Bvc3QoeydnZXRVbnNldHRsZWRUcmFuc2FjdGlvbkxpc3RSZXF1ZXN0JzogeydtZXJjaGFudEF1dGhlbnRpY2F0aW9uJzogYXV0aCwgJ3BhZ2luZyc6IHsnbGltaXQnOiAxMDAwLCAnb2Zmc2V0JzogMX19fSkKICAgICAgICBmb3IgdHggaW4gcmVzcC5nZXQoJ3RyYW5zYWN0aW9ucycsIFtdKToKICAgICAgICAgICAgcGF5bWVudHMuYXBwZW5kKHsnaWQnOiB0eFsndHJhbnNJZCddLCAnZGF0ZSc6IHR4LmdldCgnc3VibWl0VGltZUxvY2FsJywnJylbOjEwXSwgJ3RpbWUnOiB0eC5nZXQoJ3N1Ym1pdFRpbWVMb2NhbCcsJycpWzExOjE2XSwgJ25hbWUnOiBmInt0eC5nZXQoJ2ZpcnN0TmFtZScsJycpfSB7dHguZ2V0KCdsYXN0TmFtZScsJycpfSIuc3RyaXAoKSwgJ2Ftb3VudCc6IGZsb2F0KHR4LmdldCgnc2V0dGxlQW1vdW50JywwKSksICdzdGF0dXMnOiB0eFsndHJhbnNhY3Rpb25TdGF0dXMnXSwgJ3BsYXRmb3JtJzogJ0F1dGgubmV0JywgJ29rJzogdHhbJ3RyYW5zYWN0aW9uU3RhdHVzJ10gbm90IGluIFsnZGVjbGluZWQnLCd2b2lkZWQnXSwgJ3NldHRsZWQnOiBGYWxzZSwgJ3BlbmRpbmcnOiB0eFsndHJhbnNhY3Rpb25TdGF0dXMnXT09J2NhcHR1cmVkUGVuZGluZ1NldHRsZW1lbnQnfSkKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZTogcHJpbnQoZiIgIOKaoO+4jyBVbnNldHRsZWQ6IHtlfSIpCiAgICB0cnk6CiAgICAgICAgeSA9IChkYXRldGltZS51dGNub3coKSAtIHRpbWVkZWx0YShkYXlzPTIpKS5zdHJmdGltZSgnJVktJW0tJWRUMDA6MDA6MDBaJykKICAgICAgICB0ID0gZGF0ZXRpbWUudXRjbm93KCkuc3RyZnRpbWUoJyVZLSVtLSVkVDIzOjU5OjU5WicpCiAgICAgICAgYmF0Y2hlcyA9IGF1dGhuZXRfcG9zdCh7J2dldFNldHRsZWRCYXRjaExpc3RSZXF1ZXN0JzogeydtZXJjaGFudEF1dGhlbnRpY2F0aW9uJzogYXV0aCwgJ2luY2x1ZGVTdGF0aXN0aWNzJzogRmFsc2UsICdmaXJzdFNldHRsZW1lbnREYXRlJzogeSwgJ2xhc3RTZXR0bGVtZW50RGF0ZSc6IHR9fSkuZ2V0KCdiYXRjaExpc3QnLFtdKQogICAgICAgIGZvciBiIGluIGJhdGNoZXM6CiAgICAgICAgICAgIGZvciB0eCBpbiBhdXRobmV0X3Bvc3QoeydnZXRUcmFuc2FjdGlvbkxpc3RSZXF1ZXN0JzogeydtZXJjaGFudEF1dGhlbnRpY2F0aW9uJzogYXV0aCwgJ2JhdGNoSWQnOiBiWydiYXRjaElkJ10sICdwYWdpbmcnOiB7J2xpbWl0JzoxMDAwLCdvZmZzZXQnOjF9fX0pLmdldCgndHJhbnNhY3Rpb25zJyxbXSk6CiAgICAgICAgICAgICAgICBwYXltZW50cy5hcHBlbmQoeydpZCc6IHR4Wyd0cmFuc0lkJ10sICdkYXRlJzogYi5nZXQoJ3NldHRsZW1lbnRUaW1lTG9jYWwnLCcnKVs6MTBdLCAndGltZSc6IGIuZ2V0KCdzZXR0bGVtZW50VGltZUxvY2FsJywnJylbMTE6MTZdLCAnbmFtZSc6IGYie3R4LmdldCgnZmlyc3ROYW1lJywnJyl9IHt0eC5nZXQoJ2xhc3ROYW1lJywnJyl9Ii5zdHJpcCgpLCAnYW1vdW50JzogZmxvYXQodHguZ2V0KCdzZXR0bGVBbW91bnQnLDApKSwgJ3N0YXR1cyc6IHR4Wyd0cmFuc2FjdGlvblN0YXR1cyddLCAncGxhdGZvcm0nOiAnQXV0aC5uZXQnLCAnb2snOiB0eFsndHJhbnNhY3Rpb25TdGF0dXMnXT09J3NldHRsZWRTdWNjZXNzZnVsbHknLCAnc2V0dGxlZCc6IFRydWUsICdwZW5kaW5nJzogRmFsc2V9KQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOiBwcmludChmIiAg4pqg77iPIFNldHRsZWQ6IHtlfSIpCiAgICBwcmludChmIiAg4pyFIHtsZW4ocGF5bWVudHMpfSBBdXRoLm5ldCB0cmFuc2FjdGlvbnMiKQogICAgcmV0dXJuIHBheW1lbnRzCgoKZGVmIHdyaXRlX3RvX3NoZWV0cyhhbGxfcGF5bWVudHMpOgogICAgcHJpbnQoIvCfk50gV3JpdGluZyB0byBHb29nbGUgU2hlZXRzLi4uIikKICAgIG5vdyA9IGRhdGV0aW1lLnV0Y25vdygpLnN0cmZ0aW1lKCclWS0lbS0lZCAlSDolTSBVVEMnKQogICAgcm93cyA9IFtbcC5nZXQoJ2RhdGUnLCcnKSwgcC5nZXQoJ3RpbWUnLCcnKSwgcC5nZXQoJ25hbWUnLCcnKSwgcC5nZXQoJ2Ftb3VudCcsMCksIHAuZ2V0KCdwbGF0Zm9ybScsJycpLCBwLmdldCgnc3RhdHVzJywnJyksICdZRVMnIGlmIHAuZ2V0KCdzZXR0bGVkJykgZWxzZSAnTk8nLCAnWUVTJyBpZiBwLmdldCgncGVuZGluZycpIGVsc2UgJ05PJywgcC5nZXQoJ2lkJywnJyksIG5vd10gZm9yIHAgaW4gc29ydGVkKGFsbF9wYXltZW50cywga2V5PWxhbWJkYSB4OiB4LmdldCgnZGF0ZScsJycpLCByZXZlcnNlPVRydWUpXQogICAgdHJ5OgogICAgICAgIHIgPSByZXF1ZXN0cy5wb3N0KFNIRUVU05fV0VCSE9PSywganNvbj17J2NsZWFyJzpUcnVlLCAncm93cyc6cm93c30sIGhlYWRlcnM9eydDb250ZW50LVR5cGUnOidhcHBsaWNhdGlvbi9qc29uJ30sIHRpbWVvdXQ9MzApCiAgICAgICAgcmVzdWx0ID0gci5qc29uKCkKICAgICAgICBpZiByZXN1bHQuZ2V0KCdvaycpOiBwcmludChmIiAg4pyFIHtsZW4ocm93cyl9IHJvd3Mgd3JpdHRlbiIpOyByZXR1cm4gVHJ1ZQogICAgICAgIGVsc2U6IHByaW50KGYiICDinYwge3Jlc3VsdH0iKTsgcmV0dXJuIEZhbHNlCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6IHByaW50KGYiICDinYwge2V9Iik7IHJldHVybiBGYWxzZQoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBwcmludChmIlxu8JubIFBheUZsb3cgU3luYyBCb3Qg4oCUIHtkYXRldGltZS51dGNub3coKS5zdHJmdGltZSgnJVktJW0tJWQgJUg6JU0gVVRDJyl9XG4iKQogICAgYWxsX3BheW1lbnRzLCBlcnJvcnMgPSBbXSwgW10KICAgIHRyeTogYWxsX3BheW1lbnRzLmV4dGVuZChwdWxsX3N0cmlwZSgpKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOiBlcnJvcnMuYXBwZW5kKGYiU3RyaXBlOiB7ZX0iKQogICAgdHJ5OiBhbGxfcGF5bWVudHMuZXh0ZW5kKHB1bGxfYXV0aG5ldCgpKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOiBlcnJvcnMuYXBwZW5kKGYiQXV0aC5uZXQ6IHtlfSIpCiAgICB3cml0ZV90b19zaGVldHMoYWxsX3BheW1lbnRzKQogICAgdG9kYXkgPSBkYXRldGltZS51dGNub3coKS5zdHJmdGltZSgnJVktJW0tJWQnKQogICAgdG90YWwgPSBzdW0ocC5nZXQoJ2Ftb3VudCcsMCkgZm9yIHAgaW4gYWxsX3BheW1lbnRzIGlmIHAuZ2V0KCdkYXRlJyk9PXRvZGF5IGFuZCBwLmdldCgnb2snKSkKICAgIHByaW50KGYiXG7wn5OHIFN1bW1hcnk6IHtsZW4oYWxsX3BheW1lbnRzKX0gcGF5bWVudHMgfCBUb2RheTogJHt0b3RhbDosLjJmfVxu4pyFIFN5bmMgY29tcGxldGUhIikK
+import os
+import json
+import requests
+from datetime import datetime, timedelta
+
+STRIPE_KEY = os.environ['STRIPE_SECRET_KEY']
+AUTHNET_LOGIN = os.environ['AUTHNET_LOGIN']
+AUTHNET_KEY = os.environ['AUTHNET_KEY']
+SHEETS_WEBHOOK = os.environ['GOOGLE_SHEETS_WEBHOOK']
+SLACK_WEBHOOK = os.environ.get('SLACK_WEBHOOK_URL', '')
+AUTHNET_URL = 'https://api.authorize.net/xml/v1/request.api'
+
+def pull_stripe():
+    print("Pulling Stripe...")
+    payments = []
+    since = int((datetime.utcnow() - timedelta(hours=48)).timestamp())
+    headers = {'Authorization': f'Bearer {STRIPE_KEY}'}
+    url = f'https://api.stripe.com/v1/payment_intents?limit=100&created[gte]={since}'
+    while url:
+        data = requests.get(url, headers=headers).json()
+        for pi in data.get('data', []):
+            name = pi.get('description', '')
+            if pi.get('customer'):
+                try:
+                    c = requests.get(f"https://api.stripe.com/v1/customers/{pi['customer']}", headers=headers).json()
+                    name = c.get('name') or c.get('email', '').split('@')[0] or name
+                except:
+                    pass
+            payments.append({
+                'id': pi['id'],
+                'date': datetime.utcfromtimestamp(pi['created']).strftime('%Y-%m-%d'),
+                'time': datetime.utcfromtimestamp(pi['created']).strftime('%H:%M'),
+                'name': name,
+                'amount': pi['amount'] / 100,
+                'status': pi['status'],
+                'platform': 'Stripe',
+                'ok': pi['status'] == 'succeeded',
+                'settled': pi['status'] == 'succeeded',
+                'pending': False
+            })
+        url = (f"https://api.stripe.com/v1/payment_intents?limit=100&created[gte]={since}&starting_after={data['data'][-1]['id']}"
+               if data.get('has_more') else None)
+    print(f"  {len(payments)} Stripe payments found")
+    return payments
+
+def authnet_post(p):
+    r = requests.post(AUTHNET_URL, json=p, headers={'Content-Type': 'application/json'})
+    return json.loads(r.text.lstrip('\ufeff'))
+
+def pull_authnet():
+    print("Pulling Auth.net...")
+    payments = []
+    auth = {'name': AUTHNET_LOGIN, 'transactionKey': AUTHNET_KEY}
+    try:
+        resp = authnet_post({'getUnsettledTransactionListRequest': {'merchantAuthentication': auth, 'paging': {'limit': 1000, 'offset': 1}}})
+        for tx in resp.get('transactions', []):
+            payments.append({
+                'id': tx['transId'],
+                'date': tx.get('submitTimeLocal', '')[:10],
+                'time': tx.get('submitTimeLocal', '')[11:16],
+                'name': f"{tx.get('firstName','')} {tx.get('lastName','')}".strip(),
+                'amount': float(tx.get('settleAmount', 0)),
+                'status': tx['transactionStatus'],
+                'platform': 'Auth.net',
+                'ok': tx['transactionStatus'] not in ['declined', 'voided'],
+                'settled': False,
+                'pending': tx['transactionStatus'] == 'capturedPendingSettlement'
+            })
+    except Exception as e:
+        print(f"  Unsettled error: {e}")
+    try:
+        y = (datetime.utcnow() - timedelta(days=2)).strftime('%Y-%m-%dT00:00:00Z')
+        t = datetime.utcnow().strftime('%Y-%m-%dT23:59:59Z')
+        batches = authnet_post({'getSettledBatchListRequest': {'merchantAuthentication': auth, 'includeStatistics': False, 'firstSettlementDate': y, 'lastSettlementDate': t}}).get('batchList', [])
+        for b in batches:
+            for tx in authnet_post({'getTransactionListRequest': {'merchantAuthentication': auth, 'batchId': b['batchId'], 'paging': {'limit': 1000, 'offset': 1}}}).get('transactions', []):
+                payments.append({
+                    'id': tx['transId'],
+                    'date': b.get('settlementTimeLocal', '')[:10],
+                    'time': b.get('settlementTimeLocal', '')[11:16],
+                    'name': f"{tx.get('firstName','')} {tx.get('lastName','')}".strip(),
+                    'amount': float(tx.get('settleAmount', 0)),
+                    'status': tx['transactionStatus'],
+                    'platform': 'Auth.net',
+                    'ok': tx['transactionStatus'] == 'settledSuccessfully',
+                    'settled': True,
+                    'pending': False
+                })
+    except Exception as e:
+        print(f"  Settled error: {e}")
+    print(f"  {len(payments)} Auth.net transactions found")
+    return payments
+
+def write_to_sheets(all_payments):
+    print("Writing to Google Sheets...")
+    now = datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')
+    rows = [[p.get('date',''), p.get('time',''), p.get('name',''), p.get('amount',0),
+             p.get('platform',''), p.get('status',''),
+             'YES' if p.get('settled') else 'NO',
+             'YES' if p.get('pending') else 'NO',
+             p.get('id',''), now]
+            for p in sorted(all_payments, key=lambda x: x.get('date',''), reverse=True)]
+    try:
+        r = requests.post(SHEETS_WEBHOOK, json={'clear': True, 'rows': rows},
+                         headers={'Content-Type': 'application/json'}, timeout=30)
+        result = r.json()
+        if result.get('ok'):
+            print(f"  {len(rows)} rows written to Google Sheets")
+            return True
+        else:
+            print(f"  Sheets error: {result}")
+            return False
+    except Exception as e:
+        print(f"  Error: {e}")
+        return False
+
+if __name__ == '__main__':
+    print(f"\nPayFlow Sync Bot - {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}\n")
+    all_payments, errors = [], []
+    try:
+        all_payments.extend(pull_stripe())
+    except Exception as e:
+        errors.append(f"Stripe: {e}")
+    try:
+        all_payments.extend(pull_authnet())
+    except Exception as e:
+        errors.append(f"Auth.net: {e}")
+    write_to_sheets(all_payments)
+    today = datetime.utcnow().strftime('%Y-%m-%d')
+    total = sum(p.get('amount', 0) for p in all_payments if p.get('date') == today and p.get('ok'))
+    print(f"\nSummary: {len(all_payments)} payments | Today: ${total:,.2f}\nSync complete!")
