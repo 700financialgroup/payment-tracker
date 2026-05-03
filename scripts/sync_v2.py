@@ -114,8 +114,10 @@ def pull_authnet():
     except Exception as e: print(f"  Unsettled error: {e}")
     try:
         # Pull month by month from Oct 2025 to now (Auth.net has 31-day limit per request)
+        # NOTE: Historical export covers Oct 2025 onward so only pull last 3 days here
         all_batches = []
-        cur = datetime(2025, 10, 1)
+        cur = datetime.utcnow() - timedelta(days=3)
+        cur = datetime(cur.year, cur.month, cur.day)  # normalize to day start
         while cur <= datetime.utcnow():
             if cur.month == 12:
                 next_m = datetime(cur.year + 1, 1, 1)
@@ -131,9 +133,8 @@ def pull_authnet():
                 batches = result.get('batchList', [])
                 if batches:
                     all_batches.extend(batches)
-                    print(f"  Auth.net {cur.strftime('%b %Y')}: {len(batches)} batches")
             except Exception as e:
-                print(f"  Auth.net {cur.strftime('%b %Y')} error: {e}")
+                print(f"  Auth.net error: {e}")
             cur = next_m
         for b in all_batches:
             for tx in authnet_post({'getTransactionListRequest': {'merchantAuthentication': auth, 'batchId': b['batchId'], 'paging': {'limit':1000,'offset':1}}}).get('transactions', []):
