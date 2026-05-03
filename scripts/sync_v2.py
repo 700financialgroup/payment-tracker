@@ -123,12 +123,13 @@ def pull_gmail():
     try:
         mail = imaplib.IMAP4_SSL('imap.gmail.com')
         mail.login(GMAIL_ADDRESS, GMAIL_PASSWORD)
-        mail.select('INBOX')
+        mail.select('"[Gmail]/All Mail"')
         
         since_date = (datetime.utcnow() - timedelta(days=14)).strftime('%d-%b-%Y')
 
         # ── ZELLE ──────────────────────────────────────────────
         _, msgs = mail.search(None, f'(FROM "no.reply.alerts@chase.com" SUBJECT "You received money with Zelle" SINCE {since_date})')
+        print(f'  Zelle emails found: {len(msgs[0].split()) if msgs[0] else 0}')
         for num in msgs[0].split():
             try:
                 _, data = mail.fetch(num, '(RFC822)')
@@ -161,6 +162,7 @@ def pull_gmail():
 
         # ── FANBASIS NEW SALE ───────────────────────────────────
         _, msgs = mail.search(None, f'(FROM "support@fanbasis.com" SUBJECT "New Sale" SINCE {since_date})')
+        print(f'  Fanbasis New Sale emails: {len(msgs[0].split()) if msgs[0] else 0}')
         for num in msgs[0].split():
             try:
                 _, data = mail.fetch(num, '(RFC822)')
@@ -191,6 +193,7 @@ def pull_gmail():
 
         # ── FANBASIS SUBSCRIPTION RENEWAL ──────────────────────
         _, msgs = mail.search(None, f'(FROM "support@fanbasis.com" SUBJECT "New Subscription Renewal" SINCE {since_date})')
+        print(f'  Fanbasis Renewal emails: {len(msgs[0].split()) if msgs[0] else 0}')
         for num in msgs[0].split():
             try:
                 _, data = mail.fetch(num, '(RFC822)')
