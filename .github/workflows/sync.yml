@@ -24,4 +24,6 @@ jobs:
           AUTHNET_KEY: ${{secrets.AUTHNET_KEY}}
           SLACK_WEBHOOK_URL: ${{secrets.SLACK_WEBHOOK_URL}}
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          GMAIL_APP_PASSWORD: ${{secrets.GMAIL_APP_PASSWORD}}
+          GMAIL_ADDRESS: ${{secrets.GMAIL_ADDRESS}}
         run: python scripts/sync_v2.py
