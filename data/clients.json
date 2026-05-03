@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-03 05:43 UTC",
-  "total": 100,
+  "updated": "2026-05-03 05:45 UTC",
+  "total": 297,
   "clients": [
     {
       "id": "MKO9dFcJ4FqyuU8WJzHq",
@@ -283,6 +283,144 @@
         "language: spanish"
       ],
       "dateAdded": "2025-12-07"
+    },
+    {
+      "id": "YMQrfalonqTX1xPQBG9f",
+      "name": "angelica ortiz",
+      "phone": "+19177670332",
+      "email": "angie.ortiz9@aol.com",
+      "round": 1,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show"
+      ],
+      "tags": [
+        "booked appointment",
+        "no show to call",
+        "client.round1",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-29"
+    },
+    {
+      "id": "SJppu763pBWHhb8h7nqr",
+      "name": "osnaldy alvarez",
+      "phone": "+19294791748",
+      "email": "osnaldy1997@icloud.com",
+      "round": 1,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail",
+        "sla_breached"
+      ],
+      "tags": [
+        "payment.deposit_paid",
+        "booked appointment",
+        "idiq fail",
+        "client.round1",
+        "language: spanish",
+        "sla-breached"
+      ],
+      "dateAdded": "2025-11-28"
+    },
+    {
+      "id": "y02oYvHevOnfLLInbMT2",
+      "name": "esthefany pena de paulino",
+      "phone": "+17187908075",
+      "email": "esthefanypena87@icloud.com",
+      "round": 1,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round1",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "0f16NM34UALGV6ukMwYF",
+      "name": "anny valenzuela",
+      "phone": "+14013680209",
+      "email": "annyvalenzuela21@hotmail.com",
+      "round": 1,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "idiq fail",
+        "client.round1",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "1r9L1ENcqEdOGPDvUGzR",
+      "name": "darlyn batista",
+      "phone": "+12014811457",
+      "email": "darlingrodriguez12@gmail.com",
+      "round": 1,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing"
+      ],
+      "tags": [
+        "payment missing",
+        "client.round1",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "CDOrs5ZCaiMvI8b3hXvz",
+      "name": "luis f reyes rosario",
+      "phone": "+19738038815",
+      "email": "reyesluis0357@gmail.com",
+      "round": 1,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round1",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "XAJAJP3RHurdIReE6b8Z",
+      "name": "ney777 None",
+      "phone": "+19144717321",
+      "email": "neydelvalle1988@gmail.com",
+      "round": 1,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round1",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
     },
     {
       "id": "FzDwX5xMwUNaRgo9gUWU",
@@ -851,6 +989,762 @@
       "dateAdded": "2025-12-03"
     },
     {
+      "id": "MhhsFNkg45NRohYZY5tU",
+      "name": "nelissa silva",
+      "phone": "+12679396932",
+      "email": "nelissasilva@icloud.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment.deposit_paid",
+        "no show to call",
+        "idiq fail",
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-29"
+    },
+    {
+      "id": "AThikzG91ZJdzxxCEQQn",
+      "name": "luis carlos fr\u00edas castro",
+      "phone": "+13477912316",
+      "email": "luiscarlosfriascastro@gmail.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "payment missing",
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-27"
+    },
+    {
+      "id": "cI7kkFuY62jbS7liFnwr",
+      "name": "esmirna figuereo",
+      "phone": "+19739607593",
+      "email": "esmirna.figuereo@gmail.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "booked appointment",
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-27"
+    },
+    {
+      "id": "ePkYp7ctViCs5hP8m9y0",
+      "name": "coral rosado",
+      "phone": "+14845152101",
+      "email": "coralguadalupe1098@gmail.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "sla_breached"
+      ],
+      "tags": [
+        "client.round2",
+        "language: spanish",
+        "sla-breached"
+      ],
+      "dateAdded": "2025-11-26"
+    },
+    {
+      "id": "dtqR4HUuf3VyTdIhaAFo",
+      "name": "brianna de la cruz",
+      "phone": "+19738165499",
+      "email": "briannamdelacruz@gmail.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "900 Payment Plan",
+      "installment": 0,
+      "platform": "Fanbasis",
+      "flags": [
+        "sla_breached",
+        "fanbasis_failed"
+      ],
+      "tags": [
+        "client.round2",
+        "language: spanish",
+        "fanbasis failed",
+        "fanbasis contact",
+        "sla-breached"
+      ],
+      "dateAdded": "2025-11-24"
+    },
+    {
+      "id": "zpPtYb49XYC4ALmzap47",
+      "name": "misely g lugo felix",
+      "phone": "+17274122829",
+      "email": "greshely21@gmail.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show"
+      ],
+      "tags": [
+        "booked appointment",
+        "no show to call",
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-24"
+    },
+    {
+      "id": "5Atd3XcMOXbPrf1UycE2",
+      "name": "ronny ceballos",
+      "phone": "+17177530765",
+      "email": "corolla1320@gmail.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show",
+        "idiq_fail"
+      ],
+      "tags": [
+        "no show to call",
+        "idiq fail",
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-24"
+    },
+    {
+      "id": "nbUhDwCSJafvKvW9WO2a",
+      "name": "liliana de la cruz",
+      "phone": "+16468517275",
+      "email": "lilicuevas087@gmail.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "booked appointment",
+        "idiq fail",
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-22"
+    },
+    {
+      "id": "5j4Cgz7qNglteJI3Vfpb",
+      "name": "yonathan dominguez hierro",
+      "phone": null,
+      "email": "iydomngz@icloud.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "KL5zLGi0LblSm27eCC6B",
+      "name": "yessica de la rosa santana",
+      "phone": "+16466003830",
+      "email": "yessicadelarosa602@gmail.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "jgxkV37aYL8CuyviIObH",
+      "name": "ulric vlaun rijo",
+      "phone": "+16787046926",
+      "email": "uvlaun@gmail.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "idiq fail",
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "1ItzW07HQMaDp1ZcnFa8",
+      "name": "nereida ynoa morrobel",
+      "phone": null,
+      "email": "nereidaynoa72@icloud.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "8Qp6PSlRJAQS7Zutdo5i",
+      "name": "luz correa mora",
+      "phone": "+13219146077",
+      "email": "agiemajo360@gmail.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "payment missing",
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "LJvF2EsO6hQ0mX9Bb6TR",
+      "name": "denny sosa ventura",
+      "phone": "+19786451289",
+      "email": "nicolisalvarez@gmail.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show",
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "no show to call",
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "cVUGbT4sycTkgnIZo47N",
+      "name": "dasean morillo",
+      "phone": "+19175921379",
+      "email": "dasean.international@gmail.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "dtY0vbkzrSyDSdqH4P6k",
+      "name": "andrea licona dormes",
+      "phone": "+19088457979",
+      "email": "andrealicona18@icloud.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "payment missing",
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "7ynx1W5REMqkH7vv0qt1",
+      "name": "cristopher jimenez",
+      "phone": "+14016616114",
+      "email": "cris2three@gmail.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-18"
+    },
+    {
+      "id": "t533DY5lVAywiN7SE6il",
+      "name": "orlando tavarez",
+      "phone": "+16465131045",
+      "email": "orlandohp99@gmail.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "idiq fail",
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-17"
+    },
+    {
+      "id": "YyMw1vpPjby9KL5UgEYW",
+      "name": "cristal feliz",
+      "phone": "+19293898239",
+      "email": "cristalmateo2526@gmail.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "idiq fail",
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-07"
+    },
+    {
+      "id": "zFK7Hjvz60n5vX5tlg17",
+      "name": "nikaurys morillo",
+      "phone": "+13472823157",
+      "email": "nika-morillo@hotmail.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-06"
+    },
+    {
+      "id": "k4eJVpp6gN0bAFfHb85Y",
+      "name": "rosmery pascual lamar",
+      "phone": "+17575152304",
+      "email": "rosmeryapple@gmail.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-05"
+    },
+    {
+      "id": "azFVufpTCFlXTTz9dQvu",
+      "name": "genesis diaz",
+      "phone": "+15855034691",
+      "email": "diazgen94@gmail.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "payment.deposit_paid",
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-03"
+    },
+    {
+      "id": "gOM8X5YxexNRaBT3nEGT",
+      "name": "paula michel romero gonzalez",
+      "phone": "+19179134936",
+      "email": "romeropaula075@gmail.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": "NoxNRHzNAOqtxecwACBN",
+      "name": "edwin perez",
+      "phone": "+18483610840",
+      "email": "edwinamaury1210@gmail.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show",
+        "idiq_fail"
+      ],
+      "tags": [
+        "no show to call",
+        "booked appointment",
+        "idiq fail",
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": "NxT3LncQo51PqkFh3kET",
+      "name": "nicolas medina gomez",
+      "phone": "+13219480624",
+      "email": "nm199910@gmail.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "idiq fail",
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": "qiHvHQYHXKA1Xi1aLWmk",
+      "name": "stephany grullon barbosa",
+      "phone": "+16469728183",
+      "email": "stephanylove19997@gmail.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": "ogCfAcojRaMgYUQrXlfs",
+      "name": "ana gracesqui rodriguez",
+      "phone": "+13213337407",
+      "email": "rosagracesqui_21@hotmail.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "idiq fail",
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": "XvlPOSZNm8nuHD5CPSDL",
+      "name": "kiara davila canales",
+      "phone": "+19173780745",
+      "email": "kiara31wb@gmail.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment.deposit_paid",
+        "booked appointment",
+        "idiq fail",
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "768GCHpIqMoModvCMgUI",
+      "name": "cristina rodriguez",
+      "phone": "+16892230562",
+      "email": "cristina.rodriguez7@aol.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "idiq fail",
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "pLFQVTo54Bg4DWrB93LW",
+      "name": "femery mercedes tavarez",
+      "phone": "+14845451508",
+      "email": "femerymercedes@gmail.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment.deposit_paid",
+        "idiq fail",
+        "payment missing",
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "fuJQgdswaK7t3fT9ldyw",
+      "name": "danlleris diaz",
+      "phone": "+19782733542",
+      "email": "diazdanlleris2002@gmail.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show",
+        "idiq_fail"
+      ],
+      "tags": [
+        "no show to call",
+        "idiq fail",
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "w9seepIcCsw4FZQQkNiX",
+      "name": "shadeli rosario",
+      "phone": "+15707903357",
+      "email": "shadelirosario7@gmail.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment.deposit_paid",
+        "booked appointment",
+        "no show to call",
+        "idiq fail",
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "AuZSHdnf0B8tqMJ1imW9",
+      "name": "ashley mercedes mieses",
+      "phone": "+12672416874",
+      "email": "ashleyjohanna21@gmail.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "idiq fail",
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "mkfNK1ol7mCtM53F7jHL",
+      "name": "viany pina tejada",
+      "phone": "+13478938410",
+      "email": "vianym1991@gmail.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "mOto6Hvx4dYHVD3JOjEN",
+      "name": "paola matias gomez",
+      "phone": "+19292885896",
+      "email": "laquecontrola2020@gmail.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round2",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "n0F42pXL4SXasv6Zg5df",
+      "name": "anthony sanabria",
+      "phone": "+16892420655",
+      "email": "anthonysanabria1995@gmail.com",
+      "round": 2,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail",
+        "sla_breached"
+      ],
+      "tags": [
+        "idiq fail",
+        "payment.deposit_paid",
+        "client.round2",
+        "language: spanish",
+        "sla-breached"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
       "id": "xS7SXMF6mdLsDYz07bsj",
       "name": "keidy ventura gomez",
       "phone": null,
@@ -1209,6 +2103,1200 @@
         "language: spanish"
       ],
       "dateAdded": "2025-12-08"
+    },
+    {
+      "id": "rDlFV4NEZapFSJbqP35h",
+      "name": "sugeidy perez",
+      "phone": "+13478590832",
+      "email": "sugeidyalmanzar@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "lead.docs_pending",
+        "booked appointment",
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-27"
+    },
+    {
+      "id": "H7zh0GMHfqJBgHFWtxK7",
+      "name": "xayre rivero",
+      "phone": "+14072597945",
+      "email": "damarante29@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-27"
+    },
+    {
+      "id": "zGMam3fr5cBlsSnAyrpI",
+      "name": "genesi patino",
+      "phone": "+19172874929",
+      "email": "genesispatino829@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing"
+      ],
+      "tags": [
+        "payment missing",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-26"
+    },
+    {
+      "id": "RYdlKDwI4Kuq2cWQTfyI",
+      "name": "richard diaz",
+      "phone": "+13478133365",
+      "email": "richardiaz5455@gmail.com",
+      "round": 3,
+      "language": "English",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "booked appointment",
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-25"
+    },
+    {
+      "id": "GlfS811HgNuOUUlGcrld",
+      "name": "alexis diaz polanco",
+      "phone": "+14199731407",
+      "email": "alexisdiaz11181974@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-25"
+    },
+    {
+      "id": "fotCoon7UPdpFrVcTDEi",
+      "name": "karla chacon sanchez",
+      "phone": "+17208094343",
+      "email": "kychs844@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-24"
+    },
+    {
+      "id": "J3WBmGlQ35eQu7cr4leu",
+      "name": "nitzaliz canela",
+      "phone": "+17196864645",
+      "email": "n.encarnacion96@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "Oferta De Reparacion De Credito 900",
+      "installment": 160.0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-24"
+    },
+    {
+      "id": "FJE0C95jKYbaFLkUqPOk",
+      "name": "daris almonte",
+      "phone": "+19786487289",
+      "email": "dmalmonte@outlook.com",
+      "round": 3,
+      "language": "English",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "no_show",
+        "idiq_fail"
+      ],
+      "tags": [
+        "booked appointment",
+        "no show to call",
+        "idiq fail",
+        "payment missing",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-24"
+    },
+    {
+      "id": "FriwVsdEqwBqds41ccoE",
+      "name": "denise almonte",
+      "phone": "+19733917735",
+      "email": "denisealmonte0421@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "booked appointment",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-21"
+    },
+    {
+      "id": "Mvz60U6HWcxGfCm36uXY",
+      "name": "zorachy martinez rivera",
+      "phone": null,
+      "email": "zorachymartinez18@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "5B4E5EwdFn8IxAQ6H7VU",
+      "name": "yinet nunez de jimenez",
+      "phone": null,
+      "email": "yinetrnunez19@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "P3PDpH91Nb5tEvlmGDeR",
+      "name": "sylenis butler",
+      "phone": "+19175360032",
+      "email": "sylenis.xoxo@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "BGa19IbQH9W0boZ3S57s",
+      "name": "sorauly roa",
+      "phone": "+17329546738",
+      "email": "soraulyr@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "KEApDLp2h04m3iyaqXqa",
+      "name": "ronald chavez tubay",
+      "phone": "+14847144362",
+      "email": "ronaldisax23@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "WzqvPJhY7UCVU2PrVjQu",
+      "name": "michelle perez",
+      "phone": "+12019510117",
+      "email": "michellebonilla0295@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "2NiBKwr8LO9Z9DeBt2Ma",
+      "name": "marielis disla",
+      "phone": null,
+      "email": "dmarielis09@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "rMksXcbiL07ybcjb2N46",
+      "name": "liza bernard",
+      "phone": "+18622430931",
+      "email": "lizabernard30@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "hkFNgbNG0pwv9LYE2U8S",
+      "name": "lisbeth garcia aldaoud",
+      "phone": "+19147464512",
+      "email": "liisbethgarcia@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "cFKmic0QoGuiowSFdXGw",
+      "name": "jessenia vazquez",
+      "phone": null,
+      "email": "jssnvzqz@yahoo.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "L2F0WU5gjbUtguwPIWtZ",
+      "name": "helen rosario",
+      "phone": "+18483361113",
+      "email": "helenrosario216@icloud.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "DAlvTceQtTNURBS8k73C",
+      "name": "hector martinez gomez",
+      "phone": "+19177493729",
+      "email": "rossiveras@aol.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "M8KdEEyaziXiSgBQu4bC",
+      "name": "fabrizia balbuena",
+      "phone": "+19173851905",
+      "email": "fajoan1127@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "wltMCZ62A722Ut4b9Hlt",
+      "name": "enzo gautreaux",
+      "phone": "+14844250138",
+      "email": "enzogautreaux0603@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "wb9PkT7dBq12cn4EU3h7",
+      "name": "cynthia rodriguez",
+      "phone": "+17862266278",
+      "email": "divabycynthiard@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "v6s5dOc9Lh5eelNaB5tI",
+      "name": "claribel burdier",
+      "phone": null,
+      "email": "clary2281@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "RoxaXqJylEmM1EwaPEVj",
+      "name": "carlos rodriguez melo",
+      "phone": "+17862601510",
+      "email": "crm2.llc.2014@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing"
+      ],
+      "tags": [
+        "payment missing",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "v8I0MrdVOwW6P4PEcBXL",
+      "name": "angel vasquez balbuena",
+      "phone": "+11717943516",
+      "email": "enyeralexander1818@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "0C5an53BT8VDZuFfhXmg",
+      "name": "alexander delorbe",
+      "phone": "+12017138595",
+      "email": "alex.delorbe28@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "usA6AdLzhpnbAyxv6eoA",
+      "name": "ada diaz subi",
+      "phone": "+16469828655",
+      "email": "adaluzdiazsubi@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "tuvf1o99oMBU7Ma5dKBC",
+      "name": "yelissbet grullon",
+      "phone": "+13473402889",
+      "email": "yelissbeth0416@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show"
+      ],
+      "tags": [
+        "no show to call",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-18"
+    },
+    {
+      "id": "GexronS3WmIWPBjYVazW",
+      "name": "wellington frias",
+      "phone": "+16464218092",
+      "email": "wellingtonfrias95@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "no_show",
+        "idiq_fail"
+      ],
+      "tags": [
+        "no show to call",
+        "idiq fail",
+        "payment missing",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-15"
+    },
+    {
+      "id": "PLjRt367d0AlLjlIuvDU",
+      "name": "victormanuel castro adames",
+      "phone": "+12012754064",
+      "email": "vcastroadames@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing"
+      ],
+      "tags": [
+        "payment missing",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-15"
+    },
+    {
+      "id": "fQe5GGL0N0unMrxMOQ30",
+      "name": "glenny garcia",
+      "phone": "+18482005178",
+      "email": "glennygarcia2001@gmail.com",
+      "round": 3,
+      "language": "English",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-13"
+    },
+    {
+      "id": "YCI3SAMnrQNiK7UziSB4",
+      "name": "seila herrera",
+      "phone": "+16178693865",
+      "email": "seilaherrera@icloud.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-11"
+    },
+    {
+      "id": "fi72GubCROVlhXbwqOjn",
+      "name": "rosa de d\u00edaz vargas",
+      "phone": "+19297741797",
+      "email": "rosavargas2829@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "no_show"
+      ],
+      "tags": [
+        "payment missing",
+        "no show to call",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-10"
+    },
+    {
+      "id": "3ttA4fiuYbQuXP8CRKPy",
+      "name": "yariber martinez nunez",
+      "phone": "+12676665983",
+      "email": "martinezyariber58@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-07"
+    },
+    {
+      "id": "504WHqhN2wyJ1d2TjtM3",
+      "name": "veronica pena severino",
+      "phone": "+19292808596",
+      "email": "vpenaa19@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-07"
+    },
+    {
+      "id": "j7tVZgDyJ8KYeljhSnke",
+      "name": "jonathan aquino ramos",
+      "phone": "+16469059071",
+      "email": "jonathanaquino720@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-06"
+    },
+    {
+      "id": "gP3reMcyVEoHkg1Fmkll",
+      "name": "victor cabrera sosa",
+      "phone": "+19783051198",
+      "email": "sosaodenny@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-06"
+    },
+    {
+      "id": "HGKVYzJo7RGVTDPsbpep",
+      "name": "sheiny mercedes candelario",
+      "phone": "+19782771046",
+      "email": "sheinitamer@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "booked appointment",
+        "payment.deposit_paid",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-05"
+    },
+    {
+      "id": "gSemnk2FfhvERFvRnNvX",
+      "name": "niurka reyes",
+      "phone": "+17816320951",
+      "email": "niurkareyes19@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "payment.deposit_paid",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-05"
+    },
+    {
+      "id": "WBhiDdAjb7nGQZZs7Uaa",
+      "name": "elizabeth de la cruz",
+      "phone": "+19789185096",
+      "email": "ellebeautt@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-05"
+    },
+    {
+      "id": "WXZvGMkuD53UD45wy9Lj",
+      "name": "carmen isabel sosa minaya",
+      "phone": "+16462455840",
+      "email": "sosacarmen16@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-04"
+    },
+    {
+      "id": "L2t42B0cVMlPBZg4b59m",
+      "name": "jael de jesus",
+      "phone": "+17872526208",
+      "email": "jdjv@hotmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing"
+      ],
+      "tags": [
+        "payment missing",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-04"
+    },
+    {
+      "id": "X74OGgtHIWxFu2ErLa3v",
+      "name": "yesenia rodriguez-alvarez",
+      "phone": "+18482078909",
+      "email": "yesialvarezr@icloud.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "payment.deposit_paid",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-04"
+    },
+    {
+      "id": "FMw2seipENAs4k1wrtOx",
+      "name": "carlos germosen",
+      "phone": "+19042406545",
+      "email": "cegermosen24@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-04"
+    },
+    {
+      "id": "SOeVkoXFeX66af8QlJ00",
+      "name": "katherine martinez",
+      "phone": "+13863244006",
+      "email": "vanessafeliz0513@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "900 Payment Plan",
+      "installment": 175.0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show"
+      ],
+      "tags": [
+        "no show to call",
+        "booked appointment",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-03"
+    },
+    {
+      "id": "ptiEX29I1HZEwj7aZ26c",
+      "name": "thalina gordon paniagua",
+      "phone": "+15403859664",
+      "email": "thalinagordonpaniagua@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment.deposit_paid",
+        "payment missing",
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-31"
+    },
+    {
+      "id": "UJzN77wSoEaitkdZdmBy",
+      "name": "marbelin consuelo almonte santana",
+      "phone": "+15513391185",
+      "email": "marbelincalmonte14@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "idiq fail",
+        "payment.deposit_paid",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": "umAdzxHwtFcrUAJOa2Pw",
+      "name": "carlos barreto",
+      "phone": "+18782188678",
+      "email": "barretoc489@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": "pIDQMRxO1uHnt7yQrSf2",
+      "name": "leonardo alfonzo arevalo perez",
+      "phone": "+16892524950",
+      "email": "laap2695@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "booked appointment",
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": "p6ZyEEUNp20geWLE6tTQ",
+      "name": "forever_blessed2519 roman",
+      "phone": "+19292282358",
+      "email": "hnm2519@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show",
+        "idiq_fail"
+      ],
+      "tags": [
+        "no show to call",
+        "booked appointment",
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "lboJJLpLL3EB4krEA5w0",
+      "name": "andrelys de jesus",
+      "phone": "+19294312370",
+      "email": "andrelys056@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "payment missing",
+        "payment.deposit_paid",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "tgx0et6D11I6uNBQvFe6",
+      "name": "yocaira batista pena",
+      "phone": "+19172427663",
+      "email": "luvana1215@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "payment missing",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "JfIcbFOD0FhzUCe1iqlK",
+      "name": "karina batista",
+      "phone": "+17328819350",
+      "email": "batiskarfit@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "no_show",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "payment.deposit_paid",
+        "no show to call",
+        "mentorship contacts",
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "nkHDif2mm3l84143Oyta",
+      "name": "glenys rodriguez minaya",
+      "phone": "+19173022439",
+      "email": "glenys84.gr@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "payment.deposit_paid",
+        "payment missing",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "KsOq0YmKNx4ocejGJO5u",
+      "name": "sandro cabrera moran",
+      "phone": "+19293417846",
+      "email": "sandro071895@icloud.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "VPehKRqNN12P32tx1jjO",
+      "name": "mariela lantigua",
+      "phone": "+12673672523",
+      "email": "marieladejesus1703@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "bKvSfhmyW04IuBqa6041",
+      "name": "diane castillo",
+      "phone": "+14016639117",
+      "email": "dianec1120@icloud.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
     },
     {
       "id": "uu7mo3UJjHuGDMoOQAEW",
@@ -1807,6 +3895,1335 @@
       "dateAdded": "2025-12-02"
     },
     {
+      "id": "JxsuN0JrjYWmjvVgMC5S",
+      "name": "arisleidy perez",
+      "phone": "+12157150944",
+      "email": "arisleidygil22@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "sla_breached"
+      ],
+      "tags": [
+        "booked appointment",
+        "client.round4",
+        "language: spanish",
+        "sla-breached"
+      ],
+      "dateAdded": "2025-12-01"
+    },
+    {
+      "id": "AIzF7bi07L1ZfZTGkHTe",
+      "name": "omar garcia",
+      "phone": "+13478736885",
+      "email": "og4307068@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "Oferta De Reparacion De Credito 900",
+      "installment": 160.0,
+      "platform": "Fanbasis",
+      "flags": [
+        "sla_breached"
+      ],
+      "tags": [
+        "payment.deposit_paid",
+        "booked appointment",
+        "fanbasis paid",
+        "client.round4",
+        "language: spanish",
+        "offer-opt-in",
+        "fanbasis-payment",
+        "crc-created",
+        "sla-breached"
+      ],
+      "dateAdded": "2025-11-29"
+    },
+    {
+      "id": "ILMWNelaN5AblSJGxySR",
+      "name": "darlyng david rosario garcia",
+      "phone": "+19176054173",
+      "email": "darling101287david@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "booked appointment",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-29"
+    },
+    {
+      "id": "DtJxiZC01J11Gk5wY9dD",
+      "name": "lisbeth jimenez fernandez",
+      "phone": "+12039427676",
+      "email": "lisbethfernandez1500@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-29"
+    },
+    {
+      "id": "WXhuMoGBbpJZ50fA9zUl",
+      "name": "yojanny guzman",
+      "phone": "+18622676127",
+      "email": "yoha2524@hotmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "payment.deposit_paid",
+        "booked appointment",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-28"
+    },
+    {
+      "id": "m53IYGaFS1Ry6FLnCnt7",
+      "name": "raishaliz reyes pacheco",
+      "phone": "+14849298431",
+      "email": "shalyreyes01@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-27"
+    },
+    {
+      "id": "FqZXBuTae76F2evQU3mE",
+      "name": "yahaira kunjara",
+      "phone": "+16462068070",
+      "email": "ykunjara@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "700 Payment Plan",
+      "installment": 150.0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "booked appointment",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-25"
+    },
+    {
+      "id": "eHzkwATPBPv8mjZ2Jaez",
+      "name": "daury diaz",
+      "phone": null,
+      "email": "rubiohdiaz12@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "booked appointment",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-25"
+    },
+    {
+      "id": "Kp0lucGolDyURU29pusa",
+      "name": "nelson daniel vargas",
+      "phone": "+17177539475",
+      "email": "nelsondvj26@icloud.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show",
+        "idiq_fail"
+      ],
+      "tags": [
+        "booked appointment",
+        "idiq fail",
+        "no show to call",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-24"
+    },
+    {
+      "id": "Gmb9pe3pZbIGaKOy0mRV",
+      "name": "raymidi altagracia jimenez solis",
+      "phone": "+17812280377",
+      "email": "raymidijimenez77@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-24"
+    },
+    {
+      "id": "QEpYAqL0krRKOwKFf2ss",
+      "name": "denny rosario de nunez",
+      "phone": "+15516661502",
+      "email": "dennyrosario98@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show",
+        "idiq_fail"
+      ],
+      "tags": [
+        "booked appointment",
+        "idiq fail",
+        "client.round4",
+        "language: spanish",
+        "no show to call"
+      ],
+      "dateAdded": "2025-11-24"
+    },
+    {
+      "id": "i7CXs37CXsjywFVz79V2",
+      "name": "malvin marte",
+      "phone": "+14019190475",
+      "email": "malvinmarte18@hotmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-23"
+    },
+    {
+      "id": "1afB9wn8IjMYYXoEZdJU",
+      "name": "rocio rodriguez",
+      "phone": "+19143142442",
+      "email": "rociorodri2781@outlook.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "booked appointment",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-23"
+    },
+    {
+      "id": "bKg1euJhQttVMrJEOTde",
+      "name": "jose martin valdez guzman",
+      "phone": "+17178142578",
+      "email": "josevaldez1995@hotmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-22"
+    },
+    {
+      "id": "kj1MzJ4xzHuaDgrIsaCb",
+      "name": "rosanna vigueras",
+      "phone": "+15396291227",
+      "email": "rvigueras2391@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "payment.deposit_paid",
+        "booked appointment",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-22"
+    },
+    {
+      "id": "SrFQXGGAHuwhJiT6FvRP",
+      "name": "alida capellan",
+      "phone": "+13477657107",
+      "email": "alidamcapellan@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show"
+      ],
+      "tags": [
+        "no show to call",
+        "booked appointment",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-22"
+    },
+    {
+      "id": "WPvqFZyyY5CDgN2rPJQQ",
+      "name": "isolina amezquita",
+      "phone": "+16466445301",
+      "email": "isolina.amez@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "booked appointment",
+        "idiq fail",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-22"
+    },
+    {
+      "id": "HIVj7LQHPeF91RBDD6p6",
+      "name": "daylin zulueta salceiro",
+      "phone": "+14808539892",
+      "email": "salceirodaylin@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "booked appointment",
+        "idiq fail",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-22"
+    },
+    {
+      "id": "3oqLiPgLWmflhyAGsBn9",
+      "name": "jacqueline quinde",
+      "phone": "+16105705078",
+      "email": "kelly32820@hotmail.com",
+      "round": 4,
+      "language": "English",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "booked appointment",
+        "idiq fail",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-21"
+    },
+    {
+      "id": "iMjdhDkbzvPyRifiaYDp",
+      "name": "sacheli montilla",
+      "phone": "+13057444144",
+      "email": "sacheli_montilla@aol.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing"
+      ],
+      "tags": [
+        "payment missing",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-21"
+    },
+    {
+      "id": "Rw91XtVHpY0iL812XaFn",
+      "name": "yesica de jesus",
+      "phone": "+12017805526",
+      "email": "yesicadejesus929@icloud.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing"
+      ],
+      "tags": [
+        "payment missing",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "J04Rp4PzzxxJGAFGq7fz",
+      "name": "nelson peralta-peralta",
+      "phone": "+16092369607",
+      "email": "np728862@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing"
+      ],
+      "tags": [
+        "payment missing",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "HZWv7GsEc021oV0bPmPK",
+      "name": "martin de jesus almonte vargas",
+      "phone": "+15513391184",
+      "email": "almonte1171martin@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "AYl924fVj3lXmjtMXljh",
+      "name": "marta hernandez collado",
+      "phone": "+13472733111",
+      "email": "joanycollado@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "rSpXhvhe9ADHv3L5CdFI",
+      "name": "lorena arroyo henriquez",
+      "phone": null,
+      "email": "lorenaarroyo496@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "42yZCMugozS7jzqCVCwR",
+      "name": "johanna lopez reyes",
+      "phone": "+13477846659",
+      "email": "yohanalopezr23@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "payment missing",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "0bCdeGaPh6orR06G4x6o",
+      "name": "janessi garcia",
+      "phone": "+14014976107",
+      "email": "ramplin2081@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "pbWjqUkPYiRiwPXH4IFZ",
+      "name": "freddy corniel jr",
+      "phone": "+18624050292",
+      "email": "fcorniel1991@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "idiq fail",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "eiy5SuKgL2AyQNzn0Hju",
+      "name": "evelyn romero jimenez",
+      "phone": null,
+      "email": "evelynromero1591@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "MO8g8lgB1Pvfm6YpNK71",
+      "name": "diandra guerrero troncoso",
+      "phone": "+14013476560",
+      "email": "andersonmatosp0224@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "idiq fail",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "NpXMxw3Bv7OxxwyCJpKX",
+      "name": "darileidy concepcion",
+      "phone": "+16898377681",
+      "email": "darileidyc@icloud.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "hGZOjxu5oGlwD4P6VNiA",
+      "name": "daniela maldonado",
+      "phone": "+16469861490",
+      "email": "danielam1867@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "idiq fail",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "v3EAMfxvMphpElDqV4PI",
+      "name": "caterin rojas de perez",
+      "phone": null,
+      "email": "kateperez1422@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "iKA7z3oXLTYLOxwe4CWt",
+      "name": "brenda ortiz",
+      "phone": "+14015438686",
+      "email": "breortiz005@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing"
+      ],
+      "tags": [
+        "payment missing",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "2m8IUmWHtduNJiqEn3Ju",
+      "name": "aneudi rodriguez garcia",
+      "phone": "+19089067958",
+      "email": "aneudi2828@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "payment missing",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "0O1RPkLdaAzspG1pdawe",
+      "name": "andreina arias",
+      "phone": "+17869840109",
+      "email": "a.arias.wk@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "SWqe1R1cG6mVv8HRmwSq",
+      "name": "melissa martinez de sime",
+      "phone": "+17863522227",
+      "email": "melissamartinez842@hotmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-13"
+    },
+    {
+      "id": "nFgfwZVQbViuN5UD1cWt",
+      "name": "chaely corniel",
+      "phone": "+18624050279",
+      "email": "chaelyvillaman15@aol.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "payment.deposit_paid",
+        "idiq fail",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-13"
+    },
+    {
+      "id": "ky0JqUr2OXN7uC45nq73",
+      "name": "maria mora",
+      "phone": "+18433678427",
+      "email": "kaony21@icloud.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "payment.deposit_paid",
+        "idiq fail",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-12"
+    },
+    {
+      "id": "i1jGRUF7GuMFzWYW6xGn",
+      "name": "deyli mendez",
+      "phone": "+18627636102",
+      "email": "deylimendez236@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show",
+        "idiq_fail"
+      ],
+      "tags": [
+        "booked appointment",
+        "no show to call",
+        "payment.deposit_paid",
+        "idiq fail",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-07"
+    },
+    {
+      "id": "trzq6LDNY2wmyDUUyNx6",
+      "name": "valerie burgos",
+      "phone": "+12018892531",
+      "email": "valerie.burgos@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-07"
+    },
+    {
+      "id": "YQ306Gu631kG9FpUUd0w",
+      "name": "idalisa lachapel",
+      "phone": "+15707105825",
+      "email": "idalisalm@hotmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-06"
+    },
+    {
+      "id": "svs5k9c7MyBxvyugnpSx",
+      "name": "sarah estevez",
+      "phone": "+19293238084",
+      "email": "sarahestevez23@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "booked appointment",
+        "idiq fail",
+        "mentorship contacts",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-05"
+    },
+    {
+      "id": "a5O9a8E2Rw0V62TZI7Qi",
+      "name": "rochely sierra",
+      "phone": "+17169101014",
+      "email": "rochelym90@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "payment.deposit_paid",
+        "idiq fail",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-04"
+    },
+    {
+      "id": "335lhLoBXJ2NUYuCWYGd",
+      "name": "elvia batista",
+      "phone": "+17323471900",
+      "email": "essentialsp17@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "payment.deposit_paid",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-04"
+    },
+    {
+      "id": "EdF1AXTdjqOoqTfjqnGE",
+      "name": "ashley diaz",
+      "phone": "+14845976167",
+      "email": "ashley.diaz225@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "idiq fail",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-03"
+    },
+    {
+      "id": "VAYBkMiED6sKPqElhOnh",
+      "name": "kireidys matista",
+      "phone": "+19089928387",
+      "email": "kmatista1021@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "payment.deposit_paid",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-03"
+    },
+    {
+      "id": "wSY4zBzcyKCMcgS3NCwD",
+      "name": "kiara rosario perez",
+      "phone": "+16038582057",
+      "email": "kiararosario201215@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing"
+      ],
+      "tags": [
+        "payment missing",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-03"
+    },
+    {
+      "id": "YhAmDB7K3Qnqkoj67XBe",
+      "name": "madelin hernandez",
+      "phone": "+13476594099",
+      "email": "mercedes9012@yahoo.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "payment.deposit_paid",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-03"
+    },
+    {
+      "id": "1FTunGOXLVEZDbVe6f2F",
+      "name": "ashley reyes",
+      "phone": "+17737298233",
+      "email": "ashleyreyesveras@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "booked appointment",
+        "idiq fail",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-03"
+    },
+    {
+      "id": "bDnxt4esCQO4AiwEdENg",
+      "name": "marianne bencosme",
+      "phone": "+13479695044",
+      "email": "mary.ben516@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-03"
+    },
+    {
+      "id": "XGU9tIJv6iXbOySS48CD",
+      "name": "nahomi tapia jimenez",
+      "phone": "+13475392086",
+      "email": "nahomytapia04@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "idiq fail",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-01"
+    },
+    {
+      "id": "uUV4s7baIuBJQkCDaVoJ",
+      "name": "julissa lima",
+      "phone": "+16463389043",
+      "email": "lima.julissa96@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing"
+      ],
+      "tags": [
+        "payment missing",
+        "payment.deposit_paid",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": "a6HRENFdgC4YMTi3wXol",
+      "name": "nayely almonte",
+      "phone": "+18624346623",
+      "email": "carolinadeaza55@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "$100 Down Plan",
+      "installment": 0,
+      "platform": "Fanbasis",
+      "flags": [
+        "idiq_fail",
+        "sla_breached"
+      ],
+      "tags": [
+        "booked appointment",
+        "payment.deposit_paid",
+        "fanbasis paid",
+        "idiq fail",
+        "client.round4",
+        "language: spanish",
+        "offer-opt-in",
+        "fanbasis-payment",
+        "crc-created",
+        "sla-breached"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": "Umzdw0g53GDxuV4plzCz",
+      "name": "genesis nunez castano",
+      "phone": "+19732884822",
+      "email": "genesismejia23@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "dcJuoKlGLT4HPWKTlR7l",
+      "name": "itzel abreu",
+      "phone": "+19737250089",
+      "email": "itzelabreus@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "payment.deposit_paid",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "NBb126HmUBHaouivOK1Y",
+      "name": "stephanie ruiz",
+      "phone": "+12677765263",
+      "email": "stephanieruiz2402@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "mentorship contacts",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "MPwakdzarcNxsst2nA1f",
+      "name": "dacheli castillo",
+      "phone": "+13479391584",
+      "email": "dachi_0215@icloud.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "SBvOZLWKJkJEARRXsJn3",
+      "name": "connie baez",
+      "phone": "+15162889967",
+      "email": "geoconda24k@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing"
+      ],
+      "tags": [
+        "payment missing",
+        "payment.deposit_paid",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "Hj8xkmZdLBmHNl8Fy7KA",
+      "name": "awilda mirabal",
+      "phone": "+19293603450",
+      "email": "awildamariamirabal85@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "rt7vG1H9J33UdRWTluwf",
+      "name": "ericka peralta aquino",
+      "phone": "+14078133466",
+      "email": "peraltaericka582@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "Kp3pj6qUuD2t2nFXGIJa",
+      "name": "elaine lopez polanco",
+      "phone": "+14073180370",
+      "email": "elannylopez@hotmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show"
+      ],
+      "tags": [
+        "client.round4",
+        "language: spanish",
+        "no show to call"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "1gdhEGDzWy9QO04u2tRh",
+      "name": "katherine rodriguez gonell",
+      "phone": "+14014976465",
+      "email": "rodriguezkatherine838@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "iIDN304MRPWmQzXJO4iO",
+      "name": "elvin torres reyes",
+      "phone": "+17327778847",
+      "email": "elvintorresreyes1@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show",
+        "idiq_fail"
+      ],
+      "tags": [
+        "no show to call",
+        "idiq fail",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "y10w9UyNCdrw383cPWVQ",
+      "name": "casilda inoa guzman",
+      "phone": "+14076831753",
+      "email": "casildainoa11@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "3LHnWUqR8BM1eTRjSfnj",
+      "name": "jenniffer rojas",
+      "phone": "+19789600049",
+      "email": "hazelref97@gmail.com",
+      "round": 4,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "no_show"
+      ],
+      "tags": [
+        "payment missing",
+        "booked appointment",
+        "no show to call",
+        "client.round4",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
       "id": "2kTaLAGOboznP4mJP2kX",
       "name": "mariel vargas garcia",
       "phone": "+13477249954",
@@ -1858,6 +5275,580 @@
         "language: spanish"
       ],
       "dateAdded": "2026-01-02"
+    },
+    {
+      "id": "H3vyQpbCFEjYFM4OOCNB",
+      "name": "nayelys castillo",
+      "phone": "+17866082694",
+      "email": "nayelita1715@gmail.com",
+      "round": 5,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "booked appointment",
+        "client.round5",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-24"
+    },
+    {
+      "id": "1Tdd5vflkk6Ys7LiEcKR",
+      "name": "winiffer ramirez",
+      "phone": "+19293075959",
+      "email": "winifer094@gmail.com",
+      "round": 5,
+      "language": "Spanish",
+      "plan": "$100 Down Plan",
+      "installment": 0,
+      "platform": "Fanbasis",
+      "flags": [
+        "sla_breached"
+      ],
+      "tags": [
+        "booked appointment",
+        "fanbasis paid",
+        "client.round5",
+        "language: spanish",
+        "offer-opt-in",
+        "fanbasis-payment",
+        "crc-created",
+        "sla-breached"
+      ],
+      "dateAdded": "2025-11-23"
+    },
+    {
+      "id": "nF9IcFS3pM5xGyDN1YW9",
+      "name": "yanira borbon sanchez",
+      "phone": "+19292635215",
+      "email": "yaniraborbon@gmail.com",
+      "round": 5,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round5",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "oTq8ThKooGGrwKey67cS",
+      "name": "vionet ovando",
+      "phone": "+19297329683",
+      "email": "vionetovando@gmail.com",
+      "round": 5,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round5",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "2GmFExdmA0UCjYPQd0ly",
+      "name": "mariela hernandez consuegra",
+      "phone": "+14012611913",
+      "email": "mhern_@hotmail.com",
+      "round": 5,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round5",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "TzDqd48qIWxTyDajvSJp",
+      "name": "luisanny javier duarte",
+      "phone": "+14843786875",
+      "email": "luisannyjavier@gmail.com",
+      "round": 5,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round5",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "3iI3uQ1QFyI5hlRTMHzE",
+      "name": "katherine jose",
+      "phone": "+19736198013",
+      "email": "kathyj0514@gmail.com",
+      "round": 5,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "idiq fail",
+        "client.round5",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "x3M2EWMgJiAxVBOVOxNV",
+      "name": "katherine doval",
+      "phone": "+16174479140",
+      "email": "kdoval25@gmail.com",
+      "round": 5,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "idiq fail",
+        "client.round5",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "6AgI0UN3xP5aZcThVV2z",
+      "name": "juan gutierrez",
+      "phone": "+13478246894",
+      "email": "julissag444@outlook.com",
+      "round": 5,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round5",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "YpZbETz19inNeMD6RovD",
+      "name": "juan carlos martinez montero",
+      "phone": "+16468525686",
+      "email": "jeanbasilio1423@gmail.com",
+      "round": 5,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round5",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "3w1VoIHcMOSjAAcE8rhG",
+      "name": "jhoanna saldana",
+      "phone": "+14849517430",
+      "email": "jjhoanna61@gmail.com",
+      "round": 5,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round5",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "TpUxtwGlnuMe1fZE5TJw",
+      "name": "glenis esquea",
+      "phone": "+13473317131",
+      "email": "glenisesquea@gmail.com",
+      "round": 5,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round5",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "NUBtewqgBrkPjpGkHMxm",
+      "name": "francielis lajara franzua",
+      "phone": "+16104830095",
+      "email": "francielislajara6@gmail.com",
+      "round": 5,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round5",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "2nnesyPgqDQiR98wPq4d",
+      "name": "edily soto",
+      "phone": "+14018370503",
+      "email": "sotochalae@gmail.com",
+      "round": 5,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "payment missing",
+        "mentorship contacts",
+        "client.round5",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "c5y4Fi88iMR6Ey1cEtSM",
+      "name": "carolina espinal caba",
+      "phone": "+13479724043",
+      "email": "espinalcarolina11@gmail.com",
+      "round": 5,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round5",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "qDblgd8BgwmHHu2bC3QG",
+      "name": "kelvin fernandez abreu",
+      "phone": "+13479286119",
+      "email": "yadirapayano@gmail.com",
+      "round": 5,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "payment.deposit_paid",
+        "client.round5",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-10"
+    },
+    {
+      "id": "OlyHz1mXPma8NWFOsCYT",
+      "name": "carmen marisol rodriguez",
+      "phone": "+12039946311",
+      "email": "cmarisolrodriguez81@gmail.com",
+      "round": 5,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail",
+        "sla_breached"
+      ],
+      "tags": [
+        "payment missing",
+        "idiq fail",
+        "client.round5",
+        "language: spanish",
+        "sla-breached"
+      ],
+      "dateAdded": "2025-11-01"
+    },
+    {
+      "id": "A6iHWjB3EVL1Y9luMsqX",
+      "name": "rosanna cordero",
+      "phone": "+15705995202",
+      "email": "rosannacordero1001@gmail.com",
+      "round": 5,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round5",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": "uGg2Exxuo5sIxz4Jawm7",
+      "name": "edisha michel",
+      "phone": "+16312909844",
+      "email": "edishamichel@gmail.com",
+      "round": 5,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "idiq fail",
+        "client.round5",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": "jGTrMcAgGRMnsnnxg5Fm",
+      "name": "madeline ceballos",
+      "phone": "+19786550511",
+      "email": "madelineceballos2005@icloud.com",
+      "round": 5,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment.deposit_paid",
+        "idiq fail",
+        "client.round5",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": "XE5nOgkUFnYKPDASsiM2",
+      "name": "domingo nivar",
+      "phone": "+13473224192",
+      "email": "domingonivar20@gmail.com",
+      "round": 5,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing"
+      ],
+      "tags": [
+        "payment missing",
+        "client.round5",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "PWg4g6Ix6jWvRWDZ7eVz",
+      "name": "julissa gutierrez | mentora espiritual & de negocios",
+      "phone": "+16893104075",
+      "email": "julissagut4@outlook.com",
+      "round": 5,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round5",
+        "docs pending spanish",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "9tbgkReS8yWrYWJOstnw",
+      "name": "evelyn palavicini",
+      "phone": "+13052052449",
+      "email": "evelyn_palavicini@yahoo.com",
+      "round": 5,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "idiq fail",
+        "client.round5",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "OQI1KfDhQBClcmP1Ji5O",
+      "name": "mio nuevo",
+      "phone": "+16893226001",
+      "email": "drtmp18@gmail.com",
+      "round": 5,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round5",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "hORFvnaxIXvLNR0eEesT",
+      "name": "emely corniel",
+      "phone": "+18503213692",
+      "email": "emely.corniel72@gmail.com",
+      "round": 5,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "idiq fail",
+        "client.round5",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "Ge57gGyXshfbNR7s5UiU",
+      "name": "denise amarante",
+      "phone": "+14079522257",
+      "email": "damarante@icloud.com",
+      "round": 5,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round5",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "bBMSuY883WAuVd2TzpqW",
+      "name": "franyaris valdez de santiago",
+      "phone": "+16892879818",
+      "email": "franyarisvaldez@gmail.com",
+      "round": 6,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "mentorship contacts",
+        "client.round6",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-19"
+    },
+    {
+      "id": "C7v3vdDz10MWXv4HR6Zn",
+      "name": "yorge sierra urbaez",
+      "phone": "+12146004025",
+      "email": "yorgeluissu4@gmail.com",
+      "round": 7,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "no_show",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "idiq fail",
+        "no show to call",
+        "client.round7",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "o2tbh7TdlP5EWSBoj70a",
+      "name": "mildred germosen",
+      "phone": "+19046785240",
+      "email": "mildredgermosen@gmail.com",
+      "round": 8,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "idiq fail",
+        "client.round8",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
     },
     {
       "id": "uYSobJrESRibtEkujBzY",
