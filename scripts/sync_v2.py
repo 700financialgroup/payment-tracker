@@ -10,6 +10,12 @@ SLACK_WEBHOOK = os.environ.get('SLACK_WEBHOOK_URL', '')
 GMAIL_ADDRESS = os.environ.get('GMAIL_ADDRESS', 'info@700financialgroup.com')
 GMAIL_PASSWORD = os.environ.get('GMAIL_APP_PASSWORD', '')
 AUTHNET_URL = 'https://api.authorize.net/xml/v1/request.api'
+GHL_API_KEY = os.environ.get('GHL_API_KEY', '')
+GHL_LOCATION = '9lz1duatu3n8Gzy1KSyL'
+GHL_CF_ROUND = 'M0p5Lpy8FW9HdHyIVUqi'
+GHL_CF_LANGUAGE = 'cg4FLZctr5gJBJbPKoGN'
+GHL_CF_PLAN = 'MVKfYgivGKkm40K2GniJ'
+GHL_CF_INSTALLMENT = 'eYAVo4nAJmPRPjY2KQFF'
 
 def clean(text):
     text = re.sub(r'<[^>]+>', ' ', text or '')
@@ -208,6 +214,124 @@ def pull_gmail():
     except Exception as e: print(f"  Gmail error: {e}")
     return payments
 
+
+def pull_ghl_clients():
+    if not GHL_API_KEY:
+        print("GHL: no API key configured, skipping")
+        return []
+    print("Pulling GHL clients...")
+    clients = []
+    headers = {
+        'Authorization': f'Bearer {GHL_API_KEY}',
+        'Version': '2021-07-28',
+        'Content-Type': 'application/json'
+    }
+    # Search for all contacts with client.round tags
+    search_tags = ['client.round1','client.round2','client.round3','client.round4','client.round5']
+    seen_ids = set()
+    
+    for tag in search_tags:
+        after = None
+        while True:
+            params = {
+                'locationId': GHL_LOCATION,
+                'limit': 100,
+                'tags': tag
+            }
+            if after:
+                params['searchAfter'] = after
+            try:
+                r = requests.get('https://services.leadconnectorhq.com/contacts/',
+                    headers=headers, params=params, timeout=15)
+                data = r.json()
+                batch = data.get('contacts', [])
+                for c in batch:
+                    cid = c.get('id')
+                    if cid in seen_ids:
+                        continue
+                    seen_ids.add(cid)
+                    # Extract custom fields
+                    cf = {f['id']: f['value'] for f in c.get('customFields', [])}
+                    round_num = cf.get(GHL_CF_ROUND, 0)
+                    language = cf.get(GHL_CF_LANGUAGE, '')
+                    plan = cf.get(GHL_CF_PLAN, '')
+                    installment = cf.get(GHL_CF_INSTALLMENT, '')
+                    # Get round from tags if not in custom field
+                    tags = c.get('tags', [])
+                    if not round_num:
+                        for t in tags:
+                            if t.startswith('client.round'):
+                                try: round_num = int(t.replace('client.round',''))
+                                except: pass
+                    # Get language from tags if not in custom field
+                    if not language:
+                        if 'language: spanish' in tags: language = 'Spanish'
+                        elif 'language: english' in tags: language = 'English'
+                    # Status flags
+                    flags = []
+                    if 'payment missing' in tags: flags.append('payment_missing')
+                    if 'no show to call' in tags: flags.append('no_show')
+                    if 'idiq fail' in tags: flags.append('idiq_fail')
+                    if 'sla-breached' in tags: flags.append('sla_breached')
+                    if 'fanbasis failed' in tags: flags.append('fanbasis_failed')
+                    # Determine platform from tags
+                    platform = 'Auth.net'
+                    if 'fanbasis paid' in tags or 'fanbasis contact' in tags or 'fanbasis-payment' in tags:
+                        platform = 'Fanbasis'
+                    clients.append({
+                        'id': cid,
+                        'name': f"{c.get('firstName','')} {c.get('lastName','')}".strip(),
+                        'phone': c.get('phone', ''),
+                        'email': c.get('email', ''),
+                        'round': round_num,
+                        'language': language,
+                        'plan': plan,
+                        'installment': float(installment) if installment else 0,
+                        'platform': platform,
+                        'flags': flags,
+                        'tags': tags,
+                        'dateAdded': c.get('dateAdded', '')[:10]
+                    })
+                if len(batch) < 100 or not data.get('meta', {}).get('nextPageUrl'):
+                    break
+                # Get searchAfter for pagination
+                if batch:
+                    after = batch[-1].get('searchAfter', [None])[0]
+                    if not after:
+                        break
+                else:
+                    break
+            except Exception as e:
+                print(f"  GHL error ({tag}): {e}")
+                break
+    
+    print(f"  {len(clients)} GHL clients pulled")
+    return clients
+
+
+def write_clients_to_github(clients):
+    if not clients:
+        return
+    now = datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')
+    payload = {
+        'updated': now,
+        'total': len(clients),
+        'clients': sorted(clients, key=lambda x: x.get('round', 0))
+    }
+    content = base64.b64encode(json.dumps(payload, indent=2).encode()).decode()
+    headers = {'Authorization': f'Bearer {GITHUB_TOKEN}', 'Accept': 'application/vnd.github.v3+json'}
+    url = f'https://api.github.com/repos/{GITHUB_REPO}/contents/data/clients.json'
+    r = requests.get(url, headers=headers)
+    sha = r.json().get('sha') if r.status_code == 200 else None
+    body = {'message': f'GHL sync: {now}', 'content': content}
+    if sha: body['sha'] = sha
+    result = requests.put(url, json=body, headers=headers)
+    if result.status_code in [200, 201]:
+        print(f"  {len(clients)} clients written to GitHub")
+    else:
+        print(f"  GitHub clients error: {result.status_code}")
+
+
 def write_to_github(all_payments):
     print("Writing to GitHub...")
     now = datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')
@@ -242,12 +366,17 @@ if __name__ == '__main__':
     try: all_payments.extend(pull_gmail())
     except Exception as e: errors.append(f"Gmail: {e}")
     write_to_github(all_payments)
+    try:
+        ghl_clients = pull_ghl_clients()
+        if ghl_clients:
+            write_clients_to_github(ghl_clients)
+    except Exception as e: errors.append(f"GHL: {e}")
     today = datetime.utcnow().strftime('%Y-%m-%d')
     total = sum(p.get('amount',0) for p in all_payments if p.get('date')==today and p.get('ok'))
     platforms = {}
     for p in all_payments:
         platforms[p.get('platform','')] = platforms.get(p.get('platform',''), 0) + 1
-    print(f"\nSummary: {len(all_payments)} total | Today: ${total:,.2f}")
+    print(f"\nSummary: {len(all_payments)} payments | Today: ${total:,.2f}")
     for k,v in platforms.items():
         if v: print(f"  {k}: {v}")
     if errors: print(f"Errors: {errors}")
