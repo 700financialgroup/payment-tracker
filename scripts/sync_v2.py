@@ -265,6 +265,20 @@ def pull_gmail():
     return payments
 
 
+
+def load_fanbasis_historical():
+    """Load historical Fanbasis data from GitHub repo"""
+    try:
+        url = f'https://raw.githubusercontent.com/{GITHUB_REPO}/main/data/fanbasis_historical.json'
+        r = requests.get(url + '?t=' + str(int(__import__("time").time())), timeout=10)
+        if r.status_code == 200:
+            data = r.json()
+            print(f"  Loaded {len(data)} historical Fanbasis records")
+            return data
+    except Exception as e:
+        print(f"  Historical Fanbasis load error: {e}")
+    return []
+
 def pull_ghl_clients():
     if not GHL_API_KEY:
         print("GHL: no API key configured, skipping")
@@ -436,6 +450,11 @@ if __name__ == '__main__':
     except Exception as e: errors.append(f"Auth.net: {e}")
     try: all_payments.extend(pull_gmail())
     except Exception as e: errors.append(f"Gmail: {e}")
+    try:
+        historical = load_fanbasis_historical()
+        if historical:
+            all_payments.extend(historical)
+    except Exception as e: errors.append(f"Fanbasis historical: {e}")
     write_to_github(all_payments)
     try:
         ghl_clients = pull_ghl_clients()
