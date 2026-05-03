@@ -142,8 +142,8 @@ def pull_gmail():
                       re.search(r'\$([\d,]+\.\d{2})', body) or
                       re.search(r'Amount[^\d$]{0,20}([\d,]+\.\d{2})', body))
                 # Name patterns - Zelle emails vary
-                nm = (re.search(r'payment\s+([A-Z][A-Z\s]{2,40}?)\s+sent you money', body) or
-                      re.search(r'([A-Z][A-Z\s]{2,40}?)\s+sent you', body))
+                nm = (re.search(r'payment\s+([A-Za-z][A-Za-z\s]{2,40}?)\s+sent you money', body) or
+                      re.search(r'([A-Za-z][A-Za-z\s]{2,40}?)\s+sent you', body))
                 tx = re.search(r'Transaction number\s*(\d+)', body)
                 dm = re.search(r'Sent on\s+(\w+ \d+,?\s*\d{4})', body)
                 if am:
