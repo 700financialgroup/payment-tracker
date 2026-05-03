@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03 13:34 UTC",
+  "updated": "2026-05-03 14:23 UTC",
   "today_total": 0,
   "payments": [
     {
@@ -128,18 +128,6 @@
       "time": "15:38",
       "name": "Raysa Espinal",
       "amount": 100.0,
-      "status": "succeeded",
-      "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "pi_3TSHgcDK4U0438JA2MU5JJvw",
-      "date": "2026-05-01",
-      "time": "14:04",
-      "name": "GT CONSULTING AND FINANCE LLC",
-      "amount": 10.06,
       "status": "succeeded",
       "platform": "Stripe",
       "ok": true,
