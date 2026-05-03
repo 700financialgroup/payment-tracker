@@ -142,6 +142,7 @@ def pull_gmail():
                 _, data = mail.fetch(num, '(RFC822)')
                 msg = email.message_from_bytes(data[0][1])
                 body = get_body(msg)
+                print(f'  FB body preview: {repr(body[:300])}')
                 nm = re.search(r'Name[:\s]+([A-Za-z][^\n<]{2,50}?)(?:\s*\n|\s*Email|\s*<)', body)
                 pm = re.search(r'purchased\s+(.+?)(?:\s+If you need|Order Summary)', body)
                 am = re.search(r'(?:Total|Amount|Price)[:\s]+\$?([\d,]+\.?\d*)', body)
