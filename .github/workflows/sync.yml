@@ -8,6 +8,8 @@ on:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v4
@@ -20,6 +22,6 @@ jobs:
           STRIPE_SECRET_KEY: ${{secrets.STRIPE_SECRET_KEY}}
           AUTHNET_LOGIN: ${{secrets.AUTHNET_LOGIN}}
           AUTHNET_KEY: ${{secrets.AUTHNET_KEY}}
-          GOOGLE_SHEETS_WEBHOOK: ${{secrets.GOOGLE_SHEETS_WEBHOOK}}
           SLACK_WEBHOOK_URL: ${{secrets.SLACK_WEBHOOK_URL}}
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
         run: python scripts/sync_v2.py
