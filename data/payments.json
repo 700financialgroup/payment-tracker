@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03 05:15 UTC",
+  "updated": "2026-05-03 05:28 UTC",
   "today_total": 0,
   "payments": [
     {
@@ -41,14 +41,14 @@
     {
       "id": "81594303635",
       "date": "2026-05-02",
-      "time": "12:01",
+      "time": "22:18",
       "name": "Alida Capellan",
       "amount": 160.0,
-      "status": "capturedPendingSettlement",
+      "status": "settledSuccessfully",
       "platform": "Auth.net",
       "ok": true,
-      "settled": false,
-      "pending": true
+      "settled": true,
+      "pending": false
     },
     {
       "id": "fb_renewal_19510_2026-05-02",
