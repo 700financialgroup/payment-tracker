@@ -31,6 +31,16 @@ def short_plan(plan):
     if 'mentorship' in p: return 'Mentorship'
     return plan[:20] if plan else 'Plan'
 
+def plan_amount(plan):
+    """Derive monthly installment from plan name"""
+    p = plan.lower()
+    if '900' in p and ('promo' in p or 'oferta' in p or 'reparacion' in p): return 160.0
+    if '900' in p: return 175.0
+    if '500' in p: return 100.0
+    if 'monthly' in p: return 175.0
+    if 'mentorship' in p: return 97.0
+    return 175.0  # default
+
 def get_body(msg):
     html_body = None
     if msg.is_multipart():
@@ -172,9 +182,12 @@ def pull_gmail():
                 nm = re.search(r'Name[:\s]+([A-Za-z][^\n<]{2,50}?)(?:\s*\n|\s*Email|\s*<)', body)
                 pm = re.search(r'purchased\s+(.+?)(?:\s+If you need|Order Summary)', body)
                 am = re.search(r'(?:Total|Amount|Price)[:\s]+\$?([\d,]+\.?\d*)', body)
+                # Also try markdown bold format: **Amount:** $196.40
+                if not am:
+                    am = re.search(r'\*\*Amount:\*\*\s*\$?([\d,]+\.?\d*)', body)
                 name = clean(nm.group(1)).title() if nm else 'Fanbasis Client'
                 plan = clean(pm.group(1)) if pm else label
-                amount = float(am.group(1).replace(',','')) if am else 200.0
+                amount = float(am.group(1).replace(',','')) if am else plan_amount(plan)
                 return {'name': name, 'plan': plan, 'amount': amount, 'date': get_date(msg), 'num': num.decode()}
             except: return None
 
@@ -334,6 +347,32 @@ def write_clients_to_github(clients):
     else:
         print(f"  GitHub clients error: {result.status_code}")
 
+
+
+def load_seen_disputes():
+    """Load set of dispute IDs already alerted from GitHub"""
+    headers = {'Authorization': f'Bearer {GITHUB_TOKEN}', 'Accept': 'application/vnd.github.v3+json'}
+    url = f'https://api.github.com/repos/{GITHUB_REPO}/contents/data/seen_disputes.json'
+    try:
+        r = requests.get(url, headers=headers)
+        if r.status_code == 200:
+            import base64 as b64
+            content = b64.b64decode(r.json()['content']).decode()
+            return set(json.loads(content).get('seen', []))
+    except: pass
+    return set()
+
+def save_seen_disputes(seen_set):
+    """Save seen dispute IDs to GitHub"""
+    headers = {'Authorization': f'Bearer {GITHUB_TOKEN}', 'Accept': 'application/vnd.github.v3+json'}
+    url = f'https://api.github.com/repos/{GITHUB_REPO}/contents/data/seen_disputes.json'
+    payload = {'seen': list(seen_set), 'updated': datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}
+    content = base64.b64encode(json.dumps(payload, indent=2).encode()).decode()
+    r = requests.get(url, headers=headers)
+    sha = r.json().get('sha') if r.status_code == 200 else None
+    body = {'message': f'Update seen disputes', 'content': content}
+    if sha: body['sha'] = sha
+    requests.put(url, json=body, headers=headers)
 
 def write_to_github(all_payments):
     print("Writing to GitHub...")
