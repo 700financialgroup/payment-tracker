@@ -1,0 +1,26 @@
+name: PayFlow Auto Sync
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - name: Install deps
+        run: pip install requests gspread google-auth
+      - name: Run PayFlow Sync
+        env:
+          STRIPE_SECRET_KEY: ${{secrets.STRIPE_SECRET_KEY}}
+          AUTHNET_LOGIN: ${{secrets.AUTHNET_LOGIN}}
+          AUTHNET_KEY: ${{secrets.AUTHNET_KEY}}
+          GOOGLE_SHEET_ID: ${{secrets.GOOGLE_SHEET_ID}}
+          GOOGLE_CREDS_JSON: ${{secrets.GOOGLE_CREDS_JSON}}
+          SLACK_WEBHOOK_URL: ${{secrets.SLACK_WEBHOOK_URL}}
+        run: python scripts/sync.py
