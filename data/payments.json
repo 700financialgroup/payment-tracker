@@ -1,7 +1,43 @@
 {
-  "updated": "2026-05-03 04:22 UTC",
+  "updated": "2026-05-03 04:25 UTC",
   "today_total": 0,
   "payments": [
+    {
+      "id": "pi_3TSiiADK4U0438JA2KBjHVEz",
+      "date": "2026-05-02",
+      "time": "18:56",
+      "name": "pamela Rondon Paredes",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TSSqEDK4U0438JA2c93q0jD",
+      "date": "2026-05-02",
+      "time": "01:59",
+      "name": "ana y moore",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TSR1VDK4U0438JA1etkd8TY",
+      "date": "2026-05-02",
+      "time": "00:03",
+      "name": "Denny Rosario De Nunez",
+      "amount": 160.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "81594303635",
       "date": "2026-05-02",
@@ -13,6 +49,90 @@
       "ok": true,
       "settled": false,
       "pending": true
+    },
+    {
+      "id": "pi_3TSQOnDK4U0438JA20qxk42D",
+      "date": "2026-05-01",
+      "time": "23:23",
+      "name": "Melisa Abreu",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TSNaLDK4U0438JA0YBddJfC",
+      "date": "2026-05-01",
+      "time": "20:22",
+      "name": "Cherly alberty",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TSMsRDK4U0438JA0aC5FgGZ",
+      "date": "2026-05-01",
+      "time": "19:37",
+      "name": "Yosmarlin \ud83c\udf1c\ud83c\udf1e\ud83c\udf1b\ud83e\udd0d",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TSLAcDK4U0438JA2rB1boEf",
+      "date": "2026-05-01",
+      "time": "17:48",
+      "name": "Alba Moran",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TSL6dDK4U0438JA2XZk0avu",
+      "date": "2026-05-01",
+      "time": "17:44",
+      "name": "Taisha Ramos",
+      "amount": 160.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TSJ8iDK4U0438JA1SW61fSg",
+      "date": "2026-05-01",
+      "time": "15:38",
+      "name": "Raysa Espinal",
+      "amount": 100.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TSHgcDK4U0438JA2MU5JJvw",
+      "date": "2026-05-01",
+      "time": "14:04",
+      "name": "GT CONSULTING AND FINANCE LLC",
+      "amount": 10.06,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
     },
     {
       "id": "81592866212",
