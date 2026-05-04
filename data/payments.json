@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-04 17:36 UTC",
+  "updated": "2026-05-04 18:39 UTC",
   "today_total": 0,
-  "all_time_total": 200362.06,
+  "all_time_total": 200202.06,
   "payments": [
     {
       "id": "pi_3TT2WFDK4U0438JA0JLHUMGA",
@@ -47,18 +47,6 @@
       "amount": 160.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "81594303635",
-      "date": "2026-05-02",
-      "time": "22:18",
-      "name": "Alida Capellan",
-      "amount": 160.0,
-      "status": "settledSuccessfully",
-      "platform": "Auth.net",
       "ok": true,
       "settled": true,
       "pending": false
@@ -197,18 +185,6 @@
       "status": "succeeded",
       "platform": "Stripe",
       "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "81592866212",
-      "date": "2026-05-01",
-      "time": "22:31",
-      "name": "Yosmarlin",
-      "amount": 200.0,
-      "status": "declined",
-      "platform": "Auth.net",
-      "ok": false,
       "settled": true,
       "pending": false
     },
