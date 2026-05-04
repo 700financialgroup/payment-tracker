@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-04 22:50 UTC",
-  "today_total": 200.0,
-  "all_time_total": 200402.06,
+  "updated": "2026-05-04 23:23 UTC",
+  "today_total": 375.0,
+  "all_time_total": 200577.06,
   "payments": [
     {
       "id": "pi_3TTTACDK4U0438JA2WHLoTw6",
@@ -11,6 +11,18 @@
       "amount": 200.0,
       "status": "succeeded",
       "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "fb_renewal_19633_2026-05-04",
+      "date": "2026-05-04",
+      "time": "",
+      "name": "Melissa Roman",
+      "amount": 175.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
