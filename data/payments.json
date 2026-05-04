@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-03 23:48 UTC",
-  "today_total": 97.0,
-  "all_time_total": 200462.06,
+  "updated": "2026-05-04 00:48 UTC",
+  "today_total": 0,
+  "all_time_total": 200362.06,
   "payments": [
     {
       "id": "pi_3TT2WFDK4U0438JA0JLHUMGA",
@@ -1654,18 +1654,6 @@
       "amount": 175.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "zelle_28894205017",
-      "date": "2026-04-19",
-      "time": "",
-      "name": "Casilda Inoa Guzman",
-      "amount": 100.0,
-      "status": "received",
-      "platform": "Zelle",
       "ok": true,
       "settled": true,
       "pending": false
