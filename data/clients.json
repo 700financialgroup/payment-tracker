@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-04 16:38 UTC",
-  "total": 297,
+  "updated": "2026-05-04 17:36 UTC",
+  "total": 296,
   "clients": [
     {
       "id": "MKO9dFcJ4FqyuU8WJzHq",
@@ -842,7 +842,7 @@
     },
     {
       "id": "sWmmFNZOo772ztBUroqJ",
-      "name": "ariel ernesto vargas",
+      "name": "ariel vargas",
       "phone": "+16468297476",
       "email": "ariel141415@gmail.com",
       "round": 2,
@@ -5852,30 +5852,6 @@
         "language: spanish"
       ],
       "dateAdded": "2025-10-28"
-    },
-    {
-      "id": "uYSobJrESRibtEkujBzY",
-      "name": "test full run v3",
-      "phone": "+14070000003",
-      "email": "info+test@700financialgroup.com",
-      "round": 12,
-      "language": "English",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
-      "tags": [
-        "client.new",
-        "client.payment.recovery",
-        "client.graduated",
-        "client.round12",
-        "idiq issue",
-        "language: english",
-        "client.idiq.issue",
-        "sms opt-out",
-        "do not contact"
-      ],
-      "dateAdded": "2026-04-26"
     }
   ]
 }
