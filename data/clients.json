@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-05 21:26 UTC",
+  "updated": "2026-05-05 21:52 UTC",
   "total": 296,
   "clients": [
     {
@@ -428,7 +428,7 @@
     {
       "id": "FzDwX5xMwUNaRgo9gUWU",
       "name": "melissa roman",
-      "phone": null,
+      "phone": "+19294280286",
       "email": "romanmelissa1008@gmail.com",
       "round": 2,
       "language": "Spanish",
@@ -439,7 +439,8 @@
       "tags": [
         "language: spanish",
         "cleanup-backfill-2026-04-27",
-        "client.round2"
+        "client.round2",
+        "doc pending spanish"
       ],
       "dateAdded": "2026-04-27"
     },
