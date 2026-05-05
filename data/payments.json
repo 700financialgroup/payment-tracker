@@ -1,8 +1,32 @@
 {
-  "updated": "2026-05-05 16:38 UTC",
-  "today_total": 175.0,
-  "all_time_total": 200377.06,
+  "updated": "2026-05-05 17:37 UTC",
+  "today_total": 575.0,
+  "all_time_total": 200777.06,
   "payments": [
+    {
+      "id": "pi_3TTmqVDK4U0438JA0gBxrDu0",
+      "date": "2026-05-05",
+      "time": "17:33",
+      "name": "Laurycel Rodriguez",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TTml3DK4U0438JA1qUb0C0X",
+      "date": "2026-05-05",
+      "time": "17:27",
+      "name": "Laurycel Rodriguez",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TTlCzDK4U0438JA1MQjQGWQ",
       "date": "2026-05-05",
