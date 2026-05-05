@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-05 17:37 UTC",
-  "today_total": 575.0,
-  "all_time_total": 200777.06,
+  "updated": "2026-05-05 18:37 UTC",
+  "today_total": 925.0,
+  "all_time_total": 201127.06,
   "payments": [
     {
       "id": "pi_3TTmqVDK4U0438JA0gBxrDu0",
@@ -35,6 +35,30 @@
       "amount": 175.0,
       "status": "succeeded",
       "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "fb_renewal_19702_2026-05-05",
+      "date": "2026-05-05",
+      "time": "",
+      "name": "Deyaniris Garcia De Nunez",
+      "amount": 175.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "fb_renewal_19703_2026-05-05",
+      "date": "2026-05-05",
+      "time": "",
+      "name": "Deyaniris Garcia De Nunez",
+      "amount": 175.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
