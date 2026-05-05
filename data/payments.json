@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-04 23:49 UTC",
-  "today_total": 375.0,
-  "all_time_total": 200577.06,
+  "updated": "2026-05-05 00:45 UTC",
+  "today_total": 0,
+  "all_time_total": 200202.06,
   "payments": [
     {
       "id": "pi_3TTTACDK4U0438JA2WHLoTw6",
@@ -1559,30 +1559,6 @@
       "amount": 150.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_18793_2026-04-20",
-      "date": "2026-04-20",
-      "time": "",
-      "name": "Kirsy Munoz",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_18809_2026-04-20",
-      "date": "2026-04-20",
-      "time": "",
-      "name": "Crismery Paulino Castillo",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
