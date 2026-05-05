@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-05 18:37 UTC",
+  "updated": "2026-05-05 19:36 UTC",
   "today_total": 925.0,
   "all_time_total": 201127.06,
   "payments": [
+    {
+      "id": "pi_3TToE0DK4U0438JA2xmW46Fm",
+      "date": "2026-05-05",
+      "time": "19:01",
+      "name": "Lisbeirys Paredes P\u00e9rez",
+      "amount": 500.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TTmqVDK4U0438JA0gBxrDu0",
       "date": "2026-05-05",
