@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-06 20:06 UTC",
+  "updated": "2026-05-06 20:57 UTC",
   "total": 296,
   "clients": [
     {
@@ -892,12 +892,14 @@
       "installment": 0,
       "platform": "Auth.net",
       "flags": [
-        "no_show"
+        "no_show",
+        "idiq_fail"
       ],
       "tags": [
         "no show to call",
         "client.round2",
-        "language: spanish"
+        "language: spanish",
+        "idiq fail"
       ],
       "dateAdded": "2026-01-01"
     },
@@ -3418,12 +3420,14 @@
       "installment": 0,
       "platform": "Auth.net",
       "flags": [
-        "no_show"
+        "no_show",
+        "idiq_fail"
       ],
       "tags": [
         "no show to call",
         "client.round4",
-        "language: spanish"
+        "language: spanish",
+        "idiq fail"
       ],
       "dateAdded": "2026-01-17"
     },
