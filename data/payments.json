@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-06 17:03 UTC",
-  "today_total": 160.0,
-  "all_time_total": 200912.06,
+  "updated": "2026-05-06 18:02 UTC",
+  "today_total": 660.0,
+  "all_time_total": 201412.06,
   "payments": [
+    {
+      "id": "pi_3TU9bfDK4U0438JA2Whq94zP",
+      "date": "2026-05-06",
+      "time": "17:51",
+      "name": "Lisbeirys Paredes P\u00e9rez",
+      "amount": 500.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "fb_renewal_19775_2026-05-06",
       "date": "2026-05-06",
