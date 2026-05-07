@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07 18:05 UTC",
+  "updated": "2026-05-07 19:08 UTC",
   "total": 296,
   "clients": [
     {
@@ -427,7 +427,7 @@
     },
     {
       "id": "FzDwX5xMwUNaRgo9gUWU",
-      "name": "melissa roman",
+      "name": "richie roman",
       "phone": "+19294280286",
       "email": "romanmelissa1008@gmail.com",
       "round": 2,
@@ -1019,7 +1019,7 @@
     },
     {
       "id": "AThikzG91ZJdzxxCEQQn",
-      "name": "luis carlos fr\u00edas castro",
+      "name": "luis frias castro",
       "phone": "+13477912316",
       "email": "luiscarlosfriascastro@gmail.com",
       "round": 2,
@@ -1680,13 +1680,15 @@
       "platform": "Auth.net",
       "flags": [
         "payment_missing",
+        "no_show",
         "idiq_fail"
       ],
       "tags": [
         "payment missing",
         "idiq fail",
         "client.round2",
-        "language: spanish"
+        "language: spanish",
+        "no show to call"
       ],
       "dateAdded": "2025-10-28"
     },
@@ -2448,7 +2450,7 @@
     },
     {
       "id": "hkFNgbNG0pwv9LYE2U8S",
-      "name": "lisbeth garcia aldaoud",
+      "name": "lisbeth garcia-aldaoud",
       "phone": "+19147464512",
       "email": "liisbethgarcia@gmail.com",
       "round": 3,
@@ -3061,7 +3063,7 @@
     },
     {
       "id": "UJzN77wSoEaitkdZdmBy",
-      "name": "marbelin\ud83d\udda4 consuelo almonte santana",
+      "name": "marbelin almonte santana",
       "phone": "+15513391185",
       "email": "marbelincalmonte14@gmail.com",
       "round": 3,
