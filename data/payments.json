@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-07 22:52 UTC",
-  "today_total": 1050.0,
-  "all_time_total": 202854.06,
+  "updated": "2026-05-07 23:23 UTC",
+  "today_total": 1250.0,
+  "all_time_total": 203054.06,
   "payments": [
+    {
+      "id": "pi_3TUav8DK4U0438JA11EIFeJ0",
+      "date": "2026-05-07",
+      "time": "23:01",
+      "name": "Vanessa colon Ramirez",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TUY0MDK4U0438JA03wBRCSD",
       "date": "2026-05-07",
