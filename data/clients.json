@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07 19:08 UTC",
+  "updated": "2026-05-07 20:03 UTC",
   "total": 296,
   "clients": [
     {
@@ -429,7 +429,7 @@
       "id": "FzDwX5xMwUNaRgo9gUWU",
       "name": "richie roman",
       "phone": "+19294280286",
-      "email": "romanmelissa1008@gmail.com",
+      "email": "richieroman15@gmail.com",
       "round": 2,
       "language": "Spanish",
       "plan": "",
@@ -439,8 +439,7 @@
       "tags": [
         "language: spanish",
         "cleanup-backfill-2026-04-27",
-        "client.round2",
-        "doc pending spanish"
+        "client.round2"
       ],
       "dateAdded": "2026-04-27"
     },
@@ -2515,10 +2514,13 @@
       "plan": "",
       "installment": 0,
       "platform": "Auth.net",
-      "flags": [],
+      "flags": [
+        "no_show"
+      ],
       "tags": [
         "client.round3",
-        "language: spanish"
+        "language: spanish",
+        "no show to call"
       ],
       "dateAdded": "2025-11-19"
     },
