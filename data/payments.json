@@ -1,8 +1,32 @@
 {
-  "updated": "2026-05-07 15:22 UTC",
-  "today_total": 150.0,
-  "all_time_total": 201954.06,
+  "updated": "2026-05-07 16:16 UTC",
+  "today_total": 350.0,
+  "all_time_total": 202154.06,
   "payments": [
+    {
+      "id": "pi_3TUTw8DK4U0438JA109iwDoy",
+      "date": "2026-05-07",
+      "time": "15:34",
+      "name": "Aleyda Rodriguez",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TUTv7DK4U0438JA1jKBFjim",
+      "date": "2026-05-07",
+      "time": "15:33",
+      "name": "Aleyda Rodriguez",
+      "amount": 200.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "zelle_29121626874",
       "date": "2026-05-07",
