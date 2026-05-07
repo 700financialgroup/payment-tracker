@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-07 19:08 UTC",
-  "today_total": 850.0,
-  "all_time_total": 202654.06,
+  "updated": "2026-05-07 20:03 UTC",
+  "today_total": 1050.0,
+  "all_time_total": 202854.06,
   "payments": [
+    {
+      "id": "pi_3TUY0MDK4U0438JA03wBRCSD",
+      "date": "2026-05-07",
+      "time": "19:54",
+      "name": "Richie roman",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TUUrnDK4U0438JA1cFeEzs7",
       "date": "2026-05-07",
