@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-06 23:48 UTC",
-  "today_total": 1227.0,
-  "all_time_total": 201979.06,
+  "updated": "2026-05-07 00:47 UTC",
+  "today_total": 0,
+  "all_time_total": 201804.06,
   "payments": [
     {
       "id": "pi_3TUDsgDK4U0438JA0gZbqBEC",
@@ -1376,18 +1376,6 @@
       "name": "Gislaine Peralta Guerrero",
       "amount": 175.0,
       "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_18980_2026-04-23",
-      "date": "2026-04-23",
-      "time": "",
-      "name": "Luis Gonzalez",
-      "amount": 175.0,
-      "status": "Renewal",
       "platform": "Fanbasis",
       "ok": true,
       "settled": true,
