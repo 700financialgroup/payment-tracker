@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-07 16:16 UTC",
-  "today_total": 350.0,
-  "all_time_total": 202154.06,
+  "updated": "2026-05-07 17:10 UTC",
+  "today_total": 850.0,
+  "all_time_total": 202654.06,
   "payments": [
+    {
+      "id": "pi_3TUUrnDK4U0438JA1cFeEzs7",
+      "date": "2026-05-07",
+      "time": "16:33",
+      "name": "\ud83c\udf38\ud83e\udd82Stefannia\ud83e\udd0d\u2728",
+      "amount": 500.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TUTw8DK4U0438JA109iwDoy",
       "date": "2026-05-07",
