@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-08 14:41 UTC",
-  "today_total": 0,
-  "all_time_total": 202559.06,
+  "updated": "2026-05-08 15:37 UTC",
+  "today_total": 10.0,
+  "all_time_total": 202569.06,
   "payments": [
+    {
+      "id": "pi_3TUqNuDK4U0438JA2lIiapYy",
+      "date": "2026-05-08",
+      "time": "15:32",
+      "name": "GT CONSULTING AND FINANCE LLC",
+      "amount": 10.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TUav8DK4U0438JA11EIFeJ0",
       "date": "2026-05-07",
