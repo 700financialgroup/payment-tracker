@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-08 22:24 UTC",
-  "today_total": 545.0,
-  "all_time_total": 203104.06,
+  "updated": "2026-05-08 22:49 UTC",
+  "today_total": 645.0,
+  "all_time_total": 203204.06,
   "payments": [
+    {
+      "id": "pi_3TUx3mDK4U0438JA2zFCl1We",
+      "date": "2026-05-08",
+      "time": "22:39",
+      "name": "Nelissa Silva",
+      "amount": 100.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TUwaODK4U0438JA28sqEeTc",
       "date": "2026-05-08",
