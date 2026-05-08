@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-08 19:34 UTC",
-  "today_total": 10.0,
-  "all_time_total": 202569.06,
+  "updated": "2026-05-08 20:26 UTC",
+  "today_total": 185.0,
+  "all_time_total": 202744.06,
   "payments": [
     {
       "id": "pi_3TUqNuDK4U0438JA2lIiapYy",
@@ -11,6 +11,18 @@
       "amount": 10.0,
       "status": "succeeded",
       "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "fb_renewal_19924_2026-05-08",
+      "date": "2026-05-08",
+      "time": "",
+      "name": "Inmaculada Rodriguez",
+      "amount": 175.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
