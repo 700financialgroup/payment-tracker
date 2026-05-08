@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-07 23:49 UTC",
-  "today_total": 1250.0,
-  "all_time_total": 203054.06,
+  "updated": "2026-05-08 00:48 UTC",
+  "today_total": 0,
+  "all_time_total": 202559.06,
   "payments": [
     {
       "id": "pi_3TUav8DK4U0438JA11EIFeJ0",
@@ -1437,42 +1437,6 @@
       "amount": 500.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_19035_2026-04-23",
-      "date": "2026-04-23",
-      "time": "",
-      "name": "Gislaine Peralta Guerrero",
-      "amount": 175.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_19020_2026-04-23",
-      "date": "2026-04-23",
-      "time": "",
-      "name": "Winiffer Ramirez",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_19027_2026-04-23",
-      "date": "2026-04-23",
-      "time": "",
-      "name": "Pedro Rodriguez",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
