@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-08 21:50 UTC",
-  "today_total": 345.0,
-  "all_time_total": 202904.06,
+  "updated": "2026-05-08 22:24 UTC",
+  "today_total": 545.0,
+  "all_time_total": 203104.06,
   "payments": [
+    {
+      "id": "pi_3TUwaODK4U0438JA28sqEeTc",
+      "date": "2026-05-08",
+      "time": "22:09",
+      "name": "Keiser Castillo",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TUqNuDK4U0438JA2lIiapYy",
       "date": "2026-05-08",
