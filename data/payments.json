@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-09 19:28 UTC",
-  "today_total": 0,
-  "all_time_total": 203074.06,
+  "updated": "2026-05-09 19:53 UTC",
+  "today_total": 160.0,
+  "all_time_total": 203234.06,
   "payments": [
+    {
+      "id": "pi_3TVGhgDK4U0438JA2Be5g7hp",
+      "date": "2026-05-09",
+      "time": "19:38",
+      "name": "Jashlyn Rosario",
+      "amount": 160.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TVG8NDK4U0438JA1hU9Hici",
       "date": "2026-05-09",
