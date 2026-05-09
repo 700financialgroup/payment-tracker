@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-08 23:49 UTC",
-  "today_total": 1125.0,
-  "all_time_total": 203684.06,
+  "updated": "2026-05-09 00:48 UTC",
+  "today_total": 0,
+  "all_time_total": 203074.06,
   "payments": [
     {
       "id": "pi_3TUxQTDK4U0438JA1bf83Qpf",
@@ -1346,54 +1346,6 @@
       "amount": 175.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "zelle_28948822993",
-      "date": "2026-04-24",
-      "time": "",
-      "name": "Lorena Arroyo Henriquez",
-      "amount": 100.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_19080_2026-04-24",
-      "date": "2026-04-24",
-      "time": "",
-      "name": "Brianna De La Cruz",
-      "amount": 175.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_19086_2026-04-24",
-      "date": "2026-04-24",
-      "time": "",
-      "name": "Daylin Zulueta",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_19103_2026-04-24",
-      "date": "2026-04-24",
-      "time": "",
-      "name": "Adrian Marte Mendoza",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
