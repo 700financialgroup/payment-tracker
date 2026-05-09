@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09 16:22 UTC",
+  "updated": "2026-05-09 16:49 UTC",
   "total": 296,
   "clients": [
     {
@@ -978,18 +978,22 @@
     },
     {
       "id": "6IaF8xhcqbvyfd6oafui",
-      "name": "angela valeria romero gonzales",
+      "name": "angela v romero gonzalez",
       "phone": "+19789675748",
       "email": "angelafebrillet@gmail.com",
       "round": 2,
       "language": "Spanish",
-      "plan": "",
+      "plan": "900 Payment Plan",
       "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
+      "platform": "Fanbasis",
+      "flags": [
+        "fanbasis_failed"
+      ],
       "tags": [
         "client.round2",
-        "language: spanish"
+        "language: spanish",
+        "fanbasis failed",
+        "fanbasis contact"
       ],
       "dateAdded": "2025-12-03"
     },
