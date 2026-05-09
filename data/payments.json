@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-09 21:48 UTC",
-  "today_total": 160.0,
-  "all_time_total": 203234.06,
+  "updated": "2026-05-09 22:18 UTC",
+  "today_total": 320.0,
+  "all_time_total": 203394.06,
   "payments": [
     {
       "id": "pi_3TVGhgDK4U0438JA2Be5g7hp",
@@ -25,6 +25,18 @@
       "platform": "Stripe",
       "ok": false,
       "settled": false,
+      "pending": false
+    },
+    {
+      "id": "fb_renewal_19976_2026-05-09",
+      "date": "2026-05-09",
+      "time": "",
+      "name": "Lisabel Lopez",
+      "amount": 160.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
       "pending": false
     },
     {
