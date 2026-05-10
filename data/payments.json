@@ -1,8 +1,44 @@
 {
-  "updated": "2026-05-10 17:23 UTC",
-  "today_total": 175.0,
-  "all_time_total": 203409.06,
+  "updated": "2026-05-10 17:49 UTC",
+  "today_total": 350.0,
+  "all_time_total": 203584.06,
   "payments": [
+    {
+      "id": "pi_3TVbIWDK4U0438JA1xs0ZJvt",
+      "date": "2026-05-10",
+      "time": "17:37",
+      "name": "Angelica Ortiz",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TVbHjDK4U0438JA1k6IOATl",
+      "date": "2026-05-10",
+      "time": "17:36",
+      "name": "Angelica Ortiz",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3TVbHCDK4U0438JA26Pxo6gX",
+      "date": "2026-05-10",
+      "time": "17:36",
+      "name": "Angelica Ortiz",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "fb_renewal_19993_2026-05-10",
       "date": "2026-05-10",
