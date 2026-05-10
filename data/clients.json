@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10 23:22 UTC",
+  "updated": "2026-05-10 23:49 UTC",
   "total": 296,
   "clients": [
     {
@@ -633,16 +633,19 @@
       "email": "briangelmejia19@gmail.com",
       "round": 2,
       "language": "Spanish",
-      "plan": "",
+      "plan": "900 Payment Plan",
       "installment": 0,
-      "platform": "Auth.net",
+      "platform": "Fanbasis",
       "flags": [
-        "no_show"
+        "no_show",
+        "fanbasis_failed"
       ],
       "tags": [
         "no show to call",
         "client.round2",
-        "language: spanish"
+        "language: spanish",
+        "fanbasis failed",
+        "fanbasis contact"
       ],
       "dateAdded": "2026-02-27"
     },
