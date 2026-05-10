@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-09 23:48 UTC",
-  "today_total": 320.0,
-  "all_time_total": 203394.06,
+  "updated": "2026-05-10 00:51 UTC",
+  "today_total": 0,
+  "all_time_total": 203234.06,
   "payments": [
     {
       "id": "pi_3TVGhgDK4U0438JA2Be5g7hp",
@@ -1175,54 +1175,6 @@
       "platform": "Stripe",
       "ok": true,
       "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_19147_2026-04-25",
-      "date": "2026-04-25",
-      "time": "",
-      "name": "Marianne Bencosme",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_dispute_19137_2026-04-25",
-      "date": "2026-04-25",
-      "time": "",
-      "name": "Carolina Duran",
-      "amount": 196.4,
-      "status": "DISPUTE OPENED",
-      "platform": "Fanbasis",
-      "ok": false,
-      "settled": false,
-      "pending": false
-    },
-    {
-      "id": "fb_dispute_19138_2026-04-25",
-      "date": "2026-04-25",
-      "time": "",
-      "name": "Carolina Duran",
-      "amount": 196.4,
-      "status": "DISPUTE OPENED",
-      "platform": "Fanbasis",
-      "ok": false,
-      "settled": false,
-      "pending": false
-    },
-    {
-      "id": "fb_dispute_19139_2026-04-25",
-      "date": "2026-04-25",
-      "time": "",
-      "name": "Carolina Duran",
-      "amount": 196.4,
-      "status": "DISPUTE OPENED",
-      "platform": "Fanbasis",
-      "ok": false,
-      "settled": false,
       "pending": false
     },
     {
