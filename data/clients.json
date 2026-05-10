@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10 17:49 UTC",
+  "updated": "2026-05-10 18:25 UTC",
   "total": 296,
   "clients": [
     {
@@ -847,16 +847,19 @@
       "email": "ariel141415@gmail.com",
       "round": 2,
       "language": "Spanish",
-      "plan": "",
+      "plan": "900 Payment Plan Promocion",
       "installment": 0,
-      "platform": "Auth.net",
+      "platform": "Fanbasis",
       "flags": [
-        "idiq_fail"
+        "idiq_fail",
+        "fanbasis_failed"
       ],
       "tags": [
         "idiq fail",
         "client.round2",
-        "language: spanish"
+        "language: spanish",
+        "fanbasis failed",
+        "fanbasis contact"
       ],
       "dateAdded": "2026-01-06"
     },
