@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10 22:48 UTC",
+  "updated": "2026-05-10 23:22 UTC",
   "today_total": 350.0,
   "all_time_total": 203584.06,
   "payments": [
@@ -117,7 +117,7 @@
       "time": "22:52",
       "name": "Jose Miguel Perez Gil",
       "amount": 160.0,
-      "status": "requires_action",
+      "status": "requires_payment_method",
       "platform": "Stripe",
       "ok": false,
       "settled": false,
