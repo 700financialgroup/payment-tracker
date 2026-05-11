@@ -157,7 +157,7 @@ def pull_gmail():
         mail = imaplib.IMAP4_SSL('imap.gmail.com')
         mail.login(GMAIL_ADDRESS, GMAIL_PASSWORD)
         mail.select('"[Gmail]/All Mail"')
-        since = (datetime.utcnow()-timedelta(days=14)).strftime('%d-%b-%Y')
+        since = (datetime.utcnow()-timedelta(days=90)).strftime('%d-%b-%Y')
 
         # ZELLE
         _, msgs = mail.search(None, f'(FROM "no.reply.alerts@chase.com" SUBJECT "You received money with Zelle" SINCE {since})')
