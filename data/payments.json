@@ -1,8 +1,32 @@
 {
-  "updated": "2026-05-11 21:33 UTC",
-  "today_total": 725.0,
-  "all_time_total": 240162.76,
+  "updated": "2026-05-11 22:27 UTC",
+  "today_total": 1085.0,
+  "all_time_total": 240522.76,
   "payments": [
+    {
+      "id": "pi_3TW2G4DK4U0438JA0frnwd3i",
+      "date": "2026-05-11",
+      "time": "22:25",
+      "name": "Yariber Martinez nunez",
+      "amount": 160.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TW29wDK4U0438JA0m7j1URU",
+      "date": "2026-05-11",
+      "time": "22:18",
+      "name": "aglaura bertance",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TVz5zDK4U0438JA1u0YEnCp",
       "date": "2026-05-11",
