@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-11 22:27 UTC",
-  "today_total": 1085.0,
-  "all_time_total": 240522.76,
+  "updated": "2026-05-11 22:51 UTC",
+  "today_total": 1285.0,
+  "all_time_total": 240722.76,
   "payments": [
+    {
+      "id": "pi_3TW2IcDK4U0438JA1gOJSY3r",
+      "date": "2026-05-11",
+      "time": "22:27",
+      "name": "Cristian lopez",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TW2G4DK4U0438JA0frnwd3i",
       "date": "2026-05-11",
