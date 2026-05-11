@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11 18:44 UTC",
+  "updated": "2026-05-11 19:37 UTC",
   "total": 296,
   "clients": [
     {
@@ -564,10 +564,13 @@
       "plan": "",
       "installment": 0,
       "platform": "Auth.net",
-      "flags": [],
+      "flags": [
+        "idiq_fail"
+      ],
       "tags": [
         "client.round2",
-        "language: spanish"
+        "language: spanish",
+        "idiq fail"
       ],
       "dateAdded": "2026-03-03"
     },
@@ -993,13 +996,15 @@
       "installment": 0,
       "platform": "Fanbasis",
       "flags": [
+        "idiq_fail",
         "fanbasis_failed"
       ],
       "tags": [
         "client.round2",
         "language: spanish",
         "fanbasis failed",
-        "fanbasis contact"
+        "fanbasis contact",
+        "idiq fail"
       ],
       "dateAdded": "2025-12-03"
     },
@@ -1771,11 +1776,14 @@
       "plan": "",
       "installment": 0,
       "platform": "Auth.net",
-      "flags": [],
+      "flags": [
+        "idiq_fail"
+      ],
       "tags": [
         "language: spanish",
         "cleanup-backfill-2026-04-27",
-        "client.round3"
+        "client.round3",
+        "idiq fail"
       ],
       "dateAdded": "2026-04-27"
     },
