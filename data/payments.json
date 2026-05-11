@@ -1,8 +1,56 @@
 {
-  "updated": "2026-05-11 15:43 UTC",
-  "today_total": 175.0,
-  "all_time_total": 239612.76,
+  "updated": "2026-05-11 16:58 UTC",
+  "today_total": 325.0,
+  "all_time_total": 239762.76,
   "payments": [
+    {
+      "id": "pi_3TVwx8DK4U0438JA0orhoBoU",
+      "date": "2026-05-11",
+      "time": "16:45",
+      "name": "Angela Ramirez Valentin",
+      "amount": 200.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3TVwvmDK4U0438JA2KK9vma8",
+      "date": "2026-05-11",
+      "time": "16:43",
+      "name": "Cris Nicole Gonzalez Castro",
+      "amount": 150.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TVwtoDK4U0438JA2mSQVT9T",
+      "date": "2026-05-11",
+      "time": "16:41",
+      "name": "Angela Ramirez Valentin",
+      "amount": 200.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3TVwsrDK4U0438JA08qHJfCu",
+      "date": "2026-05-11",
+      "time": "16:40",
+      "name": "Angela Ramirez Valentin",
+      "amount": 200.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "fb_renewal_20002_2026-05-11",
       "date": "2026-05-11",
