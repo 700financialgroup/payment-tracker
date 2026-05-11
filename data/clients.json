@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11 19:37 UTC",
+  "updated": "2026-05-11 20:40 UTC",
   "total": 296,
   "clients": [
     {
@@ -2589,10 +2589,13 @@
       "plan": "",
       "installment": 0,
       "platform": "Auth.net",
-      "flags": [],
+      "flags": [
+        "idiq_fail"
+      ],
       "tags": [
         "client.round3",
-        "language: spanish"
+        "language: spanish",
+        "idiq fail"
       ],
       "dateAdded": "2025-11-19"
     },
@@ -3718,11 +3721,14 @@
       "plan": "",
       "installment": 0,
       "platform": "Auth.net",
-      "flags": [],
+      "flags": [
+        "idiq_fail"
+      ],
       "tags": [
         "payment.deposit_paid",
         "client.round4",
-        "language: spanish"
+        "language: spanish",
+        "idiq fail"
       ],
       "dateAdded": "2025-12-22"
     },
@@ -4979,13 +4985,15 @@
       "installment": 0,
       "platform": "Auth.net",
       "flags": [
-        "payment_missing"
+        "payment_missing",
+        "idiq_fail"
       ],
       "tags": [
         "payment missing",
         "payment.deposit_paid",
         "client.round4",
-        "language: spanish"
+        "language: spanish",
+        "idiq fail"
       ],
       "dateAdded": "2025-10-29"
     },
@@ -5263,10 +5271,13 @@
       "plan": "",
       "installment": 0,
       "platform": "Auth.net",
-      "flags": [],
+      "flags": [
+        "idiq_fail"
+      ],
       "tags": [
         "client.round5",
-        "language: spanish"
+        "language: spanish",
+        "idiq fail"
       ],
       "dateAdded": "2026-04-09"
     },
