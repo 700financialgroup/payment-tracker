@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11 23:24 UTC",
+  "updated": "2026-05-11 23:50 UTC",
   "total": 296,
   "clients": [
     {
@@ -92,18 +92,22 @@
     },
     {
       "id": "1YUSrBOu68YlUo4MsiZx",
-      "name": "esmerling manuel delgado cruz",
+      "name": "esmerling delgado",
       "phone": "+13329996740",
       "email": "esmerlingmdc@gmail.com",
       "round": 1,
       "language": "Spanish",
-      "plan": "",
+      "plan": "900 Payment Plan",
       "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
+      "platform": "Fanbasis",
+      "flags": [
+        "fanbasis_failed"
+      ],
       "tags": [
         "client.round1",
-        "language: spanish"
+        "language: spanish",
+        "fanbasis failed",
+        "fanbasis contact"
       ],
       "dateAdded": "2026-03-12"
     },
