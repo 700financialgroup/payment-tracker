@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12 18:15 UTC",
+  "updated": "2026-05-12 19:12 UTC",
   "total": 296,
   "clients": [
     {
@@ -858,7 +858,7 @@
       "round": 2,
       "language": "Spanish",
       "plan": "900 Payment Plan Promocion",
-      "installment": 0,
+      "installment": 160.0,
       "platform": "Fanbasis",
       "flags": [
         "idiq_fail",
