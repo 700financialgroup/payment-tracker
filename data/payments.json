@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-12 22:32 UTC",
+  "updated": "2026-05-12 23:28 UTC",
   "today_total": 1172.0,
   "all_time_total": 241561.42,
   "payments": [
+    {
+      "id": "pi_3TWP50DK4U0438JA2Bu0HpIT",
+      "date": "2026-05-12",
+      "time": "22:47",
+      "name": "Annie Marin lopez",
+      "amount": 10.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TWOm5DK4U0438JA0KAT2L0D",
       "date": "2026-05-12",
