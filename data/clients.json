@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12 23:28 UTC",
+  "updated": "2026-05-12 23:53 UTC",
   "total": 296,
   "clients": [
     {
@@ -641,7 +641,7 @@
       "round": 2,
       "language": "Spanish",
       "plan": "900 Payment Plan",
-      "installment": 0,
+      "installment": 175.0,
       "platform": "Fanbasis",
       "flags": [
         "no_show",
