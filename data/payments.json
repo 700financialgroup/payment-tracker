@@ -1,8 +1,44 @@
 {
-  "updated": "2026-05-12 18:15 UTC",
-  "today_total": 297.0,
-  "all_time_total": 240686.42,
+  "updated": "2026-05-12 19:12 UTC",
+  "today_total": 797.0,
+  "all_time_total": 241186.42,
   "payments": [
+    {
+      "id": "pi_3TWLZaDK4U0438JA0BCBB5Ve",
+      "date": "2026-05-12",
+      "time": "19:02",
+      "name": "Yesmelin Nunez",
+      "amount": 150.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3TWLYmDK4U0438JA2LHsSOjS",
+      "date": "2026-05-12",
+      "time": "19:01",
+      "name": "Danyeli mercedes",
+      "amount": 100.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3TWLYiDK4U0438JA2zy0vHHd",
+      "date": "2026-05-12",
+      "time": "19:01",
+      "name": "Lisbeirys Paredes P\u00e9rez",
+      "amount": 500.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TWJESDK4U0438JA0dNlQb2v",
       "date": "2026-05-12",
