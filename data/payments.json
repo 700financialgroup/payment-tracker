@@ -1,8 +1,32 @@
 {
-  "updated": "2026-05-12 23:53 UTC",
-  "today_total": 1322.0,
-  "all_time_total": 241711.42,
+  "updated": "2026-05-13 00:52 UTC",
+  "today_total": 300.0,
+  "all_time_total": 241851.42,
   "payments": [
+    {
+      "id": "pi_3TWQcYDK4U0438JA0WEziEkj",
+      "date": "2026-05-13",
+      "time": "00:25",
+      "name": "Danyeli mercedes",
+      "amount": 100.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TWQF4DK4U0438JA0NZJOL7v",
+      "date": "2026-05-13",
+      "time": "00:01",
+      "name": "Abigail Rivera",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TWQ2SDK4U0438JA1yJsQgrI",
       "date": "2026-05-12",
@@ -14355,18 +14379,6 @@
       "settled": false,
       "pending": false,
       "source": "historical_export"
-    },
-    {
-      "id": "fb_renewal_15089_2026-02-11",
-      "date": "2026-02-11",
-      "time": "",
-      "name": "Ronny Ceballos",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
     },
     {
       "id": "fb_hist_2026-02-11_rosa_genao_900",
