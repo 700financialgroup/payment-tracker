@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13 21:07 UTC",
+  "updated": "2026-05-13 21:58 UTC",
   "total": 296,
   "clients": [
     {
@@ -397,18 +397,22 @@
     },
     {
       "id": "CDOrs5ZCaiMvI8b3hXvz",
-      "name": "luis f reyes rosario",
+      "name": "luis reyes",
       "phone": "+19738038815",
       "email": "reyesluis0357@gmail.com",
       "round": 1,
       "language": "Spanish",
-      "plan": "",
+      "plan": "900 Payment Plan",
       "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
+      "platform": "Fanbasis",
+      "flags": [
+        "fanbasis_failed"
+      ],
       "tags": [
         "client.round1",
-        "language: spanish"
+        "language: spanish",
+        "fanbasis failed",
+        "fanbasis contact"
       ],
       "dateAdded": "2025-10-28"
     },
@@ -945,10 +949,13 @@
       "plan": "",
       "installment": 0,
       "platform": "Auth.net",
-      "flags": [],
+      "flags": [
+        "no_show"
+      ],
       "tags": [
         "client.round2",
-        "language: spanish"
+        "language: spanish",
+        "no show to call"
       ],
       "dateAdded": "2025-12-11"
     },
