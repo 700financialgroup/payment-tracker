@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-13 23:53 UTC",
-  "today_total": 300.0,
-  "all_time_total": 241851.42,
+  "updated": "2026-05-14 00:53 UTC",
+  "today_total": 0,
+  "all_time_total": 241431.42,
   "payments": [
     {
       "id": "pi_3TWQcYDK4U0438JA0WEziEkj",
@@ -13893,18 +13893,6 @@
       "pending": false
     },
     {
-      "id": "fb_renewal_15212_2026-02-13",
-      "date": "2026-02-13",
-      "time": "",
-      "name": "Tirso Blanco",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
       "id": "fb_renewal_15257_2026-02-13",
       "date": "2026-02-13",
       "time": "",
@@ -14222,30 +14210,6 @@
       "amount": 297.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "zelle_28046947171",
-      "date": "2026-02-12",
-      "time": "",
-      "name": "Elaine Lopez Polanco",
-      "amount": 100.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_15146_2026-02-12",
-      "date": "2026-02-12",
-      "time": "",
-      "name": "Winiffer Ramirez",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
