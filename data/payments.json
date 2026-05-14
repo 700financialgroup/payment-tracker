@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-14 13:09 UTC",
-  "today_total": 160.0,
-  "all_time_total": 241591.42,
+  "updated": "2026-05-14 14:18 UTC",
+  "today_total": 335.0,
+  "all_time_total": 241766.42,
   "payments": [
+    {
+      "id": "pi_3TWzeZDK4U0438JA0JMNjVgw",
+      "date": "2026-05-14",
+      "time": "13:50",
+      "name": "Stephany Grullon Barbosa",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "fb_renewal_20217_2026-05-14",
       "date": "2026-05-14",
