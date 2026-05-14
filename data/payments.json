@@ -1,18 +1,30 @@
 {
-  "updated": "2026-05-14 17:12 UTC",
-  "today_total": 535.0,
-  "all_time_total": 241966.42,
+  "updated": "2026-05-14 18:10 UTC",
+  "today_total": 910.0,
+  "all_time_total": 242341.42,
   "payments": [
+    {
+      "id": "pi_3TX3QFDK4U0438JA2fJXWgci",
+      "date": "2026-05-14",
+      "time": "17:51",
+      "name": "Ronel fernandez",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TX2nGDK4U0438JA0fe1wHdR",
       "date": "2026-05-14",
       "time": "17:11",
       "name": "elianny reynoso",
       "amount": 175.0,
-      "status": "requires_payment_method",
+      "status": "succeeded",
       "platform": "Stripe",
-      "ok": false,
-      "settled": false,
+      "ok": true,
+      "settled": true,
       "pending": false
     },
     {
