@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-14 23:50 UTC",
-  "today_total": 1070.0,
-  "all_time_total": 242501.42,
+  "updated": "2026-05-15 00:50 UTC",
+  "today_total": 0,
+  "all_time_total": 239681.42,
   "payments": [
     {
       "id": "pi_3TX3QFDK4U0438JA2fJXWgci",
@@ -13948,42 +13948,6 @@
       "amount": 97.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_15250_2026-02-13",
-      "date": "2026-02-13",
-      "time": "",
-      "name": "Edison Vargas",
-      "amount": 2500.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_15257_2026-02-13",
-      "date": "2026-02-13",
-      "time": "",
-      "name": "Carolin Romero",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_15271_2026-02-13",
-      "date": "2026-02-13",
-      "time": "",
-      "name": "Elizabeth Lang",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
