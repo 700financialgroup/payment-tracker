@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14 23:50 UTC",
+  "updated": "2026-05-15 00:50 UTC",
   "total": 296,
   "clients": [
     {
@@ -5758,7 +5758,8 @@
       "tags": [
         "client.round5",
         "docs pending spanish",
-        "language: spanish"
+        "language: spanish",
+        "booked appointment"
       ],
       "dateAdded": "2025-10-28"
     },
