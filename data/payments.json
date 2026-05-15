@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-15 12:11 UTC",
-  "today_total": 0,
-  "all_time_total": 239681.42,
+  "updated": "2026-05-15 13:09 UTC",
+  "today_total": 50.0,
+  "all_time_total": 239731.42,
   "payments": [
+    {
+      "id": "zelle_29226931962",
+      "date": "2026-05-15",
+      "time": "",
+      "name": "Annie B Robinson Enterprises Llc",
+      "amount": 50.0,
+      "status": "received",
+      "platform": "Zelle",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TX3QFDK4U0438JA2fJXWgci",
       "date": "2026-05-14",
