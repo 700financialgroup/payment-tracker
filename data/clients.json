@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15 01:42 UTC",
+  "updated": "2026-05-15 03:14 UTC",
   "total": 296,
   "clients": [
     {
@@ -2143,6 +2143,26 @@
       "dateAdded": "2025-12-08"
     },
     {
+      "id": "EpwSaZuO3vfXJmYBt557",
+      "name": "claribel burdier",
+      "phone": "+14847219704",
+      "email": "ckary2281@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "idiq fail",
+        "client.round3",
+        "language: spanish"
+      ],
+      "dateAdded": "2025-11-29"
+    },
+    {
       "id": "rDlFV4NEZapFSJbqP35h",
       "name": "sugeidy perez",
       "phone": "+13478590832",
@@ -2307,7 +2327,7 @@
     {
       "id": "FriwVsdEqwBqds41ccoE",
       "name": "denise almonte",
-      "phone": "+19733917738",
+      "phone": "+19733917735",
       "email": "denisealmonte0421@gmail.com",
       "round": 3,
       "language": "Spanish",
@@ -2609,26 +2629,6 @@
         "client.round3",
         "language: spanish",
         "idiq fail"
-      ],
-      "dateAdded": "2025-11-19"
-    },
-    {
-      "id": "v6s5dOc9Lh5eelNaB5tI",
-      "name": "claribel burdier",
-      "phone": null,
-      "email": "clary2281@gmail.com",
-      "round": 3,
-      "language": "Spanish",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [
-        "idiq_fail"
-      ],
-      "tags": [
-        "idiq fail",
-        "client.round3",
-        "language: spanish"
       ],
       "dateAdded": "2025-11-19"
     },
