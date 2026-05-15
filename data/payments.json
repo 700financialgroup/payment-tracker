@@ -1,8 +1,32 @@
 {
-  "updated": "2026-05-15 16:15 UTC",
-  "today_total": 50.0,
-  "all_time_total": 239731.42,
+  "updated": "2026-05-15 17:06 UTC",
+  "today_total": 410.0,
+  "all_time_total": 240091.42,
   "payments": [
+    {
+      "id": "pi_3TXOxxDK4U0438JA1AbX7aPt",
+      "date": "2026-05-15",
+      "time": "16:52",
+      "name": "Emmanuel Novas Arias",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TXObyDK4U0438JA2XkDZnGY",
+      "date": "2026-05-15",
+      "time": "16:29",
+      "name": "Ashley Reyes",
+      "amount": 160.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "zelle_29226931962",
       "date": "2026-05-15",
