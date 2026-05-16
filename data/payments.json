@@ -1,8 +1,32 @@
 {
-  "updated": "2026-05-15 23:49 UTC",
-  "today_total": 585.0,
-  "all_time_total": 240266.42,
+  "updated": "2026-05-16 00:47 UTC",
+  "today_total": 375.0,
+  "all_time_total": 240321.42,
   "payments": [
+    {
+      "id": "pi_3TXW0TDK4U0438JA0CpU7fwj",
+      "date": "2026-05-16",
+      "time": "00:23",
+      "name": "Gladis Cacerez",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "fb_renewal_20359_2026-05-16",
+      "date": "2026-05-16",
+      "time": "",
+      "name": "Jessica Vargas",
+      "amount": 175.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TXOxxDK4U0438JA1AbX7aPt",
       "date": "2026-05-15",
@@ -13618,18 +13642,6 @@
       "pending": false
     },
     {
-      "id": "fb_dispute_15319_2026-02-15",
-      "date": "2026-02-15",
-      "time": "",
-      "name": "Yenifer Hernandez",
-      "amount": 190.0,
-      "status": "DISPUTE OPENED",
-      "platform": "Fanbasis",
-      "ok": false,
-      "settled": false,
-      "pending": false
-    },
-    {
       "id": "fb_hist_2026-02-15_frandy_quezada_160",
       "date": "2026-02-15",
       "time": "16:50",
@@ -13789,30 +13801,6 @@
       "settled": false,
       "pending": false,
       "source": "historical_export"
-    },
-    {
-      "id": "fb_sale_15311_2026-02-14",
-      "date": "2026-02-14",
-      "time": "",
-      "name": "Anabel Altagracia Colon De Tavarez",
-      "amount": 160.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_15317_2026-02-14",
-      "date": "2026-02-14",
-      "time": "",
-      "name": "Genesis Suriel",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
     },
     {
       "id": "fb_hist_2026-02-14_genesis_suriel_160",
