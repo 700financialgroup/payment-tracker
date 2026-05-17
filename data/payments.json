@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-16 23:49 UTC",
-  "today_total": 475.0,
-  "all_time_total": 240421.42,
+  "updated": "2026-05-17 00:53 UTC",
+  "today_total": 0,
+  "all_time_total": 240261.42,
   "payments": [
     {
       "id": "pi_3TXW0TDK4U0438JA0CpU7fwj",
@@ -13640,18 +13640,6 @@
       "settled": true,
       "pending": false,
       "source": "historical_export"
-    },
-    {
-      "id": "fb_renewal_15326_2026-02-15",
-      "date": "2026-02-15",
-      "time": "",
-      "name": "Yelissbet Grullon",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
     },
     {
       "id": "fb_hist_2026-02-15_frandy_quezada_160",
