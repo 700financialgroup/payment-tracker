@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17 16:25 UTC",
+  "updated": "2026-05-17 16:50 UTC",
   "total": 296,
   "clients": [
     {
@@ -43,13 +43,17 @@
       "email": "evyrod0517@gmail.com",
       "round": 1,
       "language": "Spanish",
-      "plan": "",
+      "plan": "900 Payment Plan",
       "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
+      "platform": "Fanbasis",
+      "flags": [
+        "fanbasis_failed"
+      ],
       "tags": [
         "client.round1",
-        "language: spanish"
+        "language: spanish",
+        "fanbasis failed",
+        "fanbasis contact"
       ],
       "dateAdded": "2026-04-02"
     },
