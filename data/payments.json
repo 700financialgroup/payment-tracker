@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-17 14:35 UTC",
-  "today_total": 0,
-  "all_time_total": 240261.42,
+  "updated": "2026-05-17 15:27 UTC",
+  "today_total": 100.0,
+  "all_time_total": 240361.42,
   "payments": [
+    {
+      "id": "pi_3TY68DDK4U0438JA24IrJluY",
+      "date": "2026-05-17",
+      "time": "14:57",
+      "name": "Niurka Reyes",
+      "amount": 100.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TXW0TDK4U0438JA0CpU7fwj",
       "date": "2026-05-16",
