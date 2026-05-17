@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17 21:50 UTC",
+  "updated": "2026-05-17 22:21 UTC",
   "total": 296,
   "clients": [
     {
@@ -3548,13 +3548,17 @@
       "email": "gsuriel704@gmail.com",
       "round": 4,
       "language": "English",
-      "plan": "",
+      "plan": "900 Payment Plan Promocion",
       "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
+      "platform": "Fanbasis",
+      "flags": [
+        "fanbasis_failed"
+      ],
       "tags": [
         "client.round4",
-        "language: spanish"
+        "language: spanish",
+        "fanbasis failed",
+        "fanbasis contact"
       ],
       "dateAdded": "2026-01-10"
     },
