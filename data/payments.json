@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-17 19:58 UTC",
-  "today_total": 100.0,
-  "all_time_total": 240361.42,
+  "updated": "2026-05-17 20:25 UTC",
+  "today_total": 275.0,
+  "all_time_total": 240536.42,
   "payments": [
     {
       "id": "pi_3TY9wwDK4U0438JA1SwT74pQ",
@@ -23,6 +23,18 @@
       "amount": 100.0,
       "status": "succeeded",
       "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "fb_renewal_20430_2026-05-17",
+      "date": "2026-05-17",
+      "time": "",
+      "name": "Andrea Beauchamp",
+      "amount": 175.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
