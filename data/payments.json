@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-17 22:50 UTC",
-  "today_total": 275.0,
-  "all_time_total": 240536.42,
+  "updated": "2026-05-17 23:23 UTC",
+  "today_total": 450.0,
+  "all_time_total": 240711.42,
   "payments": [
     {
       "id": "pi_3TY9wwDK4U0438JA1SwT74pQ",
@@ -32,6 +32,18 @@
       "date": "2026-05-17",
       "time": "",
       "name": "Andrea Beauchamp",
+      "amount": 175.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "fb_renewal_20432_2026-05-17",
+      "date": "2026-05-17",
+      "time": "",
+      "name": "Melany Mendez",
       "amount": 175.0,
       "status": "Renewal",
       "platform": "Fanbasis",
