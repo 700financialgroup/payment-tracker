@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-18 09:50 UTC",
-  "today_total": 175.0,
-  "all_time_total": 240586.42,
+  "updated": "2026-05-18 11:25 UTC",
+  "today_total": 350.0,
+  "all_time_total": 240761.42,
   "payments": [
+    {
+      "id": "pi_3TYNxIDK4U0438JA2PaLsatO",
+      "date": "2026-05-18",
+      "time": "09:59",
+      "name": "Jeffrey Angeles",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "fb_renewal_20433_2026-05-18",
       "date": "2026-05-18",
