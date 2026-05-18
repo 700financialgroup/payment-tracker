@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18 21:34 UTC",
+  "updated": "2026-05-18 22:26 UTC",
   "total": 296,
   "clients": [
     {
@@ -3784,13 +3784,15 @@
       "installment": 0,
       "platform": "Auth.net",
       "flags": [
-        "payment_missing"
+        "payment_missing",
+        "no_show"
       ],
       "tags": [
         "booked appointment",
         "payment missing",
         "client.round4",
-        "language: spanish"
+        "language: spanish",
+        "no show to call"
       ],
       "dateAdded": "2025-12-17"
     },
