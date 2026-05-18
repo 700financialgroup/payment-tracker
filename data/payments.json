@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-17 23:51 UTC",
-  "today_total": 450.0,
-  "all_time_total": 240711.42,
+  "updated": "2026-05-18 00:54 UTC",
+  "today_total": 175.0,
+  "all_time_total": 240586.42,
   "payments": [
+    {
+      "id": "fb_renewal_20433_2026-05-18",
+      "date": "2026-05-18",
+      "time": "",
+      "name": "Kelvin Pena",
+      "amount": 175.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TY9wwDK4U0438JA1SwT74pQ",
       "date": "2026-05-17",
@@ -13475,30 +13487,6 @@
       "settled": true,
       "pending": false,
       "source": "historical_export"
-    },
-    {
-      "id": "zelle_28098089310",
-      "date": "2026-02-16",
-      "time": "",
-      "name": "Myosotis Salazar",
-      "amount": 100.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_15372_2026-02-16",
-      "date": "2026-02-16",
-      "time": "",
-      "name": "Melany Mendez",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
     },
     {
       "id": "fb_hist_2026-02-16_melany_mendez_200",
