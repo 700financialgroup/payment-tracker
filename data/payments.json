@@ -1,8 +1,44 @@
 {
-  "updated": "2026-05-18 18:11 UTC",
-  "today_total": 350.0,
-  "all_time_total": 240761.42,
+  "updated": "2026-05-18 19:08 UTC",
+  "today_total": 750.0,
+  "all_time_total": 241161.42,
   "payments": [
+    {
+      "id": "pi_3TYWQrDK4U0438JA0PuDniMG",
+      "date": "2026-05-18",
+      "time": "19:02",
+      "name": "Elianny Cesarina Estevez Jaquez",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3TYWK0DK4U0438JA2Wn5EMmw",
+      "date": "2026-05-18",
+      "time": "18:55",
+      "name": "Juan Carlos Vickys Cousin CALLER",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TYW4YDK4U0438JA0hbxjz1Z",
+      "date": "2026-05-18",
+      "time": "18:39",
+      "name": "Joel a Colon",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TYNxIDK4U0438JA2PaLsatO",
       "date": "2026-05-18",
