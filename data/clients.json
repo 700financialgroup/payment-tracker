@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-19 00:54 UTC",
+  "updated": "2026-05-19 01:45 UTC",
   "total": 296,
   "clients": [
     {
@@ -29,10 +29,13 @@
       "plan": "",
       "installment": 0,
       "platform": "Auth.net",
-      "flags": [],
+      "flags": [
+        "idiq_fail"
+      ],
       "tags": [
         "client.round1",
-        "language: spanish"
+        "language: spanish",
+        "idiq fail"
       ],
       "dateAdded": "2026-04-05"
     },
@@ -4045,12 +4048,15 @@
       "plan": "",
       "installment": 0,
       "platform": "Auth.net",
-      "flags": [],
+      "flags": [
+        "idiq_fail"
+      ],
       "tags": [
         "payment.deposit_paid",
         "booked appointment",
         "client.round4",
-        "language: spanish"
+        "language: spanish",
+        "idiq fail"
       ],
       "dateAdded": "2025-11-28"
     },
