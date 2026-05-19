@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-19 18:52 UTC",
-  "total": 296,
+  "updated": "2026-05-19 19:38 UTC",
+  "total": 295,
   "clients": [
     {
       "id": "MKO9dFcJ4FqyuU8WJzHq",
@@ -948,7 +948,7 @@
     },
     {
       "id": "YvKGczVTPCbrNNEZlpwK",
-      "name": "dahianny carolina jimenez de altagracias",
+      "name": "dahianny carolina",
       "phone": "+18628884261",
       "email": "jimenezcarolina1011@gmail.com",
       "round": 2,
@@ -985,23 +985,6 @@
         "language: spanish"
       ],
       "dateAdded": "2025-12-09"
-    },
-    {
-      "id": "z6nXG6EeMSpGL3tgTI2j",
-      "name": "cruz robinson",
-      "phone": null,
-      "email": null,
-      "round": 2,
-      "language": "Spanish",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
-      "tags": [
-        "client.round2",
-        "language: spanish"
-      ],
-      "dateAdded": "2025-12-05"
     },
     {
       "id": "6IaF8xhcqbvyfd6oafui",
@@ -2661,7 +2644,7 @@
     },
     {
       "id": "v8I0MrdVOwW6P4PEcBXL",
-      "name": "angel vasquez balbuena",
+      "name": "angel gabriel vasquez balbuena",
       "phone": "+11717943516",
       "email": "enyeralexander1818@gmail.com",
       "round": 3,
