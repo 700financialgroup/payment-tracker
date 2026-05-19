@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-19 20:40 UTC",
-  "today_total": 1025.0,
-  "all_time_total": 241853.08,
+  "updated": "2026-05-19 21:36 UTC",
+  "today_total": 1200.0,
+  "all_time_total": 242028.08,
   "payments": [
+    {
+      "id": "pi_3TYumKDK4U0438JA1WzirNhF",
+      "date": "2026-05-19",
+      "time": "21:02",
+      "name": "Lady N Lantigua",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TYstTDK4U0438JA2RvvIQTZ",
       "date": "2026-05-19",
