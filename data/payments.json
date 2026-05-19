@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-18 23:54 UTC",
-  "today_total": 750.0,
-  "all_time_total": 241161.42,
+  "updated": "2026-05-19 00:54 UTC",
+  "today_total": 0,
+  "all_time_total": 240828.08,
   "payments": [
     {
       "id": "pi_3TYWQrDK4U0438JA0PuDniMG",
@@ -13392,18 +13392,6 @@
       "settled": false,
       "pending": false,
       "source": "historical_export"
-    },
-    {
-      "id": "fb_renewal_15418_2026-02-17",
-      "date": "2026-02-17",
-      "time": "",
-      "name": "Annie Marin Lopez",
-      "amount": 333.34,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
     },
     {
       "id": "fb_hist_2026-02-17_keidy_ventura_175",
