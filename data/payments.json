@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-19 15:11 UTC",
-  "today_total": 0,
-  "all_time_total": 240828.08,
+  "updated": "2026-05-19 16:36 UTC",
+  "today_total": 175.0,
+  "all_time_total": 241003.08,
   "payments": [
+    {
+      "id": "pi_3TYpdxDK4U0438JA07EaE1pU",
+      "date": "2026-05-19",
+      "time": "15:33",
+      "name": "Paula Michel romero gonzalez",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TYWQrDK4U0438JA0PuDniMG",
       "date": "2026-05-18",
