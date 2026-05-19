@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-19 16:36 UTC",
+  "updated": "2026-05-19 17:49 UTC",
   "total": 296,
   "clients": [
     {
@@ -948,13 +948,13 @@
     },
     {
       "id": "YvKGczVTPCbrNNEZlpwK",
-      "name": "dahianny carolina",
+      "name": "dahianny carolina jimenez de altagracias",
       "phone": "+18628884261",
       "email": "jimenezcarolina1011@gmail.com",
       "round": 2,
       "language": "Spanish",
-      "plan": "",
-      "installment": 0,
+      "plan": "Monthly Payment ",
+      "installment": 175.0,
       "platform": "Auth.net",
       "flags": [
         "no_show"
