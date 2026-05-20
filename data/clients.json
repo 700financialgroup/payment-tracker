@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20 17:11 UTC",
+  "updated": "2026-05-20 18:19 UTC",
   "total": 295,
   "clients": [
     {
@@ -756,16 +756,19 @@
       "email": "crismerlin78@gmail.com",
       "round": 2,
       "language": "Spanish",
-      "plan": "",
+      "plan": "900 Payment Plan",
       "installment": 0,
-      "platform": "Auth.net",
+      "platform": "Fanbasis",
       "flags": [
-        "sla_breached"
+        "sla_breached",
+        "fanbasis_failed"
       ],
       "tags": [
         "client.round2",
         "language: spanish",
-        "sla-breached"
+        "sla-breached",
+        "fanbasis failed",
+        "fanbasis contact"
       ],
       "dateAdded": "2026-02-03"
     },
@@ -1730,7 +1733,7 @@
     },
     {
       "id": "mOto6Hvx4dYHVD3JOjEN",
-      "name": "paola matias gomez",
+      "name": "paola gomez",
       "phone": "+19292885896",
       "email": "laquecontrola2020@gmail.com",
       "round": 2,
