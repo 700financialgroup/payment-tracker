@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-20 10:34 UTC",
-  "today_total": 0,
-  "all_time_total": 241928.08,
+  "updated": "2026-05-20 12:00 UTC",
+  "today_total": 150.0,
+  "all_time_total": 242078.08,
   "payments": [
+    {
+      "id": "pi_3TZ8QXDK4U0438JA1y4uuxvN",
+      "date": "2026-05-20",
+      "time": "11:36",
+      "name": "Maria Dominguez",
+      "amount": 150.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TYumKDK4U0438JA1WzirNhF",
       "date": "2026-05-19",
