@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-19 23:55 UTC",
-  "today_total": 1300.0,
-  "all_time_total": 242128.08,
+  "updated": "2026-05-20 00:58 UTC",
+  "today_total": 0,
+  "all_time_total": 241928.08,
   "payments": [
     {
       "id": "pi_3TYumKDK4U0438JA1WzirNhF",
@@ -13340,30 +13340,6 @@
       "settled": true,
       "pending": false,
       "source": "historical_export"
-    },
-    {
-      "id": "zelle_28115136904",
-      "date": "2026-02-18",
-      "time": "",
-      "name": "Casilda Inoa Guzman",
-      "amount": 100.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "zelle_28123431973",
-      "date": "2026-02-18",
-      "time": "",
-      "name": "Elio Jose Tatis Ramirez",
-      "amount": 100.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
     },
     {
       "id": "fb_hist_2026-02-18_keidy_ventura_175",
