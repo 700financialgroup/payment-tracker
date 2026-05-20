@@ -1,8 +1,32 @@
 {
-  "updated": "2026-05-20 21:13 UTC",
-  "today_total": 150.0,
-  "all_time_total": 242078.08,
+  "updated": "2026-05-20 22:07 UTC",
+  "today_total": 550.0,
+  "all_time_total": 242478.08,
   "payments": [
+    {
+      "id": "pi_3TZHquDK4U0438JA1eLJujqk",
+      "date": "2026-05-20",
+      "time": "21:40",
+      "name": "Ranyeris Rainieris Guerrero Ramirez",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TZHlhDK4U0438JA2hoV4gYO",
+      "date": "2026-05-20",
+      "time": "21:35",
+      "name": "Germaly Mendez",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TZFNUDK4U0438JA0MkTDZUv",
       "date": "2026-05-20",
