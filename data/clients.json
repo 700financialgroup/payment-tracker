@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20 22:58 UTC",
+  "updated": "2026-05-20 23:36 UTC",
   "total": 295,
   "clients": [
     {
@@ -3902,13 +3902,15 @@
       "installment": 0,
       "platform": "Auth.net",
       "flags": [
+        "idiq_fail",
         "sla_breached"
       ],
       "tags": [
         "booked appointment",
         "client.round4",
         "language: spanish",
-        "sla-breached"
+        "sla-breached",
+        "idiq fail"
       ],
       "dateAdded": "2025-12-05"
     },
