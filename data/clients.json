@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20 14:24 UTC",
+  "updated": "2026-05-20 15:48 UTC",
   "total": 295,
   "clients": [
     {
@@ -145,13 +145,17 @@
       "email": "kirsy05272216@gmail.com",
       "round": 1,
       "language": "Spanish",
-      "plan": "",
+      "plan": "900 Payment Plan",
       "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
+      "platform": "Fanbasis",
+      "flags": [
+        "fanbasis_failed"
+      ],
       "tags": [
         "client.round1",
-        "language: spanish"
+        "language: spanish",
+        "fanbasis failed",
+        "fanbasis contact"
       ],
       "dateAdded": "2026-03-11"
     },
