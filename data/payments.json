@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21 17:25 UTC",
+  "updated": "2026-05-21 18:13 UTC",
   "today_total": 450.0,
   "all_time_total": 242428.08,
   "payments": [
@@ -9,7 +9,7 @@
       "time": "17:23",
       "name": "Autumn Banks",
       "amount": 500.0,
-      "status": "requires_action",
+      "status": "requires_payment_method",
       "platform": "Stripe",
       "ok": false,
       "settled": false,
