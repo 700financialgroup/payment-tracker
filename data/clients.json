@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-21 22:54 UTC",
-  "total": 295,
+  "updated": "2026-05-21 23:27 UTC",
+  "total": 296,
   "clients": [
     {
       "id": "MKO9dFcJ4FqyuU8WJzHq",
@@ -5890,6 +5890,24 @@
         "language: spanish"
       ],
       "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "1phouESskxKRG734QU3v",
+      "name": "danny beltre",
+      "phone": "+14077522693",
+      "email": "dannybeltre25@gmail.com",
+      "round": 7,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "language: english",
+        "client.unresponsive",
+        "client.round7.active"
+      ],
+      "dateAdded": "2025-10-27"
     },
     {
       "id": "o2tbh7TdlP5EWSBoj70a",
