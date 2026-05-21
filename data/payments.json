@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-21 13:38 UTC",
-  "today_total": 275.0,
-  "all_time_total": 242253.08,
+  "updated": "2026-05-21 15:12 UTC",
+  "today_total": 450.0,
+  "all_time_total": 242428.08,
   "payments": [
     {
       "id": "pi_3TZWcnDK4U0438JA1AbBRRVx",
@@ -23,6 +23,18 @@
       "amount": 100.0,
       "status": "received",
       "platform": "Zelle",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "fb_renewal_20615_2026-05-21",
+      "date": "2026-05-21",
+      "time": "",
+      "name": "Mariela Tineo",
+      "amount": 175.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
