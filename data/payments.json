@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-20 23:36 UTC",
-  "today_total": 550.0,
-  "all_time_total": 242478.08,
+  "updated": "2026-05-21 00:56 UTC",
+  "today_total": 0,
+  "all_time_total": 241978.08,
   "payments": [
     {
       "id": "pi_3TZHquDK4U0438JA1eLJujqk",
@@ -13179,30 +13179,6 @@
       "settled": true,
       "pending": false,
       "source": "historical_export"
-    },
-    {
-      "id": "zelle_28133285527",
-      "date": "2026-02-19",
-      "time": "",
-      "name": "Dacheli Castillo",
-      "amount": 300.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_15521_2026-02-19",
-      "date": "2026-02-19",
-      "time": "",
-      "name": "Brianna De La Cruz",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
     },
     {
       "id": "fb_hist_2026-02-19_keidy_ventura_175",
