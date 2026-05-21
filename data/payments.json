@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-21 10:48 UTC",
-  "today_total": 0,
-  "all_time_total": 241978.08,
+  "updated": "2026-05-21 12:06 UTC",
+  "today_total": 100.0,
+  "all_time_total": 242078.08,
   "payments": [
+    {
+      "id": "zelle_29300202226",
+      "date": "2026-05-21",
+      "time": "",
+      "name": "Leandra Urena",
+      "amount": 100.0,
+      "status": "received",
+      "platform": "Zelle",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TZHquDK4U0438JA1eLJujqk",
       "date": "2026-05-20",
