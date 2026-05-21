@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21 22:03 UTC",
+  "updated": "2026-05-21 22:54 UTC",
   "total": 295,
   "clients": [
     {
@@ -76,6 +76,25 @@
         "language: spanish"
       ],
       "dateAdded": "2026-04-01"
+    },
+    {
+      "id": "jkYKMKkPPqEYdcxsfgDs",
+      "name": "danny beltre",
+      "phone": null,
+      "email": "dannybeltre35@gmail.com",
+      "round": 1,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "full-pay-client",
+        "no sold nurture",
+        "client.round5",
+        "language: spanish"
+      ],
+      "dateAdded": "2026-03-25"
     },
     {
       "id": "t9x11lgQya80Hqd37Yep",
@@ -5301,25 +5320,6 @@
         "idiq fail"
       ],
       "dateAdded": "2026-04-09"
-    },
-    {
-      "id": "jkYKMKkPPqEYdcxsfgDs",
-      "name": "danny beltre",
-      "phone": null,
-      "email": "dannybeltre35@gmail.com",
-      "round": 5,
-      "language": "Spanish",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
-      "tags": [
-        "full-pay-client",
-        "no sold nurture",
-        "client.round5",
-        "language: spanish"
-      ],
-      "dateAdded": "2026-03-25"
     },
     {
       "id": "BaItGefy9jxiaTQjJwpt",
