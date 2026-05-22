@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22 15:33 UTC",
+  "updated": "2026-05-22 16:53 UTC",
   "total": 296,
   "clients": [
     {
@@ -3630,26 +3630,6 @@
       "dateAdded": "2026-01-08"
     },
     {
-      "id": "tYdemfPN5hSIKKgGBTyt",
-      "name": "anabel colon",
-      "phone": "+18484471771",
-      "email": "colonanabel2@hotmail.com",
-      "round": 4,
-      "language": "Spanish",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [
-        "no_show"
-      ],
-      "tags": [
-        "no show to call",
-        "client.round4",
-        "language: spanish"
-      ],
-      "dateAdded": "2026-01-06"
-    },
-    {
       "id": "5gaIHkx7jvC0iUStMSwl",
       "name": "lisabel lopez",
       "phone": "+13056063726",
@@ -4031,28 +4011,6 @@
       "dateAdded": "2025-11-29"
     },
     {
-      "id": "WXhuMoGBbpJZ50fA9zUl",
-      "name": "yojanny guzman",
-      "phone": "+18622676127",
-      "email": "yoha2524@hotmail.com",
-      "round": 4,
-      "language": "Spanish",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [
-        "idiq_fail"
-      ],
-      "tags": [
-        "payment.deposit_paid",
-        "booked appointment",
-        "client.round4",
-        "language: spanish",
-        "idiq fail"
-      ],
-      "dateAdded": "2025-11-28"
-    },
-    {
       "id": "m53IYGaFS1Ry6FLnCnt7",
       "name": "raishaliz reyes pacheco",
       "phone": "+14849298431",
@@ -4267,27 +4225,6 @@
       "dateAdded": "2025-11-22"
     },
     {
-      "id": "WPvqFZyyY5CDgN2rPJQQ",
-      "name": "isolina amezquita",
-      "phone": "+16466445301",
-      "email": "isolina.amez@gmail.com",
-      "round": 4,
-      "language": "Spanish",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [
-        "idiq_fail"
-      ],
-      "tags": [
-        "booked appointment",
-        "idiq fail",
-        "client.round4",
-        "language: spanish"
-      ],
-      "dateAdded": "2025-11-22"
-    },
-    {
       "id": "HIVj7LQHPeF91RBDD6p6",
       "name": "daylin zulueta salceiro",
       "phone": "+14808539892",
@@ -4310,9 +4247,9 @@
     },
     {
       "id": "3oqLiPgLWmflhyAGsBn9",
-      "name": "jorge montes degoni",
+      "name": "jacqueline quinde",
       "phone": "+16105705078",
-      "email": "kelly32820@hotmail.com",
+      "email": "bootilicious578@gmail.com",
       "round": 4,
       "language": "English",
       "plan": "",
@@ -5303,6 +5240,27 @@
       "dateAdded": "2026-04-09"
     },
     {
+      "id": "tYdemfPN5hSIKKgGBTyt",
+      "name": "anabel colon de tavarez",
+      "phone": "+18484471771",
+      "email": "colonanabel2@hotmail.com",
+      "round": 5,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show"
+      ],
+      "tags": [
+        "no show to call",
+        "client.round4",
+        "language: spanish",
+        "client.round5.active"
+      ],
+      "dateAdded": "2026-01-06"
+    },
+    {
       "id": "BaItGefy9jxiaTQjJwpt",
       "name": "kembely galan",
       "phone": "+14433747744",
@@ -5318,6 +5276,29 @@
         "language: spanish"
       ],
       "dateAdded": "2026-01-02"
+    },
+    {
+      "id": "WXhuMoGBbpJZ50fA9zUl",
+      "name": "yojanny guzman-chavez",
+      "phone": "+18622676127",
+      "email": "yoha2524@hotmail.com",
+      "round": 5,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment.deposit_paid",
+        "booked appointment",
+        "client.round4",
+        "language: spanish",
+        "idiq fail",
+        "client.round5.active"
+      ],
+      "dateAdded": "2025-11-28"
     },
     {
       "id": "H3vyQpbCFEjYFM4OOCNB",
@@ -5361,6 +5342,28 @@
         "sla-breached"
       ],
       "dateAdded": "2025-11-23"
+    },
+    {
+      "id": "WPvqFZyyY5CDgN2rPJQQ",
+      "name": "isolina amezquita",
+      "phone": "+16466445301",
+      "email": "isolina.amez@gmail.com",
+      "round": 5,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "booked appointment",
+        "idiq fail",
+        "client.round4",
+        "language: spanish",
+        "client.round5.active"
+      ],
+      "dateAdded": "2025-11-22"
     },
     {
       "id": "nF9IcFS3pM5xGyDN1YW9",
