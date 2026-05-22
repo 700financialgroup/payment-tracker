@@ -1,8 +1,32 @@
 {
-  "updated": "2026-05-22 18:42 UTC",
-  "today_total": 175.0,
-  "all_time_total": 242328.08,
+  "updated": "2026-05-22 19:36 UTC",
+  "today_total": 350.0,
+  "all_time_total": 242503.08,
   "payments": [
+    {
+      "id": "pi_3TZyKqDK4U0438JA2FXR67dm",
+      "date": "2026-05-22",
+      "time": "19:02",
+      "name": "Luis Alfonso Paulino morel",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TZyKcDK4U0438JA2lZr27hx",
+      "date": "2026-05-22",
+      "time": "19:02",
+      "name": "Jorge Emmanuel Montes DeGoni",
+      "amount": 200.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TZjoDDK4U0438JA10vyGeUe",
       "date": "2026-05-22",
