@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-22 03:14 UTC",
-  "today_total": 0,
-  "all_time_total": 242153.08,
+  "updated": "2026-05-22 04:53 UTC",
+  "today_total": 175.0,
+  "all_time_total": 242328.08,
   "payments": [
+    {
+      "id": "pi_3TZjoDDK4U0438JA10vyGeUe",
+      "date": "2026-05-22",
+      "time": "03:31",
+      "name": "Wilkany Santos",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TZbr4DK4U0438JA0aV2pK1K",
       "date": "2026-05-21",
