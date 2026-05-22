@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22 18:42 UTC",
+  "updated": "2026-05-22 19:36 UTC",
   "total": 297,
   "clients": [
     {
@@ -5829,6 +5829,27 @@
       "dateAdded": "2025-10-28"
     },
     {
+      "id": "jkYKMKkPPqEYdcxsfgDs",
+      "name": "danny beltre",
+      "phone": null,
+      "email": "dannybeltre35@gmail.com",
+      "round": 6,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "full-pay-client",
+        "no sold nurture",
+        "language: spanish",
+        "client.round10.active",
+        "client.round9.active",
+        "client.round6.active"
+      ],
+      "dateAdded": "2026-03-25"
+    },
+    {
       "id": "x3M2EWMgJiAxVBOVOxNV",
       "name": "katherine doval",
       "phone": "+16174479140",
@@ -5932,25 +5953,6 @@
         "language: spanish"
       ],
       "dateAdded": "2025-10-28"
-    },
-    {
-      "id": "jkYKMKkPPqEYdcxsfgDs",
-      "name": "danny beltre",
-      "phone": null,
-      "email": "dannybeltre35@gmail.com",
-      "round": 10,
-      "language": "Spanish",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
-      "tags": [
-        "full-pay-client",
-        "no sold nurture",
-        "language: spanish",
-        "client.round10.active"
-      ],
-      "dateAdded": "2026-03-25"
     }
   ]
 }
