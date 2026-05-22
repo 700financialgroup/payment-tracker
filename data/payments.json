@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-22 21:29 UTC",
-  "today_total": 550.0,
-  "all_time_total": 242703.08,
+  "updated": "2026-05-22 21:55 UTC",
+  "today_total": 750.0,
+  "all_time_total": 242903.08,
   "payments": [
+    {
+      "id": "pi_3Ta10cDK4U0438JA2eePELXe",
+      "date": "2026-05-22",
+      "time": "21:53",
+      "name": "Derlin starlin morel Rodr\u00edguez",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3Ta0I0DK4U0438JA0TBylc20",
       "date": "2026-05-22",
