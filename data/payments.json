@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-21 23:52 UTC",
-  "today_total": 950.0,
-  "all_time_total": 242928.08,
+  "updated": "2026-05-22 00:55 UTC",
+  "today_total": 0,
+  "all_time_total": 242153.08,
   "payments": [
     {
       "id": "pi_3TZbr4DK4U0438JA0aV2pK1K",
@@ -12880,30 +12880,6 @@
       "source": "historical_export"
     },
     {
-      "id": "fb_sale_15623_2026-02-21",
-      "date": "2026-02-21",
-      "time": "",
-      "name": "Lady Lantigua",
-      "amount": 175.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_15641_2026-02-21",
-      "date": "2026-02-21",
-      "time": "",
-      "name": "Katherine Martinez",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
       "id": "fb_hist_2026-02-21_luis_gonzalez_175",
       "date": "2026-02-21",
       "time": "20:56",
@@ -13012,42 +12988,6 @@
       "amount": 10.01,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "zelle_28140145604",
-      "date": "2026-02-20",
-      "time": "",
-      "name": "Leandra Urena",
-      "amount": 100.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "zelle_28144217430",
-      "date": "2026-02-20",
-      "time": "",
-      "name": "Lorena Arroyo Henriquez",
-      "amount": 100.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_15605_2026-02-20",
-      "date": "2026-02-20",
-      "time": "",
-      "name": "Johanny Abreu",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
