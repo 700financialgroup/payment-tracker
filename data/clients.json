@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22 16:53 UTC",
+  "updated": "2026-05-22 17:38 UTC",
   "total": 296,
   "clients": [
     {
@@ -5465,28 +5465,6 @@
       "dateAdded": "2025-11-19"
     },
     {
-      "id": "x3M2EWMgJiAxVBOVOxNV",
-      "name": "katherine doval",
-      "phone": "+16174479140",
-      "email": "kdoval25@gmail.com",
-      "round": 5,
-      "language": "Spanish",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [
-        "payment_missing",
-        "idiq_fail"
-      ],
-      "tags": [
-        "payment missing",
-        "idiq fail",
-        "client.round5",
-        "language: spanish"
-      ],
-      "dateAdded": "2025-11-19"
-    },
-    {
       "id": "6AgI0UN3xP5aZcThVV2z",
       "name": "juan gutierrez",
       "phone": "+13478246894",
@@ -5832,6 +5810,29 @@
         "language: spanish"
       ],
       "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "x3M2EWMgJiAxVBOVOxNV",
+      "name": "katherine doval",
+      "phone": "+16174479140",
+      "email": "kdoval25@gmail.com",
+      "round": 6,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "idiq_fail"
+      ],
+      "tags": [
+        "payment missing",
+        "idiq fail",
+        "client.round5",
+        "language: spanish",
+        "client.round6.active"
+      ],
+      "dateAdded": "2025-11-19"
     },
     {
       "id": "bBMSuY883WAuVd2TzpqW",
