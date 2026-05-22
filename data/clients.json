@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22 13:08 UTC",
+  "updated": "2026-05-22 14:20 UTC",
   "total": 296,
   "clients": [
     {
@@ -76,25 +76,6 @@
         "language: spanish"
       ],
       "dateAdded": "2026-04-01"
-    },
-    {
-      "id": "jkYKMKkPPqEYdcxsfgDs",
-      "name": "danny beltre",
-      "phone": null,
-      "email": "dannybeltre35@gmail.com",
-      "round": 1,
-      "language": "Spanish",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
-      "tags": [
-        "full-pay-client",
-        "no sold nurture",
-        "client.round5",
-        "language: spanish"
-      ],
-      "dateAdded": "2026-03-25"
     },
     {
       "id": "t9x11lgQya80Hqd37Yep",
@@ -5930,6 +5911,25 @@
         "language: spanish"
       ],
       "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "jkYKMKkPPqEYdcxsfgDs",
+      "name": "danny beltre",
+      "phone": null,
+      "email": "dannybeltre35@gmail.com",
+      "round": 9,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "full-pay-client",
+        "no sold nurture",
+        "client.round5",
+        "language: spanish"
+      ],
+      "dateAdded": "2026-03-25"
     }
   ]
 }
