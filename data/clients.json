@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-22 17:38 UTC",
-  "total": 296,
+  "updated": "2026-05-22 18:42 UTC",
+  "total": 297,
   "clients": [
+    {
+      "id": "LCvGjmcfDxxJogTPEGnC",
+      "name": "ranyeris ramirez",
+      "phone": "+18624035528",
+      "email": "ranyeris0918@yahoo.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-05-08"
+    },
     {
       "id": "MKO9dFcJ4FqyuU8WJzHq",
       "name": "andrea beauchamp",
@@ -757,7 +773,7 @@
       "round": 2,
       "language": "Spanish",
       "plan": "900 Payment Plan",
-      "installment": 0,
+      "installment": 175.0,
       "platform": "Fanbasis",
       "flags": [
         "sla_breached",
@@ -1748,29 +1764,6 @@
         "idiq fail",
         "client.round2",
         "language: spanish"
-      ],
-      "dateAdded": "2025-10-28"
-    },
-    {
-      "id": "n0F42pXL4SXasv6Zg5df",
-      "name": "anthony sanabria",
-      "phone": "+16892420655",
-      "email": "anthonysanabria1995@gmail.com",
-      "round": 2,
-      "language": "Spanish",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [
-        "idiq_fail",
-        "sla_breached"
-      ],
-      "tags": [
-        "idiq fail",
-        "payment.deposit_paid",
-        "client.round2",
-        "language: spanish",
-        "sla-breached"
       ],
       "dateAdded": "2025-10-28"
     },
@@ -3336,6 +3329,30 @@
         "idiq fail",
         "client.round3",
         "language: spanish"
+      ],
+      "dateAdded": "2025-10-28"
+    },
+    {
+      "id": "n0F42pXL4SXasv6Zg5df",
+      "name": "anthony sanabria bernal",
+      "phone": "+16892420655",
+      "email": "anthonysanabria1995@gmail.com",
+      "round": 3,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail",
+        "sla_breached"
+      ],
+      "tags": [
+        "idiq fail",
+        "payment.deposit_paid",
+        "client.round2",
+        "language: spanish",
+        "sla-breached",
+        "client.round3.active"
       ],
       "dateAdded": "2025-10-28"
     },
