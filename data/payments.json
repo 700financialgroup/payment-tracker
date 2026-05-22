@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-22 22:26 UTC",
-  "today_total": 750.0,
-  "all_time_total": 242903.08,
+  "updated": "2026-05-22 22:51 UTC",
+  "today_total": 950.0,
+  "all_time_total": 243103.08,
   "payments": [
+    {
+      "id": "pi_3Ta1nNDK4U0438JA16qd9bH9",
+      "date": "2026-05-22",
+      "time": "22:43",
+      "name": "Denysse Jimenez",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3Ta10cDK4U0438JA2eePELXe",
       "date": "2026-05-22",
