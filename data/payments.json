@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-23 16:50 UTC",
-  "today_total": 335.0,
-  "all_time_total": 243263.08,
+  "updated": "2026-05-23 17:26 UTC",
+  "today_total": 535.0,
+  "all_time_total": 243463.08,
   "payments": [
+    {
+      "id": "pi_3TaImaDK4U0438JA1LKDfKQ4",
+      "date": "2026-05-23",
+      "time": "16:52",
+      "name": "Llancy tolina Pena philippe",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "fb_renewal_20672_2026-05-23",
       "date": "2026-05-23",
