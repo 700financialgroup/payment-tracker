@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-23 15:56 UTC",
-  "today_total": 175.0,
-  "all_time_total": 243103.08,
+  "updated": "2026-05-23 16:25 UTC",
+  "today_total": 335.0,
+  "all_time_total": 243263.08,
   "payments": [
     {
       "id": "fb_renewal_20672_2026-05-23",
@@ -9,6 +9,18 @@
       "time": "",
       "name": "Luis Gonzalez",
       "amount": 175.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "fb_renewal_20700_2026-05-23",
+      "date": "2026-05-23",
+      "time": "",
+      "name": "Pedro Rodriguez",
+      "amount": 160.0,
       "status": "Renewal",
       "platform": "Fanbasis",
       "ok": true,
