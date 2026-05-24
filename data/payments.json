@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-23 23:50 UTC",
-  "today_total": 535.0,
-  "all_time_total": 243463.08,
+  "updated": "2026-05-24 00:55 UTC",
+  "today_total": 0,
+  "all_time_total": 242608.08,
   "payments": [
     {
       "id": "pi_3TaImaDK4U0438JA1LKDfKQ4",
@@ -12416,18 +12416,6 @@
       "pending": false
     },
     {
-      "id": "fb_renewal_15685_2026-02-23",
-      "date": "2026-02-23",
-      "time": "",
-      "name": "Alexis Diaz Polanco",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
       "id": "fb_renewal_15719_2026-02-23",
       "date": "2026-02-23",
       "time": "",
@@ -12737,54 +12725,6 @@
       "settled": true,
       "pending": false,
       "source": "historical_export"
-    },
-    {
-      "id": "zelle_28169934597",
-      "date": "2026-02-22",
-      "time": "",
-      "name": "Genesi Patino",
-      "amount": 200.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_15672_2026-02-22",
-      "date": "2026-02-22",
-      "time": "",
-      "name": "Pedro Rodriguez",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_15676_2026-02-22",
-      "date": "2026-02-22",
-      "time": "",
-      "name": "Raysa Espinal",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_15684_2026-02-22",
-      "date": "2026-02-22",
-      "time": "",
-      "name": "Sarah Estevez",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
     },
     {
       "id": "fb_hist_2026-02-22_richard_diaz_160",
