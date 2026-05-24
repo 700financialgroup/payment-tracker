@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-24 17:25 UTC",
-  "today_total": 0,
-  "all_time_total": 242608.08,
+  "updated": "2026-05-24 17:51 UTC",
+  "today_total": 175.0,
+  "all_time_total": 242783.08,
   "payments": [
+    {
+      "id": "pi_3Tafy3DK4U0438JA0TH2Alzb",
+      "date": "2026-05-24",
+      "time": "17:37",
+      "name": "Patricia Rosa",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TaImaDK4U0438JA1LKDfKQ4",
       "date": "2026-05-23",
