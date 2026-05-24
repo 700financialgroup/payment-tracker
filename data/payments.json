@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-24 18:55 UTC",
-  "today_total": 175.0,
-  "all_time_total": 242783.08,
+  "updated": "2026-05-24 19:33 UTC",
+  "today_total": 325.0,
+  "all_time_total": 242933.08,
   "payments": [
+    {
+      "id": "pi_3TahHcDK4U0438JA1I8q9HnM",
+      "date": "2026-05-24",
+      "time": "19:01",
+      "name": "marleny",
+      "amount": 150.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3Tafy3DK4U0438JA0TH2Alzb",
       "date": "2026-05-24",
