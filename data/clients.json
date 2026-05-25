@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-25 22:31 UTC",
-  "total": 4,
+  "updated": "2026-05-25 22:56 UTC",
+  "total": 5,
   "clients": [
     {
       "id": "1cPxJ3yVYdz7Muh6g9Ij",
@@ -65,6 +65,24 @@
         "client.round1.active"
       ],
       "dateAdded": "2026-05-08"
+    },
+    {
+      "id": "mcyI807CWkZHLuC3GnuX",
+      "name": "medelin mosquea",
+      "phone": "+19142587688",
+      "email": "madelin2350@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "deposit paid",
+        "contract signed",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-05-07"
     }
   ]
 }
