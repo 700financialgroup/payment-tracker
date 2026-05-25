@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-25 15:08 UTC",
-  "total": 3,
+  "updated": "2026-05-25 16:20 UTC",
+  "total": 4,
   "clients": [
     {
       "id": "1cPxJ3yVYdz7Muh6g9Ij",
@@ -33,6 +33,22 @@
         "client.round1.active"
       ],
       "dateAdded": "2026-05-13"
+    },
+    {
+      "id": "F6XkXsx5ZCQC04xEs407",
+      "name": "germaly m\u00e9ndez",
+      "phone": "+18455047640",
+      "email": "germalym23@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-05-09"
     },
     {
       "id": "LCvGjmcfDxxJogTPEGnC",
