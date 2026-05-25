@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-25 20:54 UTC",
-  "today_total": 400.0,
-  "all_time_total": 242823.08,
+  "updated": "2026-05-25 21:30 UTC",
+  "today_total": 600.0,
+  "all_time_total": 243023.08,
   "payments": [
+    {
+      "id": "pi_3Tb5ycDK4U0438JA2npO1mkT",
+      "date": "2026-05-25",
+      "time": "21:23",
+      "name": "Angel De Los Santos",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3Tb487DK4U0438JA2zwp5AHh",
       "date": "2026-05-25",
