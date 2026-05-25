@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-25 22:56 UTC",
-  "total": 5,
+  "updated": "2026-05-25 23:30 UTC",
+  "total": 6,
   "clients": [
     {
       "id": "1cPxJ3yVYdz7Muh6g9Ij",
@@ -33,6 +33,23 @@
         "client.round1.active"
       ],
       "dateAdded": "2026-05-13"
+    },
+    {
+      "id": "CJgvCjPr9VGiTns23vmR",
+      "name": "denysse jimenez",
+      "phone": "+18622648491",
+      "email": "dljimenez0904@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "contract signed",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-05-11"
     },
     {
       "id": "F6XkXsx5ZCQC04xEs407",
