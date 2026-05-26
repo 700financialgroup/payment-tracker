@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-26 04:54 UTC",
-  "total": 6,
+  "updated": "2026-05-26 06:26 UTC",
+  "total": 7,
   "clients": [
     {
       "id": "1cPxJ3yVYdz7Muh6g9Ij",
@@ -14,7 +14,8 @@
       "platform": "Auth.net",
       "flags": [],
       "tags": [
-        "client.round1.active"
+        "client.round1.active",
+        "client.round1"
       ],
       "dateAdded": "2026-05-18"
     },
@@ -30,9 +31,45 @@
       "platform": "Auth.net",
       "flags": [],
       "tags": [
-        "client.round1.active"
+        "client.round1.active",
+        "client.round1"
       ],
       "dateAdded": "2026-05-13"
+    },
+    {
+      "id": "N3pHAgPQIhbjs4BXq5Q7",
+      "name": "jose arias",
+      "phone": "+13473536516",
+      "email": "arias.j0405@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "mentoria",
+        "client.round1",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-05-11"
+    },
+    {
+      "id": "Olh1VMtb8dbiU7H2fN85",
+      "name": "stephanie roa",
+      "phone": "+18482831283",
+      "email": "stephanie.p.roa@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round1",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-05-11"
     },
     {
       "id": "CJgvCjPr9VGiTns23vmR",
@@ -63,43 +100,27 @@
       "platform": "Auth.net",
       "flags": [],
       "tags": [
-        "client.round1.active"
+        "client.round1.active",
+        "client.round1"
       ],
       "dateAdded": "2026-05-09"
     },
     {
-      "id": "LCvGjmcfDxxJogTPEGnC",
-      "name": "ranyeris ramirez",
-      "phone": "+18624035528",
-      "email": "ranyeris0918@yahoo.com",
-      "round": 1,
+      "id": "YvfrVaxJEkSFOGUK83Tp",
+      "name": "ronny ceballos",
+      "phone": null,
+      "email": "ceballoslesly1320@gmail.com",
+      "round": 3,
       "language": "",
       "plan": "",
       "installment": 0,
       "platform": "Auth.net",
       "flags": [],
       "tags": [
-        "client.round1.active"
+        "client.round3",
+        "client.round3.active"
       ],
-      "dateAdded": "2026-05-08"
-    },
-    {
-      "id": "mcyI807CWkZHLuC3GnuX",
-      "name": "medelin mosquea",
-      "phone": "+19142587688",
-      "email": "madelin2350@gmail.com",
-      "round": 1,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
-      "tags": [
-        "deposit paid",
-        "contract signed",
-        "client.round1.active"
-      ],
-      "dateAdded": "2026-05-07"
+      "dateAdded": "2026-05-19"
     }
   ]
 }
