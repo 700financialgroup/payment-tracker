@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-26 06:26 UTC",
-  "total": 7,
+  "updated": "2026-05-26 07:50 UTC",
+  "total": 8,
   "clients": [
     {
       "id": "1cPxJ3yVYdz7Muh6g9Ij",
@@ -121,6 +121,22 @@
         "client.round3.active"
       ],
       "dateAdded": "2026-05-19"
+    },
+    {
+      "id": "9BoF8uj6QUG1BBSuAi76",
+      "name": "nayelys castillo",
+      "phone": null,
+      "email": "nayelys.castillo@icloud.com",
+      "round": 5,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round5.active"
+      ],
+      "dateAdded": "2026-05-26"
     }
   ]
 }
