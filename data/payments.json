@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-26 22:56 UTC",
-  "today_total": 29.99,
-  "all_time_total": 241539.73,
+  "updated": "2026-05-26 23:30 UTC",
+  "today_total": 204.99,
+  "all_time_total": 241714.73,
   "payments": [
+    {
+      "id": "pi_3TbU8TDK4U0438JA02tNvUrx",
+      "date": "2026-05-26",
+      "time": "23:11",
+      "name": "Gislaine Guerrero",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TbQ2EDK4U0438JA0huuMWSR",
       "date": "2026-05-26",
