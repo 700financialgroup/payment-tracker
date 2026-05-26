@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-26 18:04 UTC",
-  "today_total": 0,
-  "all_time_total": 241509.74,
+  "updated": "2026-05-26 19:19 UTC",
+  "today_total": 29.99,
+  "all_time_total": 241539.73,
   "payments": [
+    {
+      "id": "pi_3TbQ2EDK4U0438JA0huuMWSR",
+      "date": "2026-05-26",
+      "time": "18:49",
+      "name": "Jean frely Hern\u00e1ndez",
+      "amount": 29.99,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3Tb5ycDK4U0438JA2npO1mkT",
       "date": "2026-05-25",
