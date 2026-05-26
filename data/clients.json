@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-26 13:34 UTC",
-  "total": 8,
+  "updated": "2026-05-26 15:12 UTC",
+  "total": 9,
   "clients": [
+    {
+      "id": "1C9KpoRTnMl6NaouMZVK",
+      "name": "derlin starlin",
+      "phone": "+16108188735",
+      "email": "alissamorel18@icloud.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-05-22"
+    },
     {
       "id": "1cPxJ3yVYdz7Muh6g9Ij",
       "name": "joel colon",
