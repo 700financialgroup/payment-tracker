@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-25 23:57 UTC",
-  "today_total": 600.0,
-  "all_time_total": 243023.08,
+  "updated": "2026-05-26 00:53 UTC",
+  "today_total": 0,
+  "all_time_total": 241509.74,
   "payments": [
     {
       "id": "pi_3Tb5ycDK4U0438JA2npO1mkT",
@@ -12162,102 +12162,6 @@
       "settled": true,
       "pending": false,
       "source": "historical_export"
-    },
-    {
-      "id": "zelle_28185237146",
-      "date": "2026-02-24",
-      "time": "",
-      "name": "Esthefany Pena",
-      "amount": 100.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_15803_2026-02-24",
-      "date": "2026-02-24",
-      "time": "",
-      "name": "Jeraldin Peguero",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_15806_2026-02-24",
-      "date": "2026-02-24",
-      "time": "",
-      "name": "Kendolis Cabreja",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_15821_2026-02-24",
-      "date": "2026-02-24",
-      "time": "",
-      "name": "Bielka Almonte",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_15790_2026-02-24",
-      "date": "2026-02-24",
-      "time": "",
-      "name": "Nitzaliz Canela",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_15794_2026-02-24",
-      "date": "2026-02-24",
-      "time": "",
-      "name": "Karla Chacon",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_15796_2026-02-24",
-      "date": "2026-02-24",
-      "time": "",
-      "name": "Annie Marin Lopez",
-      "amount": 333.34,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_15801_2026-02-24",
-      "date": "2026-02-24",
-      "time": "",
-      "name": "Marianne Bencosme",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
     },
     {
       "id": "fb_hist_2026-02-24_richard_diaz_160",
