@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-27 22:11 UTC",
-  "today_total": 1316.98,
-  "all_time_total": 242711.71,
+  "updated": "2026-05-27 23:02 UTC",
+  "today_total": 1516.98,
+  "all_time_total": 242911.71,
   "payments": [
+    {
+      "id": "pi_3TbqK0DK4U0438JA0624AfU2",
+      "date": "2026-05-27",
+      "time": "22:53",
+      "name": "Aura Cacerez",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TbpTeDK4U0438JA0o4RW0JK",
       "date": "2026-05-27",
