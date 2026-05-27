@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-27 19:20 UTC",
-  "today_total": 941.98,
-  "all_time_total": 242336.71,
+  "updated": "2026-05-27 20:19 UTC",
+  "today_total": 1141.98,
+  "all_time_total": 242536.71,
   "payments": [
+    {
+      "id": "pi_3TbnULDK4U0438JA0TY3oble",
+      "date": "2026-05-27",
+      "time": "19:51",
+      "name": "lizaida rodriguez",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TbmLHDK4U0438JA0IIkDJ9u",
       "date": "2026-05-27",
