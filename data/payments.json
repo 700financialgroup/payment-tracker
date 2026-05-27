@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-27 21:12 UTC",
-  "today_total": 1141.98,
-  "all_time_total": 242536.71,
+  "updated": "2026-05-27 22:11 UTC",
+  "today_total": 1316.98,
+  "all_time_total": 242711.71,
   "payments": [
+    {
+      "id": "pi_3TbpTeDK4U0438JA0o4RW0JK",
+      "date": "2026-05-27",
+      "time": "21:59",
+      "name": "Zairis Pena",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TbnULDK4U0438JA0TY3oble",
       "date": "2026-05-27",
@@ -1978,7 +1990,7 @@
       "id": "pi_3TQypaDK4U0438JA1uuNywgw",
       "date": "2026-04-27",
       "time": "23:44",
-      "name": "Zairis D Pena",
+      "name": "Zairis Pena",
       "amount": 200.0,
       "status": "succeeded",
       "platform": "Stripe",
