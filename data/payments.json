@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-27 14:12 UTC",
-  "today_total": 464.99,
-  "all_time_total": 241859.72,
+  "updated": "2026-05-27 15:48 UTC",
+  "today_total": 494.98,
+  "all_time_total": 241889.71,
   "payments": [
+    {
+      "id": "pi_3TbjVjDK4U0438JA1CrqUz11",
+      "date": "2026-05-27",
+      "time": "15:36",
+      "name": "Adairis Arias",
+      "amount": 29.99,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TbgYZDK4U0438JA2SHL4heb",
       "date": "2026-05-27",
