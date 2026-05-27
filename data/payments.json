@@ -1,8 +1,32 @@
 {
-  "updated": "2026-05-27 15:48 UTC",
-  "today_total": 494.98,
-  "all_time_total": 241889.71,
+  "updated": "2026-05-27 17:11 UTC",
+  "today_total": 814.98,
+  "all_time_total": 242209.71,
   "payments": [
+    {
+      "id": "pi_3TbkkBDK4U0438JA0NBoGf4v",
+      "date": "2026-05-27",
+      "time": "16:55",
+      "name": "Nayelys Castillo",
+      "amount": 160.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TbjtLDK4U0438JA0ESwtXlL",
+      "date": "2026-05-27",
+      "time": "16:01",
+      "name": "Jeraldin Peguero",
+      "amount": 160.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TbjVjDK4U0438JA1CrqUz11",
       "date": "2026-05-27",
