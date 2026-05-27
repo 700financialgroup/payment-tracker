@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-27 21:12 UTC",
-  "total": 9,
+  "updated": "2026-05-27 22:11 UTC",
+  "total": 10,
   "clients": [
     {
       "id": "1C9KpoRTnMl6NaouMZVK",
@@ -120,6 +120,22 @@
       "tags": [
         "client.round1.active",
         "client.round1"
+      ],
+      "dateAdded": "2026-05-09"
+    },
+    {
+      "id": "XcCrR8Nid9UEuONiJhdb",
+      "name": "llancy tolina philippe",
+      "phone": "+14078444315",
+      "email": "llancypena@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round1.active"
       ],
       "dateAdded": "2026-05-09"
     },
