@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27 17:11 UTC",
+  "updated": "2026-05-27 18:21 UTC",
   "total": 9,
   "clients": [
     {
@@ -14,7 +14,8 @@
       "platform": "Auth.net",
       "flags": [],
       "tags": [
-        "client.round1.active"
+        "client.round1.active",
+        "client.round1"
       ],
       "dateAdded": "2026-05-22"
     },
@@ -100,7 +101,8 @@
       "flags": [],
       "tags": [
         "contract signed",
-        "client.round1.active"
+        "client.round1.active",
+        "client.round1"
       ],
       "dateAdded": "2026-05-11"
     },
@@ -150,7 +152,8 @@
       "platform": "Auth.net",
       "flags": [],
       "tags": [
-        "client.round5.active"
+        "client.round5.active",
+        "client.round5"
       ],
       "dateAdded": "2026-05-26"
     }
