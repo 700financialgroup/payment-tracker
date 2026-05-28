@@ -1,8 +1,32 @@
 {
-  "updated": "2026-05-28 21:18 UTC",
-  "today_total": 860.0,
-  "all_time_total": 243061.71,
+  "updated": "2026-05-28 22:11 UTC",
+  "today_total": 889.99,
+  "all_time_total": 243091.7,
   "payments": [
+    {
+      "id": "pi_3TcBnaDK4U0438JA1PDAWeKI",
+      "date": "2026-05-28",
+      "time": "21:49",
+      "name": "Yamirelis rojas",
+      "amount": 29.99,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3TcBKiDK4U0438JA0ck48v2Q",
+      "date": "2026-05-28",
+      "time": "21:19",
+      "name": "Alexa Neggli",
+      "amount": 29.99,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3Tc9PlDK4U0438JA1i84ghHf",
       "date": "2026-05-28",
