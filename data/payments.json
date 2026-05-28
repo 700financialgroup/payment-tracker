@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-28 15:49 UTC",
+  "updated": "2026-05-28 17:22 UTC",
   "today_total": 160.0,
   "all_time_total": 242361.71,
   "payments": [
+    {
+      "id": "pi_3Tc6adDK4U0438JA2cH9vqPn",
+      "date": "2026-05-28",
+      "time": "16:15",
+      "name": "Leidy mena",
+      "amount": 29.99,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TbsmCDK4U0438JA0ajUawK6",
       "date": "2026-05-28",
