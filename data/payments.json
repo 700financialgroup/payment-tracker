@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-28 18:26 UTC",
-  "today_total": 560.0,
-  "all_time_total": 242761.71,
+  "updated": "2026-05-28 19:27 UTC",
+  "today_total": 860.0,
+  "all_time_total": 243061.71,
   "payments": [
+    {
+      "id": "pi_3Tc9PlDK4U0438JA1i84ghHf",
+      "date": "2026-05-28",
+      "time": "19:16",
+      "name": "Lorelyn hernandez",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3Tc8JrDK4U0438JA2BsmnZfk",
       "date": "2026-05-28",
@@ -81,6 +93,18 @@
       "time": "",
       "name": "Alexander Vasquez",
       "amount": 160.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "fb_renewal_20920_2026-05-28",
+      "date": "2026-05-28",
+      "time": "",
+      "name": "Kembely Galan",
+      "amount": 100.0,
       "status": "Renewal",
       "platform": "Fanbasis",
       "ok": true,
