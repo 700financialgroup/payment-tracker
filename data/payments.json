@@ -1,8 +1,44 @@
 {
-  "updated": "2026-05-28 17:22 UTC",
-  "today_total": 160.0,
-  "all_time_total": 242361.71,
+  "updated": "2026-05-28 18:26 UTC",
+  "today_total": 560.0,
+  "all_time_total": 242761.71,
   "payments": [
+    {
+      "id": "pi_3Tc8JrDK4U0438JA2BsmnZfk",
+      "date": "2026-05-28",
+      "time": "18:06",
+      "name": "Daisy Guzman",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3Tc7fDDK4U0438JA0Ireiys9",
+      "date": "2026-05-28",
+      "time": "17:24",
+      "name": "Maria Contreras",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3Tc7cnDK4U0438JA2LqoyVlI",
+      "date": "2026-05-28",
+      "time": "17:21",
+      "name": "Maria Contreras",
+      "amount": 200.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3Tc6adDK4U0438JA2cH9vqPn",
       "date": "2026-05-28",
