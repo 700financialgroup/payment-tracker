@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-28 12:44 UTC",
-  "today_total": 0,
-  "all_time_total": 242201.71,
+  "updated": "2026-05-28 14:19 UTC",
+  "today_total": 160.0,
+  "all_time_total": 242361.71,
   "payments": [
     {
       "id": "pi_3TbsmCDK4U0438JA0ajUawK6",
@@ -25,6 +25,18 @@
       "platform": "Stripe",
       "ok": false,
       "settled": false,
+      "pending": false
+    },
+    {
+      "id": "fb_renewal_20900_2026-05-28",
+      "date": "2026-05-28",
+      "time": "",
+      "name": "Alexander Vasquez",
+      "amount": 160.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
       "pending": false
     },
     {
