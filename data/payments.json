@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-27 23:51 UTC",
-  "today_total": 1516.98,
-  "all_time_total": 242911.71,
+  "updated": "2026-05-28 00:51 UTC",
+  "today_total": 0,
+  "all_time_total": 242201.71,
   "payments": [
+    {
+      "id": "pi_3Tbs5XDK4U0438JA0takwepY",
+      "date": "2026-05-28",
+      "time": "00:46",
+      "name": "Zairis Pena",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TbqK0DK4U0438JA0624AfU2",
       "date": "2026-05-27",
@@ -11687,54 +11699,6 @@
       "amount": 11.59,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "zelle_28218517418",
-      "date": "2026-02-26",
-      "time": "",
-      "name": "Kersy Gonzalez",
-      "amount": 175.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_15995_2026-02-26",
-      "date": "2026-02-26",
-      "time": "",
-      "name": "Gislaine Peralta Guerrero",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_15991_2026-02-26",
-      "date": "2026-02-26",
-      "time": "",
-      "name": "Yojanny Guzman",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_15998_2026-02-26",
-      "date": "2026-02-26",
-      "time": "",
-      "name": "Itzel Abreu",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
