@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-29 21:14 UTC",
-  "today_total": 1289.99,
-  "all_time_total": 243701.69,
+  "updated": "2026-05-29 22:08 UTC",
+  "today_total": 1489.99,
+  "all_time_total": 243901.69,
   "payments": [
+    {
+      "id": "pi_3TcYQpDK4U0438JA0konPlMt",
+      "date": "2026-05-29",
+      "time": "21:59",
+      "name": "Lesdie cruz",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TcXfyDK4U0438JA22fB6Gj3",
       "date": "2026-05-29",
