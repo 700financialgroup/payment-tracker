@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-29 17:16 UTC",
-  "today_total": 510.0,
-  "all_time_total": 242921.7,
+  "updated": "2026-05-29 18:24 UTC",
+  "today_total": 685.0,
+  "all_time_total": 243096.7,
   "payments": [
     {
       "id": "pi_3TcSrpDK4U0438JA0RWYHgVB",
@@ -69,6 +69,18 @@
       "time": "",
       "name": "Winiffer Ramirez",
       "amount": 160.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "fb_renewal_20961_2026-05-29",
+      "date": "2026-05-29",
+      "time": "",
+      "name": "Elianny Estevez",
+      "amount": 175.0,
       "status": "Renewal",
       "platform": "Fanbasis",
       "ok": true,
