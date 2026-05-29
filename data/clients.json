@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-29 17:16 UTC",
-  "total": 11,
+  "updated": "2026-05-29 18:24 UTC",
+  "total": 13,
   "clients": [
+    {
+      "id": "rTGnlrdfKcQbkhKbdVdA",
+      "name": "maria contreras",
+      "phone": "+12035239864",
+      "email": "rosalbacastano242@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-05-24"
+    },
     {
       "id": "t9SLn2TFTrakSFL9NYqT",
       "name": "lizaida rodriguez",
@@ -32,6 +48,22 @@
       "tags": [
         "client.round1.active",
         "client.round1"
+      ],
+      "dateAdded": "2026-05-22"
+    },
+    {
+      "id": "gttbFi3pufUHQa8G90N4",
+      "name": "aura cacerez",
+      "phone": "+12016866854",
+      "email": "acacerez@outlook.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round1.active"
       ],
       "dateAdded": "2026-05-22"
     },
