@@ -1,8 +1,32 @@
 {
-  "updated": "2026-05-29 12:34 UTC",
-  "today_total": 0,
-  "all_time_total": 242411.7,
+  "updated": "2026-05-29 14:07 UTC",
+  "today_total": 335.0,
+  "all_time_total": 242746.7,
   "payments": [
+    {
+      "id": "pi_3TcQUTDK4U0438JA0wIiaTuW",
+      "date": "2026-05-29",
+      "time": "13:30",
+      "name": "Jasmine Reynoso",
+      "amount": 29.99,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3TcPirDK4U0438JA0T91mho0",
+      "date": "2026-05-29",
+      "time": "12:41",
+      "name": "Thalia Briggitte Baque Briones",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TcOPJDK4U0438JA2b7hBapb",
       "date": "2026-05-29",
@@ -25,6 +49,18 @@
       "platform": "Stripe",
       "ok": false,
       "settled": false,
+      "pending": false
+    },
+    {
+      "id": "fb_renewal_20955_2026-05-29",
+      "date": "2026-05-29",
+      "time": "",
+      "name": "Winiffer Ramirez",
+      "amount": 160.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
       "pending": false
     },
     {
@@ -1889,7 +1925,7 @@
       "id": "pi_3TRy0zDK4U0438JA1Xx97Oxq",
       "date": "2026-04-30",
       "time": "17:04",
-      "name": "Thalia Baque",
+      "name": "Thalia Briggitte Baque Briones",
       "amount": 200.0,
       "status": "succeeded",
       "platform": "Stripe",
