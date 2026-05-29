@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-28 23:37 UTC",
-  "today_total": 889.99,
-  "all_time_total": 243091.7,
+  "updated": "2026-05-29 00:58 UTC",
+  "today_total": 0,
+  "all_time_total": 242411.7,
   "payments": [
     {
       "id": "pi_3TcD1jDK4U0438JA2WJcABRF",
@@ -11603,66 +11603,6 @@
       "settled": true,
       "pending": false,
       "source": "historical_export"
-    },
-    {
-      "id": "fb_sale_16095_2026-02-27",
-      "date": "2026-02-27",
-      "time": "",
-      "name": "Jeseni Peralta",
-      "amount": 160.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_16094_2026-02-27",
-      "date": "2026-02-27",
-      "time": "",
-      "name": "Alexander Vasquez",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_16107_2026-02-27",
-      "date": "2026-02-27",
-      "time": "",
-      "name": "Omar Garcia",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_16112_2026-02-27",
-      "date": "2026-02-27",
-      "time": "",
-      "name": "Kembely Galan",
-      "amount": 100.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_16127_2026-02-27",
-      "date": "2026-02-27",
-      "time": "",
-      "name": "Yolaine Cabrera",
-      "amount": 100.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
     },
     {
       "id": "fb_hist_2026-02-27_yolaine__cabrera_100",
