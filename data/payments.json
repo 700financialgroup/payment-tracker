@@ -1,8 +1,32 @@
 {
-  "updated": "2026-05-29 19:23 UTC",
-  "today_total": 885.0,
-  "all_time_total": 243296.7,
+  "updated": "2026-05-29 20:19 UTC",
+  "today_total": 1114.99,
+  "all_time_total": 243526.69,
   "payments": [
+    {
+      "id": "pi_3TcWhZDK4U0438JA0RWZsErr",
+      "date": "2026-05-29",
+      "time": "20:08",
+      "name": "Gedelyn Gonzalez",
+      "amount": 29.99,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TcWNXDK4U0438JA2shyDmqx",
+      "date": "2026-05-29",
+      "time": "19:47",
+      "name": "Rosanny Disla",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TcVt5DK4U0438JA0th0Cugt",
       "date": "2026-05-29",
