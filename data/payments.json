@@ -1,8 +1,32 @@
 {
-  "updated": "2026-05-29 18:24 UTC",
-  "today_total": 685.0,
-  "all_time_total": 243096.7,
+  "updated": "2026-05-29 19:23 UTC",
+  "today_total": 885.0,
+  "all_time_total": 243296.7,
   "payments": [
+    {
+      "id": "pi_3TcVt5DK4U0438JA0th0Cugt",
+      "date": "2026-05-29",
+      "time": "19:16",
+      "name": "Argenis Toribio",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TcVfADK4U0438JA18JOpaVy",
+      "date": "2026-05-29",
+      "time": "19:01",
+      "name": "patria morales",
+      "amount": 400.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TcSrpDK4U0438JA0RWYHgVB",
       "date": "2026-05-29",
