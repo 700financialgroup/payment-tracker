@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-29 23:37 UTC",
-  "today_total": 1489.99,
-  "all_time_total": 243901.69,
+  "updated": "2026-05-30 00:54 UTC",
+  "today_total": 0,
+  "all_time_total": 242866.69,
   "payments": [
     {
       "id": "pi_3TcYQpDK4U0438JA0konPlMt",
@@ -11609,54 +11609,6 @@
       "settled": true,
       "pending": false,
       "source": "historical_export"
-    },
-    {
-      "id": "fb_sale_16193_2026-02-28",
-      "date": "2026-02-28",
-      "time": "",
-      "name": "Yomairi Garcia",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_16180_2026-02-28",
-      "date": "2026-02-28",
-      "time": "",
-      "name": "Edison Vargas",
-      "amount": 500.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_16186_2026-02-28",
-      "date": "2026-02-28",
-      "time": "",
-      "name": "Elianny Estevez",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_16197_2026-02-28",
-      "date": "2026-02-28",
-      "time": "",
-      "name": "Waldy Rodriguez",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
     },
     {
       "id": "fb_hist_2026-02-28_waldy_rodriguez_160",
