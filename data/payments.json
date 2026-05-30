@@ -1,8 +1,44 @@
 {
-  "updated": "2026-05-30 18:55 UTC",
-  "today_total": 0,
-  "all_time_total": 242866.69,
+  "updated": "2026-05-30 19:34 UTC",
+  "today_total": 290.0,
+  "all_time_total": 243156.69,
   "payments": [
+    {
+      "id": "pi_3TcsIpDK4U0438JA2Evkgg4X",
+      "date": "2026-05-30",
+      "time": "19:12",
+      "name": "Johanna Torres-Perozo",
+      "amount": 140.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3Tcs8jDK4U0438JA2pgoBKop",
+      "date": "2026-05-30",
+      "time": "19:01",
+      "name": "patria morales",
+      "amount": 400.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3Tcs8RDK4U0438JA2eHNBdqX",
+      "date": "2026-05-30",
+      "time": "19:01",
+      "name": "Alberto Espiritu",
+      "amount": 150.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TcrHODK4U0438JA1Yv7KUUd",
       "date": "2026-05-30",
