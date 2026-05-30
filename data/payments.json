@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-30 17:54 UTC",
+  "updated": "2026-05-30 18:29 UTC",
   "today_total": 0,
   "all_time_total": 242866.69,
   "payments": [
+    {
+      "id": "pi_3TcrHODK4U0438JA1Yv7KUUd",
+      "date": "2026-05-30",
+      "time": "18:06",
+      "name": "Thalia Briggitte Baque Briones",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TcYQpDK4U0438JA0konPlMt",
       "date": "2026-05-29",
