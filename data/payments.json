@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-31 18:58 UTC",
+  "updated": "2026-05-31 19:36 UTC",
   "today_total": 175.0,
   "all_time_total": 243231.69,
   "payments": [
+    {
+      "id": "pi_3TdEcnDK4U0438JA1SXFdhN7",
+      "date": "2026-05-31",
+      "time": "19:02",
+      "name": "patria morales",
+      "amount": 400.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TdEQRDK4U0438JA1oo2y4mB",
       "date": "2026-05-31",
