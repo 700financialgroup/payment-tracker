@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-30 23:51 UTC",
-  "today_total": 290.0,
-  "all_time_total": 243156.69,
+  "updated": "2026-05-31 00:58 UTC",
+  "today_total": 0,
+  "all_time_total": 243056.69,
   "payments": [
     {
       "id": "pi_3TcsIpDK4U0438JA2Evkgg4X",
@@ -11575,18 +11575,6 @@
       "settled": false,
       "pending": false,
       "source": "historical_export"
-    },
-    {
-      "id": "zelle_28258896018",
-      "date": "2026-03-01",
-      "time": "",
-      "name": "Liza Bernard",
-      "amount": 100.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
     },
     {
       "id": "zelle_hist_2026-03-01_liza_bernard_100_24",
