@@ -1,8 +1,20 @@
 {
-  "updated": "2026-05-31 16:31 UTC",
+  "updated": "2026-05-31 17:27 UTC",
   "today_total": 0,
   "all_time_total": 243056.69,
   "payments": [
+    {
+      "id": "pi_3TdCetDK4U0438JA23M79hSA",
+      "date": "2026-05-31",
+      "time": "16:56",
+      "name": "Rosmeri Fernandez",
+      "amount": 29.99,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TdB75DK4U0438JA1ZpBZVtn",
       "date": "2026-05-31",
