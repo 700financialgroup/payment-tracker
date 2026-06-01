@@ -1,7 +1,24 @@
 {
-  "updated": "2026-06-01 23:11 UTC",
-  "total": 14,
+  "updated": "2026-06-01 23:57 UTC",
+  "total": 15,
   "clients": [
+    {
+      "id": "Nz0vrVrXkfLVHe1EbYPb",
+      "name": "lesdie cruz",
+      "phone": "+18608933300",
+      "email": "figueroalesdie@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "deposit paid",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-05-26"
+    },
     {
       "id": "rTGnlrdfKcQbkhKbdVdA",
       "name": "maria contreras",
