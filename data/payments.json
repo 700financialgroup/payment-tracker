@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-31 23:54 UTC",
-  "today_total": 350.0,
-  "all_time_total": 243406.69,
+  "updated": "2026-06-01 01:02 UTC",
+  "today_total": 0,
+  "all_time_total": 243206.69,
   "payments": [
     {
       "id": "pi_3TdGrFDK4U0438JA2J7SLUlq",
@@ -11549,18 +11549,6 @@
       "amount": 10.03,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_16229_2026-03-02",
-      "date": "2026-03-02",
-      "time": "",
-      "name": "Fe Altagracia Cabral Jimenez",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
