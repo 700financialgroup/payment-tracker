@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-01 18:58 UTC",
-  "total": 13,
+  "updated": "2026-06-01 20:34 UTC",
+  "total": 14,
   "clients": [
     {
       "id": "rTGnlrdfKcQbkhKbdVdA",
@@ -85,6 +85,23 @@
         "client.round1"
       ],
       "dateAdded": "2026-05-18"
+    },
+    {
+      "id": "flocYNv26HtD1sKMi9gF",
+      "name": "argenis toribio",
+      "phone": "+19783149020",
+      "email": "argfx13@outlook.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "docs uploaded",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-05-14"
     },
     {
       "id": "6Nuk3OGpWgbm3TI0m5kM",
