@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-01 20:34 UTC",
-  "today_total": 29.99,
-  "all_time_total": 243236.68,
+  "updated": "2026-06-01 22:07 UTC",
+  "today_total": 129.99,
+  "all_time_total": 243336.68,
   "payments": [
+    {
+      "id": "pi_3TddalDK4U0438JA10uho1CR",
+      "date": "2026-06-01",
+      "time": "21:41",
+      "name": "Jasmine Reynoso",
+      "amount": 100.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3Tdb8SDK4U0438JA0vbK8EQq",
       "date": "2026-06-01",
