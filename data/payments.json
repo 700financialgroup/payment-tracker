@@ -1,8 +1,32 @@
 {
-  "updated": "2026-06-01 14:35 UTC",
-  "today_total": 0,
-  "all_time_total": 243206.69,
+  "updated": "2026-06-01 16:56 UTC",
+  "today_total": 29.99,
+  "all_time_total": 243236.68,
   "payments": [
+    {
+      "id": "pi_3TdXuXDK4U0438JA0GEWWOFZ",
+      "date": "2026-06-01",
+      "time": "15:37",
+      "name": "Arieli Rodriguez",
+      "amount": 29.99,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3TdXodDK4U0438JA0MnGRvp6",
+      "date": "2026-06-01",
+      "time": "15:31",
+      "name": "Alba Rodr\u00edguez",
+      "amount": 29.99,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TdN1xDK4U0438JA2Pb6xDU4",
       "date": "2026-06-01",
