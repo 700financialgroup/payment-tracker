@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01 12:07 UTC",
+  "updated": "2026-06-01 14:35 UTC",
   "total": 13,
   "clients": [
     {
@@ -48,7 +48,8 @@
       "flags": [],
       "tags": [
         "client.round1.active",
-        "client.round1"
+        "client.round1",
+        "client.unresponsive"
       ],
       "dateAdded": "2026-05-22"
     },
