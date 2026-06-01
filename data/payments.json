@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-01 18:58 UTC",
+  "updated": "2026-06-01 20:34 UTC",
   "today_total": 29.99,
   "all_time_total": 243236.68,
   "payments": [
+    {
+      "id": "pi_3Tdb8SDK4U0438JA0vbK8EQq",
+      "date": "2026-06-01",
+      "time": "19:04",
+      "name": "Samantha Guerrier",
+      "amount": 200.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3Tda3TDK4U0438JA2dgflVKr",
       "date": "2026-06-01",
