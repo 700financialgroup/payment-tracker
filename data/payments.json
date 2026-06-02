@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-02 18:19 UTC",
+  "updated": "2026-06-02 19:48 UTC",
   "today_total": 289.97,
-  "all_time_total": 241703.3,
+  "all_time_total": 241733.29,
   "payments": [
+    {
+      "id": "pi_3TdxAJDK4U0438JA2VKqImPN",
+      "date": "2026-06-02",
+      "time": "18:35",
+      "name": "Daisy Guzman",
+      "amount": 29.99,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TdwkvDK4U0438JA1jJ309cj",
       "date": "2026-06-02",
@@ -321,10 +333,10 @@
       "time": "13:30",
       "name": "Jasmine Reynoso",
       "amount": 29.99,
-      "status": "requires_payment_method",
+      "status": "succeeded",
       "platform": "Stripe",
-      "ok": false,
-      "settled": false,
+      "ok": true,
+      "settled": true,
       "pending": false
     },
     {
