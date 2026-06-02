@@ -1,8 +1,32 @@
 {
-  "updated": "2026-06-02 16:34 UTC",
-  "today_total": 229.99,
-  "all_time_total": 241643.32,
+  "updated": "2026-06-02 18:19 UTC",
+  "today_total": 289.97,
+  "all_time_total": 241703.3,
   "payments": [
+    {
+      "id": "pi_3TdwkvDK4U0438JA1jJ309cj",
+      "date": "2026-06-02",
+      "time": "18:09",
+      "name": "Maria Contreras",
+      "amount": 29.99,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TdwUKDK4U0438JA1XnCY9Dr",
+      "date": "2026-06-02",
+      "time": "17:52",
+      "name": "Ely romero",
+      "amount": 29.99,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TdsFkDK4U0438JA0SkdcAcY",
       "date": "2026-06-02",
