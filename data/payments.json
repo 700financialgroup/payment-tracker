@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-01 23:57 UTC",
-  "today_total": 129.99,
-  "all_time_total": 243336.68,
+  "updated": "2026-06-02 01:18 UTC",
+  "today_total": 0,
+  "all_time_total": 241383.34,
   "payments": [
     {
       "id": "pi_3TddalDK4U0438JA10uho1CR",
@@ -11352,78 +11352,6 @@
       "settled": false,
       "pending": false,
       "source": "historical_export"
-    },
-    {
-      "id": "fb_sale_16277_2026-03-03",
-      "date": "2026-03-03",
-      "time": "",
-      "name": "Briange Mejia",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_16285_2026-03-03",
-      "date": "2026-03-03",
-      "time": "",
-      "name": "Raydiris Maria Rojas",
-      "amount": 900.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_16296_2026-03-03",
-      "date": "2026-03-03",
-      "time": "",
-      "name": "Angelica Ortiz",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_16286_2026-03-03",
-      "date": "2026-03-03",
-      "time": "",
-      "name": "Annie Marin Lopez",
-      "amount": 333.34,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_16292_2026-03-03",
-      "date": "2026-03-03",
-      "time": "",
-      "name": "Joel De La Rosa",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_16302_2026-03-03",
-      "date": "2026-03-03",
-      "time": "",
-      "name": "Carolina Duran",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
     },
     {
       "id": "fb_hist_2026-03-03_carolina_duran_160",
