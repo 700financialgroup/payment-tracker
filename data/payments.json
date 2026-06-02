@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-02 03:49 UTC",
+  "updated": "2026-06-02 05:40 UTC",
   "today_total": 0,
-  "all_time_total": 241383.34,
+  "all_time_total": 241413.33,
   "payments": [
     {
       "id": "pi_3TddalDK4U0438JA10uho1CR",
@@ -345,10 +345,10 @@
       "time": "23:07",
       "name": "Rosanny Disla",
       "amount": 29.99,
-      "status": "requires_payment_method",
+      "status": "succeeded",
       "platform": "Stripe",
-      "ok": false,
-      "settled": false,
+      "ok": true,
+      "settled": true,
       "pending": false
     },
     {
