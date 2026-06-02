@@ -1,8 +1,32 @@
 {
-  "updated": "2026-06-02 19:48 UTC",
+  "updated": "2026-06-02 21:10 UTC",
   "today_total": 289.97,
   "all_time_total": 241733.29,
   "payments": [
+    {
+      "id": "pi_3TdyugDK4U0438JA10mdA4be",
+      "date": "2026-06-02",
+      "time": "20:27",
+      "name": "Ariel Vargas",
+      "amount": 29.99,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3TdyPpDK4U0438JA1clns6aE",
+      "date": "2026-06-02",
+      "time": "19:55",
+      "name": "Jasmine Reynoso",
+      "amount": 29.99,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TdxAJDK4U0438JA2VKqImPN",
       "date": "2026-06-02",
