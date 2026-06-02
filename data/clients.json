@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-02 14:50 UTC",
-  "total": 15,
+  "updated": "2026-06-02 16:34 UTC",
+  "total": 16,
   "clients": [
     {
       "id": "Nz0vrVrXkfLVHe1EbYPb",
@@ -82,6 +82,26 @@
       "platform": "Auth.net",
       "flags": [],
       "tags": [
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-05-22"
+    },
+    {
+      "id": "eE41kI3qXXSX6e02lE3B",
+      "name": "jasmine reynoso",
+      "phone": "+19732344514",
+      "email": "jasminereynoso88@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show"
+      ],
+      "tags": [
+        "no show to call",
+        "docs uploaded",
         "client.round1.active"
       ],
       "dateAdded": "2026-05-22"
