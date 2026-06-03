@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-03 03:17 UTC",
+  "updated": "2026-06-03 05:13 UTC",
   "today_total": 0,
   "all_time_total": 241263.28,
   "payments": [
+    {
+      "id": "pi_3Te5cmDK4U0438JA0xuBQGaw",
+      "date": "2026-06-03",
+      "time": "03:37",
+      "name": "Luis Carlos Frias Castro",
+      "amount": 29.99,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3Te0xYDK4U0438JA1hPbWOL9",
       "date": "2026-06-02",
