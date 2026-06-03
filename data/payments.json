@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-03 16:38 UTC",
-  "today_total": 204.99,
-  "all_time_total": 241468.27,
+  "updated": "2026-06-03 18:30 UTC",
+  "today_total": 234.98,
+  "all_time_total": 241498.26,
   "payments": [
+    {
+      "id": "pi_3TeIDXDK4U0438JA1C3DWdyU",
+      "date": "2026-06-03",
+      "time": "17:04",
+      "name": "Genesi Martinez",
+      "amount": 29.99,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TeHIUDK4U0438JA1X4vP7Cp",
       "date": "2026-06-03",
