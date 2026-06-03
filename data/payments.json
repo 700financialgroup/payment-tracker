@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-02 23:10 UTC",
-  "today_total": 319.96,
-  "all_time_total": 241763.28,
+  "updated": "2026-06-03 00:07 UTC",
+  "today_total": 0,
+  "all_time_total": 241263.28,
   "payments": [
     {
       "id": "pi_3Te0xYDK4U0438JA1hPbWOL9",
@@ -11284,42 +11284,6 @@
       "settled": false,
       "pending": false,
       "source": "historical_export"
-    },
-    {
-      "id": "zelle_28307460301",
-      "date": "2026-03-04",
-      "time": "",
-      "name": "Mariela Consuegra",
-      "amount": 100.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_16361_2026-03-04",
-      "date": "2026-03-04",
-      "time": "",
-      "name": "Edwin Ventura",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_16374_2026-03-04",
-      "date": "2026-03-04",
-      "time": "",
-      "name": "Heidy Fana",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
     },
     {
       "id": "fb_hist_2026-03-04_heidy_fana_200",
