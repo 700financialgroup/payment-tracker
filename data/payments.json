@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-03 13:00 UTC",
-  "today_total": 0,
-  "all_time_total": 241263.28,
+  "updated": "2026-06-03 14:40 UTC",
+  "today_total": 175.0,
+  "all_time_total": 241438.28,
   "payments": [
+    {
+      "id": "pi_3TeEgsDK4U0438JA1XiAbf5C",
+      "date": "2026-06-03",
+      "time": "13:18",
+      "name": "Angelica Ortiz",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3Te5cmDK4U0438JA0xuBQGaw",
       "date": "2026-06-03",
