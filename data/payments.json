@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-03 18:30 UTC",
+  "updated": "2026-06-03 19:54 UTC",
   "today_total": 234.98,
   "all_time_total": 241498.26,
   "payments": [
+    {
+      "id": "pi_3TeKdNDK4U0438JA1xhJXTT2",
+      "date": "2026-06-03",
+      "time": "19:39",
+      "name": "Delmalyz Bernardi",
+      "amount": 29.99,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TeIDXDK4U0438JA1C3DWdyU",
       "date": "2026-06-03",
