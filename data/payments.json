@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-03 23:13 UTC",
-  "today_total": 409.98,
-  "all_time_total": 241673.26,
+  "updated": "2026-06-04 00:08 UTC",
+  "today_total": 0,
+  "all_time_total": 241073.26,
   "payments": [
     {
       "id": "pi_3TeMPYDK4U0438JA2fNY7qQt",
@@ -10998,18 +10998,6 @@
       "pending": false
     },
     {
-      "id": "fb_sale_16458_2026-03-06",
-      "date": "2026-03-06",
-      "time": "",
-      "name": "Melissa Roman",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
       "id": "fb_sale_16490_2026-03-06",
       "date": "2026-03-06",
       "time": "",
@@ -11211,30 +11199,6 @@
       "amount": 10.37,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_16439_2026-03-05",
-      "date": "2026-03-05",
-      "time": "",
-      "name": "Brianna Martinez",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_16450_2026-03-05",
-      "date": "2026-03-05",
-      "time": "",
-      "name": "Darleny Lugo",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
