@@ -1,8 +1,56 @@
 {
-  "updated": "2026-06-04 18:18 UTC",
-  "today_total": 354.99,
-  "all_time_total": 241458.24,
+  "updated": "2026-06-04 19:20 UTC",
+  "today_total": 704.99,
+  "all_time_total": 241808.24,
   "payments": [
+    {
+      "id": "pi_3Teg8GDK4U0438JA2Uwjl8GE",
+      "date": "2026-06-04",
+      "time": "18:36",
+      "name": "Laurycel Rodriguez",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3Teg1lDK4U0438JA2xZg3yXw",
+      "date": "2026-06-04",
+      "time": "18:30",
+      "name": "Laurycel Rodriguez",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TefwvDK4U0438JA2E40Otcy",
+      "date": "2026-06-04",
+      "time": "18:25",
+      "name": "Daisy Guzman",
+      "amount": 29.99,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3TefrhDK4U0438JA2gHaCQLn",
+      "date": "2026-06-04",
+      "time": "18:19",
+      "name": "Daisy Guzman",
+      "amount": 29.99,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TediXDK4U0438JA0P8vzuzG",
       "date": "2026-06-04",
