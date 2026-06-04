@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-04 13:14 UTC",
-  "today_total": 175.0,
-  "all_time_total": 241248.26,
+  "updated": "2026-06-04 14:23 UTC",
+  "today_total": 325.0,
+  "all_time_total": 241398.26,
   "payments": [
+    {
+      "id": "pi_3Teb6zDK4U0438JA23mC9ouC",
+      "date": "2026-06-04",
+      "time": "13:15",
+      "name": "Chaely Corniel",
+      "amount": 150.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TeP2CDK4U0438JA0ogRuwJV",
       "date": "2026-06-04",
