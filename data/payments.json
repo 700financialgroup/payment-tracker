@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-04 00:08 UTC",
-  "today_total": 0,
-  "all_time_total": 241073.26,
+  "updated": "2026-06-04 01:39 UTC",
+  "today_total": 175.0,
+  "all_time_total": 241248.26,
   "payments": [
+    {
+      "id": "pi_3TeP2CDK4U0438JA0ogRuwJV",
+      "date": "2026-06-04",
+      "time": "00:21",
+      "name": "Melissa Roman",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TeMPYDK4U0438JA2fNY7qQt",
       "date": "2026-06-03",
