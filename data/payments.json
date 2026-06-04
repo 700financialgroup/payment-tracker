@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-04 14:23 UTC",
+  "updated": "2026-06-04 15:42 UTC",
   "today_total": 325.0,
-  "all_time_total": 241398.26,
+  "all_time_total": 241428.25,
   "payments": [
     {
       "id": "pi_3Teb6zDK4U0438JA23mC9ouC",
@@ -129,10 +129,10 @@
       "time": "20:27",
       "name": "Ariel Vargas",
       "amount": 29.99,
-      "status": "requires_payment_method",
+      "status": "succeeded",
       "platform": "Stripe",
-      "ok": false,
-      "settled": false,
+      "ok": true,
+      "settled": true,
       "pending": false
     },
     {
