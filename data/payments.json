@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-05 09:48 UTC",
-  "today_total": 0,
-  "all_time_total": 240683.24,
+  "updated": "2026-06-05 11:11 UTC",
+  "today_total": 175.0,
+  "all_time_total": 240858.24,
   "payments": [
     {
       "id": "pi_3TepJqDK4U0438JA23oQSJlQ",
@@ -13,6 +13,18 @@
       "platform": "Stripe",
       "ok": false,
       "settled": false,
+      "pending": false
+    },
+    {
+      "id": "zelle_29498043489",
+      "date": "2026-06-05",
+      "time": "",
+      "name": "Laura Vargas",
+      "amount": 175.0,
+      "status": "received",
+      "platform": "Zelle",
+      "ok": true,
+      "settled": true,
       "pending": false
     },
     {
