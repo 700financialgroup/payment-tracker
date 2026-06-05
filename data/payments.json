@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-04 23:32 UTC",
-  "today_total": 879.99,
-  "all_time_total": 241983.24,
+  "updated": "2026-06-05 00:59 UTC",
+  "today_total": 0,
+  "all_time_total": 240683.24,
   "payments": [
     {
       "id": "pi_3TejqpDK4U0438JA2WfJEoEk",
@@ -11091,42 +11091,6 @@
       "platform": "Stripe",
       "ok": false,
       "settled": false,
-      "pending": false
-    },
-    {
-      "id": "zelle_28338305616",
-      "date": "2026-03-06",
-      "time": "",
-      "name": "Heidi Vargas",
-      "amount": 900.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_16490_2026-03-06",
-      "date": "2026-03-06",
-      "time": "",
-      "name": "Deyaniris Garcia De Nunez",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_16492_2026-03-06",
-      "date": "2026-03-06",
-      "time": "",
-      "name": "Deyaniris Garcia De Nunez",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
       "pending": false
     },
     {
