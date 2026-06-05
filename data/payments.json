@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-05 15:07 UTC",
-  "today_total": 379.99,
-  "all_time_total": 241093.22,
+  "updated": "2026-06-05 16:35 UTC",
+  "today_total": 539.99,
+  "all_time_total": 241253.22,
   "payments": [
     {
       "id": "pi_3TeyghDK4U0438JA2E8WUiwr",
@@ -47,6 +47,18 @@
       "amount": 175.0,
       "status": "received",
       "platform": "Zelle",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "fb_renewal_21196_2026-06-05",
+      "date": "2026-06-05",
+      "time": "",
+      "name": "Rosanna Tavares",
+      "amount": 160.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
