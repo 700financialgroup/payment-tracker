@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-06 00:56 UTC",
-  "today_total": 0,
-  "all_time_total": 241313.21,
+  "updated": "2026-06-06 01:45 UTC",
+  "today_total": 160.0,
+  "all_time_total": 241473.21,
   "payments": [
+    {
+      "id": "pi_3Tf8otDK4U0438JA2Mwog364",
+      "date": "2026-06-06",
+      "time": "01:14",
+      "name": "Rocio Rodriguez",
+      "amount": 160.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3Tf6DrDK4U0438JA2M7LVGJC",
       "date": "2026-06-05",
@@ -2573,7 +2585,7 @@
       "id": "pi_3TS3QrDK4U0438JA2yQL5ZBo",
       "date": "2026-04-30",
       "time": "22:51",
-      "name": "Rocio rodriguez",
+      "name": "Rocio Rodriguez",
       "amount": 160.0,
       "status": "succeeded",
       "platform": "Stripe",
