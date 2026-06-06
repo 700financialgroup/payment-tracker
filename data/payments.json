@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-05 23:31 UTC",
-  "today_total": 744.98,
-  "all_time_total": 241633.21,
+  "updated": "2026-06-06 00:56 UTC",
+  "today_total": 0,
+  "all_time_total": 241313.21,
   "payments": [
     {
       "id": "pi_3Tf6DrDK4U0438JA2M7LVGJC",
@@ -11027,30 +11027,6 @@
       "settled": false,
       "pending": false,
       "source": "historical_export"
-    },
-    {
-      "id": "fb_renewal_16543_2026-03-07",
-      "date": "2026-03-07",
-      "time": "",
-      "name": "Rosanna Tavares",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_16549_2026-03-07",
-      "date": "2026-03-07",
-      "time": "",
-      "name": "Beatriz Mena",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
     },
     {
       "id": "fb_hist_2026-03-07_verenice__morel_175",
