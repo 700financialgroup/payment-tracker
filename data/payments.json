@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-07 15:35 UTC",
-  "today_total": 175.0,
-  "all_time_total": 242448.21,
+  "updated": "2026-06-07 16:35 UTC",
+  "today_total": 575.0,
+  "all_time_total": 242848.21,
   "payments": [
+    {
+      "id": "pi_3TfilYDK4U0438JA1vk4ekuu",
+      "date": "2026-06-07",
+      "time": "15:37",
+      "name": "Autumn Banks",
+      "amount": 400.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TfUBwDK4U0438JA0z7oG5AQ",
       "date": "2026-06-07",
