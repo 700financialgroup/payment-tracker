@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-08 23:02 UTC",
-  "total": 16,
+  "updated": "2026-06-08 23:54 UTC",
+  "total": 17,
   "clients": [
+    {
+      "id": "vsRjFFcNFVGclfiVgSh9",
+      "name": "abigail rivera",
+      "phone": "+14012481499",
+      "email": "abigailrivera0813@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show"
+      ],
+      "tags": [
+        "no show to call",
+        "client.round1",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-06-03"
+    },
     {
       "id": "Nz0vrVrXkfLVHe1EbYPb",
       "name": "lesdie cruz",
