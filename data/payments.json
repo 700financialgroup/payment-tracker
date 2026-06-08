@@ -1,8 +1,44 @@
 {
-  "updated": "2026-06-08 20:19 UTC",
-  "today_total": 189.99,
-  "all_time_total": 242270.45,
+  "updated": "2026-06-08 21:16 UTC",
+  "today_total": 589.99,
+  "all_time_total": 242670.45,
   "payments": [
+    {
+      "id": "pi_3TgA2kDK4U0438JA1sKSMqdH",
+      "date": "2026-06-08",
+      "time": "20:45",
+      "name": "Nusyalys Flores",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3Tg9x4DK4U0438JA2V6x6k4b",
+      "date": "2026-06-08",
+      "time": "20:39",
+      "name": "Nusyalys Flores",
+      "amount": 200.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3Tg9twDK4U0438JA23JL1fEb",
+      "date": "2026-06-08",
+      "time": "20:36",
+      "name": "Jacson jose barreto torreaoba",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3Tg8a7DK4U0438JA0cRevihn",
       "date": "2026-06-08",
