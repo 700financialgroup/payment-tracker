@@ -1,8 +1,32 @@
 {
-  "updated": "2026-06-08 18:03 UTC",
-  "today_total": 0,
-  "all_time_total": 242080.46,
+  "updated": "2026-06-08 19:19 UTC",
+  "today_total": 189.99,
+  "all_time_total": 242270.45,
   "payments": [
+    {
+      "id": "pi_3Tg8a7DK4U0438JA0cRevihn",
+      "date": "2026-06-08",
+      "time": "19:11",
+      "name": "Yariber Nunez",
+      "amount": 160.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3Tg7bxDK4U0438JA0sQaBkOY",
+      "date": "2026-06-08",
+      "time": "18:09",
+      "name": "Nathaly Ayala Martinez",
+      "amount": 29.99,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TfqY1DK4U0438JA1vDTSaug",
       "date": "2026-06-07",
@@ -1975,7 +1999,7 @@
       "id": "pi_3TW2G4DK4U0438JA0frnwd3i",
       "date": "2026-05-11",
       "time": "22:25",
-      "name": "Yariber Martinez nunez",
+      "name": "Yariber Nunez",
       "amount": 160.0,
       "status": "succeeded",
       "platform": "Stripe",
@@ -5267,7 +5291,7 @@
       "id": "pi_3TKembDK4U0438JA0UzvjQFW",
       "date": "2026-04-10",
       "time": "13:07",
-      "name": "Yariber Martinez nunez",
+      "name": "Yariber Nunez",
       "amount": 160.0,
       "status": "succeeded",
       "platform": "Stripe",
