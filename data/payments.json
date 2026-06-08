@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-07 23:54 UTC",
-  "today_total": 926.0,
-  "all_time_total": 243199.21,
+  "updated": "2026-06-08 01:02 UTC",
+  "today_total": 0,
+  "all_time_total": 242080.46,
   "payments": [
+    {
+      "id": "pi_3TfqY1DK4U0438JA1vDTSaug",
+      "date": "2026-06-07",
+      "time": "23:56",
+      "name": "Danny Beltre",
+      "amount": 1.25,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TfpqoDK4U0438JA1353iBlU",
       "date": "2026-06-07",
@@ -10766,18 +10778,6 @@
       "source": "historical_export"
     },
     {
-      "id": "fb_sale_16622_2026-03-10",
-      "date": "2026-03-10",
-      "time": "",
-      "name": "Pedro Juan Caraballo",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
       "id": "fb_renewal_16666_2026-03-10",
       "date": "2026-03-10",
       "time": "",
@@ -10898,66 +10898,6 @@
       "platform": "Stripe",
       "ok": false,
       "settled": false,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_16597_2026-03-09",
-      "date": "2026-03-09",
-      "time": "",
-      "name": "Angela V Romero Gonzalez",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_16610_2026-03-09",
-      "date": "2026-03-09",
-      "time": "",
-      "name": "Wilkany Santos",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_16619_2026-03-09",
-      "date": "2026-03-09",
-      "time": "",
-      "name": "Briangel Mejia",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_16601_2026-03-09",
-      "date": "2026-03-09",
-      "time": "",
-      "name": "Ariel Vargas",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_16616_2026-03-09",
-      "date": "2026-03-09",
-      "time": "",
-      "name": "Alexander De La Rosa",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
       "pending": false
     },
     {
