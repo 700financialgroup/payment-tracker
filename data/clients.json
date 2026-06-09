@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08 23:54 UTC",
+  "updated": "2026-06-09 00:54 UTC",
   "total": 17,
   "clients": [
     {
@@ -284,17 +284,22 @@
     {
       "id": "9BoF8uj6QUG1BBSuAi76",
       "name": "nayelys castillo",
-      "phone": null,
+      "phone": "+17866082694",
       "email": "nayelys.castillo@icloud.com",
       "round": 5,
-      "language": "",
+      "language": "Spanish",
       "plan": "",
       "installment": 0,
       "platform": "Auth.net",
-      "flags": [],
+      "flags": [
+        "idiq_fail"
+      ],
       "tags": [
         "client.round5.active",
-        "client.round5"
+        "client.round5",
+        "booked appointment",
+        "language: spanish",
+        "idiq fail"
       ],
       "dateAdded": "2026-05-26"
     }
