@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-08 23:54 UTC",
-  "today_total": 749.99,
-  "all_time_total": 242830.45,
+  "updated": "2026-06-09 00:54 UTC",
+  "today_total": 0,
+  "all_time_total": 242137.11,
   "payments": [
     {
       "id": "pi_3TgA2kDK4U0438JA1sKSMqdH",
@@ -10753,18 +10753,6 @@
       "pending": false
     },
     {
-      "id": "fb_sale_16715_2026-03-11",
-      "date": "2026-03-11",
-      "time": "",
-      "name": "Arisleyda Cabrera",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
       "id": "fb_hist_2026-03-11_elizabeth__bonilla_200",
       "date": "2026-03-11",
       "time": "22:52",
@@ -10848,30 +10836,6 @@
       "settled": true,
       "pending": false,
       "source": "historical_export"
-    },
-    {
-      "id": "fb_renewal_16666_2026-03-10",
-      "date": "2026-03-10",
-      "time": "",
-      "name": "Annie Marin Lopez",
-      "amount": 333.34,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_16679_2026-03-10",
-      "date": "2026-03-10",
-      "time": "",
-      "name": "Lisabel Lopez",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
     },
     {
       "id": "fb_hist_2026-03-10_arisleyda_cabrera_200",
