@@ -1,7 +1,28 @@
 {
-  "updated": "2026-06-09 15:36 UTC",
-  "total": 17,
+  "updated": "2026-06-09 17:01 UTC",
+  "total": 18,
   "clients": [
+    {
+      "id": "k1WV9SQkiU36nkwkDuah",
+      "name": "nusyalys alexandra flores",
+      "phone": "+14074608352",
+      "email": "nusyalysf0@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing"
+      ],
+      "tags": [
+        "payment.failed",
+        "payment missing",
+        "docs uploaded",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-06-08"
+    },
     {
       "id": "vsRjFFcNFVGclfiVgSh9",
       "name": "abigail rivera",
