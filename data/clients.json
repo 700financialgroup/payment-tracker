@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09 09:15 UTC",
+  "updated": "2026-06-09 10:42 UTC",
   "total": 17,
   "clients": [
     {
@@ -267,17 +267,24 @@
     {
       "id": "YvfrVaxJEkSFOGUK83Tp",
       "name": "ronny ceballos",
-      "phone": null,
+      "phone": "+17177530765",
       "email": "ceballoslesly1320@gmail.com",
       "round": 3,
-      "language": "",
+      "language": "Spanish",
       "plan": "",
       "installment": 0,
       "platform": "Auth.net",
-      "flags": [],
+      "flags": [
+        "no_show",
+        "idiq_fail"
+      ],
       "tags": [
         "client.round3",
-        "client.round3.active"
+        "client.round3.active",
+        "no show to call",
+        "idiq fail",
+        "client.round2",
+        "language: spanish"
       ],
       "dateAdded": "2026-05-19"
     },
