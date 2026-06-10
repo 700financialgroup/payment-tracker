@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-10 01:51 UTC",
-  "today_total": 0,
-  "all_time_total": 243547.11,
+  "updated": "2026-06-10 03:15 UTC",
+  "today_total": 175.0,
+  "all_time_total": 243722.11,
   "payments": [
+    {
+      "id": "fb_renewal_21355_2026-06-10",
+      "date": "2026-06-10",
+      "time": "",
+      "name": "Elizabeth Bonilla",
+      "amount": 175.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TgZHTDK4U0438JA00nRauTB",
       "date": "2026-06-09",
