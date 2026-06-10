@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-09 23:32 UTC",
-  "today_total": 1435.0,
-  "all_time_total": 243572.11,
+  "updated": "2026-06-10 01:01 UTC",
+  "today_total": 0,
+  "all_time_total": 243547.11,
   "payments": [
+    {
+      "id": "pi_3TgZHTDK4U0438JA00nRauTB",
+      "date": "2026-06-09",
+      "time": "23:42",
+      "name": "Aleyda Rodriguez",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TgUrCDK4U0438JA1Semrwm2",
       "date": "2026-06-09",
@@ -10594,18 +10606,6 @@
       "amount": 297.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_16775_2026-03-12",
-      "date": "2026-03-12",
-      "time": "",
-      "name": "Elizabeth Bonilla",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
