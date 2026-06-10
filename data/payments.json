@@ -1,8 +1,56 @@
 {
-  "updated": "2026-06-10 19:24 UTC",
-  "today_total": 350.0,
-  "all_time_total": 243897.11,
+  "updated": "2026-06-10 20:20 UTC",
+  "today_total": 750.0,
+  "all_time_total": 244297.11,
   "payments": [
+    {
+      "id": "pi_3TgsXqDK4U0438JA0ZtMYGFE",
+      "date": "2026-06-10",
+      "time": "20:16",
+      "name": "Sintia paredes",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TgsCUDK4U0438JA0iEjdgGL",
+      "date": "2026-06-10",
+      "time": "19:54",
+      "name": "Yenderson Jos\u00e9 Batista Polanc",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TgsBmDK4U0438JA1lA3jxFy",
+      "date": "2026-06-10",
+      "time": "19:53",
+      "name": "Yenderson Jos\u00e9 Batista Polanc",
+      "amount": 200.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3TgrjIDK4U0438JA1nJMy2in",
+      "date": "2026-06-10",
+      "time": "19:24",
+      "name": "Stephanie Roa",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TgriLDK4U0438JA0knXd0Uj",
       "date": "2026-06-10",
