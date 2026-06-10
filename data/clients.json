@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-10 15:48 UTC",
-  "total": 19,
+  "updated": "2026-06-10 17:12 UTC",
+  "total": 20,
   "clients": [
     {
       "id": "A2kCEXo6EjJNGdGrMZNO",
@@ -39,6 +39,26 @@
         "client.round1.active"
       ],
       "dateAdded": "2026-06-08"
+    },
+    {
+      "id": "g8e6TxuGnnACHnYg0Z66",
+      "name": "hilarie sanchez rivera",
+      "phone": "+14077803238",
+      "email": "hilarienachel97@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show"
+      ],
+      "tags": [
+        "no show to call",
+        "contract signed",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-06-05"
     },
     {
       "id": "vsRjFFcNFVGclfiVgSh9",
