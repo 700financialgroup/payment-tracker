@@ -1,7 +1,24 @@
 {
-  "updated": "2026-06-10 14:11 UTC",
-  "total": 18,
+  "updated": "2026-06-10 15:48 UTC",
+  "total": 19,
   "clients": [
+    {
+      "id": "A2kCEXo6EjJNGdGrMZNO",
+      "name": "wilfred castillo",
+      "phone": "+19179466584",
+      "email": "castilloinc22@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "docs uploaded",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-06-09"
+    },
     {
       "id": "k1WV9SQkiU36nkwkDuah",
       "name": "nusyalys alexandra flores",
