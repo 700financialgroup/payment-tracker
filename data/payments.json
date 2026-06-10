@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-10 22:16 UTC",
-  "today_total": 750.0,
-  "all_time_total": 244297.11,
+  "updated": "2026-06-10 23:06 UTC",
+  "today_total": 950.0,
+  "all_time_total": 244497.11,
   "payments": [
+    {
+      "id": "pi_3Tguc9DK4U0438JA28xcbzum",
+      "date": "2026-06-10",
+      "time": "22:28",
+      "name": "Jose Luis Sierra",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TgsXqDK4U0438JA0ZtMYGFE",
       "date": "2026-06-10",
