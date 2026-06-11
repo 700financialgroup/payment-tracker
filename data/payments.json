@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-11 17:47 UTC",
+  "updated": "2026-06-11 19:06 UTC",
   "today_total": 0,
   "all_time_total": 244097.11,
   "payments": [
+    {
+      "id": "pi_3ThDr9DK4U0438JA0EN4VyRE",
+      "date": "2026-06-11",
+      "time": "19:01",
+      "name": "Cris Nicole Gonzalez Castro",
+      "amount": 150.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TgvPwDK4U0438JA2igBSSQd",
       "date": "2026-06-10",
@@ -57,7 +69,7 @@
       "time": "19:53",
       "name": "Yenderson Jos\u00e9 Batista Polanc",
       "amount": 200.0,
-      "status": "requires_payment_method",
+      "status": "canceled",
       "platform": "Stripe",
       "ok": false,
       "settled": false,
