@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-11 20:20 UTC",
-  "today_total": 0,
-  "all_time_total": 244097.11,
+  "updated": "2026-06-11 21:19 UTC",
+  "today_total": 175.0,
+  "all_time_total": 244272.11,
   "payments": [
+    {
+      "id": "pi_3ThFo2DK4U0438JA0FqmIEIZ",
+      "date": "2026-06-11",
+      "time": "21:06",
+      "name": "Stephanie Roa",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3ThDr9DK4U0438JA0EN4VyRE",
       "date": "2026-06-11",
