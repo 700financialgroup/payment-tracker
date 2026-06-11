@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-11 13:28 UTC",
-  "total": 20,
+  "updated": "2026-06-11 14:49 UTC",
+  "total": 21,
   "clients": [
     {
       "id": "A2kCEXo6EjJNGdGrMZNO",
@@ -79,6 +79,22 @@
         "client.round1.active"
       ],
       "dateAdded": "2026-06-03"
+    },
+    {
+      "id": "hPERTNm4O2WpbH6lz7Be",
+      "name": "dorah ganchoso",
+      "phone": "+14847054444",
+      "email": "loads.adcargo@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-06-01"
     },
     {
       "id": "Nz0vrVrXkfLVHe1EbYPb",
@@ -254,27 +270,6 @@
       "dateAdded": "2026-05-11"
     },
     {
-      "id": "Olh1VMtb8dbiU7H2fN85",
-      "name": "stephanie roa",
-      "phone": "+18482831283",
-      "email": "stephanie.p.roa@gmail.com",
-      "round": 1,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [
-        "payment_missing"
-      ],
-      "tags": [
-        "client.round1",
-        "client.round1.active",
-        "payment.failed",
-        "payment missing"
-      ],
-      "dateAdded": "2026-05-11"
-    },
-    {
       "id": "CJgvCjPr9VGiTns23vmR",
       "name": "denysse jimenez",
       "phone": "+18622648491",
@@ -325,6 +320,27 @@
         "client.round1"
       ],
       "dateAdded": "2026-05-09"
+    },
+    {
+      "id": "Olh1VMtb8dbiU7H2fN85",
+      "name": "stephanie roa",
+      "phone": "+18482831283",
+      "email": "stephanie.p.roa@gmail.com",
+      "round": 2,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing"
+      ],
+      "tags": [
+        "client.round1.active",
+        "payment.failed",
+        "payment missing",
+        "client.round2.active"
+      ],
+      "dateAdded": "2026-05-11"
     },
     {
       "id": "YvfrVaxJEkSFOGUK83Tp",
