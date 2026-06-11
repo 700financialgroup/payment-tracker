@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-10 23:06 UTC",
-  "today_total": 950.0,
-  "all_time_total": 244497.11,
+  "updated": "2026-06-11 00:01 UTC",
+  "today_total": 0,
+  "all_time_total": 244097.11,
   "payments": [
+    {
+      "id": "pi_3TgvPwDK4U0438JA2igBSSQd",
+      "date": "2026-06-10",
+      "time": "23:20",
+      "name": "aglaura bertance",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3Tguc9DK4U0438JA28xcbzum",
       "date": "2026-06-10",
@@ -10702,42 +10714,6 @@
       "amount": 297.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_16795_2026-03-12",
-      "date": "2026-03-12",
-      "time": "",
-      "name": "Laura Vargas",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_16807_2026-03-12",
-      "date": "2026-03-12",
-      "time": "",
-      "name": "Esmerling Delgado",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_16783_2026-03-12",
-      "date": "2026-03-12",
-      "time": "",
-      "name": "Mariela Tineo",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
