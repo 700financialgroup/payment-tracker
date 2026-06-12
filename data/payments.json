@@ -1,8 +1,32 @@
 {
-  "updated": "2026-06-12 18:47 UTC",
-  "today_total": 501.99,
-  "all_time_total": 244649.1,
+  "updated": "2026-06-12 19:44 UTC",
+  "today_total": 626.99,
+  "all_time_total": 244774.1,
   "payments": [
+    {
+      "id": "pi_3ThaLKDK4U0438JA0GPnmnlg",
+      "date": "2026-06-12",
+      "time": "19:02",
+      "name": "Cris Nicole Gonzalez Castro",
+      "amount": 150.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3ThaL6DK4U0438JA1Le3XBRE",
+      "date": "2026-06-12",
+      "time": "19:02",
+      "name": "Abigail Rivera",
+      "amount": 125.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3ThYqJDK4U0438JA2ztwp6fT",
       "date": "2026-06-12",
