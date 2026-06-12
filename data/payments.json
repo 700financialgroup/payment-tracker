@@ -1,8 +1,32 @@
 {
-  "updated": "2026-06-12 16:33 UTC",
-  "today_total": 175.0,
-  "all_time_total": 244322.11,
+  "updated": "2026-06-12 17:49 UTC",
+  "today_total": 501.99,
+  "all_time_total": 244649.1,
   "payments": [
+    {
+      "id": "pi_3ThYqJDK4U0438JA2ztwp6fT",
+      "date": "2026-06-12",
+      "time": "17:26",
+      "name": "Jose Luis Sierra",
+      "amount": 29.99,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3ThY1YDK4U0438JA0dMtBfOr",
+      "date": "2026-06-12",
+      "time": "16:33",
+      "name": "GT CONSULTING AND FINANCE LLC",
+      "amount": 297.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3ThUrUDK4U0438JA0XZUD3nz",
       "date": "2026-06-12",
