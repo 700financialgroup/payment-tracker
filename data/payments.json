@@ -1,8 +1,32 @@
 {
-  "updated": "2026-06-12 21:38 UTC",
-  "today_total": 626.99,
-  "all_time_total": 244774.1,
+  "updated": "2026-06-12 22:37 UTC",
+  "today_total": 686.97,
+  "all_time_total": 244834.08,
   "payments": [
+    {
+      "id": "pi_3Thdb0DK4U0438JA1WFqAYOB",
+      "date": "2026-06-12",
+      "time": "22:30",
+      "name": "Nathaly Ayala Martinez",
+      "amount": 29.99,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3Thd1sDK4U0438JA0WMmyrva",
+      "date": "2026-06-12",
+      "time": "21:54",
+      "name": "Nathaly Ayala Martinez",
+      "amount": 29.99,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3ThaLKDK4U0438JA0GPnmnlg",
       "date": "2026-06-12",
