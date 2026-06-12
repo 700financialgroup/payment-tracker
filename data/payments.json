@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-12 12:09 UTC",
-  "today_total": 0,
-  "all_time_total": 244147.11,
+  "updated": "2026-06-12 13:43 UTC",
+  "today_total": 175.0,
+  "all_time_total": 244322.11,
   "payments": [
+    {
+      "id": "pi_3ThUrUDK4U0438JA0XZUD3nz",
+      "date": "2026-06-12",
+      "time": "13:11",
+      "name": "niicol soriano",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3ThI1LDK4U0438JA2HOXzphS",
       "date": "2026-06-11",
