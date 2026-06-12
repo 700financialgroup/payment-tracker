@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12 15:09 UTC",
+  "updated": "2026-06-12 16:33 UTC",
   "total": 21,
   "clients": [
     {
@@ -252,24 +252,6 @@
       "dateAdded": "2026-05-13"
     },
     {
-      "id": "N3pHAgPQIhbjs4BXq5Q7",
-      "name": "jose arias",
-      "phone": "+13473536516",
-      "email": "arias.j0405@gmail.com",
-      "round": 1,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
-      "tags": [
-        "mentoria",
-        "client.round1",
-        "client.round1.active"
-      ],
-      "dateAdded": "2026-05-11"
-    },
-    {
       "id": "CJgvCjPr9VGiTns23vmR",
       "name": "denysse jimenez",
       "phone": "+18622648491",
@@ -320,6 +302,24 @@
         "client.round1"
       ],
       "dateAdded": "2026-05-09"
+    },
+    {
+      "id": "N3pHAgPQIhbjs4BXq5Q7",
+      "name": "jose arias",
+      "phone": "+13473536516",
+      "email": "arias.j0405@gmail.com",
+      "round": 2,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "mentoria",
+        "client.round1.active",
+        "client.round2.active"
+      ],
+      "dateAdded": "2026-05-11"
     },
     {
       "id": "Olh1VMtb8dbiU7H2fN85",
