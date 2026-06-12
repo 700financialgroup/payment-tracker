@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-11 23:05 UTC",
-  "today_total": 175.0,
-  "all_time_total": 244272.11,
+  "updated": "2026-06-12 00:04 UTC",
+  "today_total": 0,
+  "all_time_total": 244147.11,
   "payments": [
+    {
+      "id": "pi_3ThI1LDK4U0438JA2HOXzphS",
+      "date": "2026-06-11",
+      "time": "23:28",
+      "name": "Jose Arias",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3ThFo2DK4U0438JA0FqmIEIZ",
       "date": "2026-06-11",
@@ -10603,30 +10615,6 @@
       "amount": 97.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "zelle_28412201687",
-      "date": "2026-03-13",
-      "time": "",
-      "name": "Yocaira B Pena",
-      "amount": 100.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_16866_2026-03-13",
-      "date": "2026-03-13",
-      "time": "",
-      "name": "Dahianny Carolina Jimenez De Altagracias",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
