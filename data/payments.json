@@ -1,8 +1,32 @@
 {
-  "updated": "2026-06-12 23:36 UTC",
-  "today_total": 686.97,
-  "all_time_total": 244834.08,
+  "updated": "2026-06-13 01:02 UTC",
+  "today_total": 160.0,
+  "all_time_total": 244674.08,
   "payments": [
+    {
+      "id": "fb_renewal_21484_2026-06-13",
+      "date": "2026-06-13",
+      "time": "",
+      "name": "Tirso Blanco",
+      "amount": 160.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3ThelTDK4U0438JA1qIBlrz0",
+      "date": "2026-06-12",
+      "time": "23:45",
+      "name": "Hilarie Sanchez",
+      "amount": 29.99,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3Thdb0DK4U0438JA1WFqAYOB",
       "date": "2026-06-12",
@@ -10401,18 +10425,6 @@
       "source": "historical_export"
     },
     {
-      "id": "fb_renewal_16923_2026-03-15",
-      "date": "2026-03-15",
-      "time": "",
-      "name": "Tirso Blanco",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
       "id": "fb_renewal_16936_2026-03-15",
       "date": "2026-03-15",
       "time": "",
@@ -10563,18 +10575,6 @@
       "settled": true,
       "pending": false,
       "source": "historical_export"
-    },
-    {
-      "id": "fb_sale_16905_2026-03-14",
-      "date": "2026-03-14",
-      "time": "",
-      "name": "Anabel Altagracia Colon De Tavarez",
-      "amount": 160.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
     },
     {
       "id": "fb_hist_2026-03-14_tirso_blanco_160",
