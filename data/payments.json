@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-13 19:35 UTC",
-  "today_total": 335.0,
-  "all_time_total": 244849.08,
+  "updated": "2026-06-13 20:33 UTC",
+  "today_total": 495.0,
+  "all_time_total": 245009.08,
   "payments": [
     {
       "id": "pi_3ThwouDK4U0438JA0aBBxLlv",
@@ -44,6 +44,18 @@
       "date": "2026-06-13",
       "time": "",
       "name": "Tirso Blanco",
+      "amount": 160.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "fb_renewal_21499_2026-06-13",
+      "date": "2026-06-13",
+      "time": "",
+      "name": "Carolin Romero",
       "amount": 160.0,
       "status": "Renewal",
       "platform": "Fanbasis",
