@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13 18:36 UTC",
+  "updated": "2026-06-13 19:35 UTC",
   "total": 21,
   "clients": [
     {
@@ -244,10 +244,14 @@
       "plan": "",
       "installment": 0,
       "platform": "Auth.net",
-      "flags": [],
+      "flags": [
+        "payment_missing"
+      ],
       "tags": [
         "client.round1.active",
-        "client.round1"
+        "client.round1",
+        "payment.failed",
+        "payment missing"
       ],
       "dateAdded": "2026-05-13"
     },
