@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-14 18:36 UTC",
+  "updated": "2026-06-14 19:35 UTC",
   "today_total": 0,
   "all_time_total": 244349.08,
   "payments": [
+    {
+      "id": "pi_3TiJHlDK4U0438JA0eoVnJZc",
+      "date": "2026-06-14",
+      "time": "19:01",
+      "name": "Stephany Grullon Barbosa",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3ThwouDK4U0438JA0aBBxLlv",
       "date": "2026-06-13",
