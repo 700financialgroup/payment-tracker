@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-13 23:56 UTC",
-  "today_total": 495.0,
-  "all_time_total": 245009.08,
+  "updated": "2026-06-14 01:03 UTC",
+  "today_total": 0,
+  "all_time_total": 244349.08,
   "payments": [
     {
       "id": "pi_3ThwouDK4U0438JA0aBBxLlv",
@@ -10471,30 +10471,6 @@
       "settled": true,
       "pending": false,
       "source": "historical_export"
-    },
-    {
-      "id": "fb_renewal_16936_2026-03-15",
-      "date": "2026-03-15",
-      "time": "",
-      "name": "Edison Vargas",
-      "amount": 500.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_16942_2026-03-15",
-      "date": "2026-03-15",
-      "time": "",
-      "name": "Carolin Romero",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
     },
     {
       "id": "fb_hist_2026-03-15_carolin_romero_160",
