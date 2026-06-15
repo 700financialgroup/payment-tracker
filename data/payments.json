@@ -1,8 +1,32 @@
 {
-  "updated": "2026-06-15 21:34 UTC",
-  "today_total": 1056.99,
-  "all_time_total": 245206.07,
+  "updated": "2026-06-15 22:46 UTC",
+  "today_total": 1591.99,
+  "all_time_total": 245741.07,
   "payments": [
+    {
+      "id": "pi_3TiinBDK4U0438JA0oKGDIrP",
+      "date": "2026-06-15",
+      "time": "22:15",
+      "name": "Nakisha Rodriguez",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TiideDK4U0438JA0jdGWucF",
+      "date": "2026-06-15",
+      "time": "22:05",
+      "name": "Karen Reyes",
+      "amount": 160.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TihjsDK4U0438JA2CfgeqD3",
       "date": "2026-06-15",
@@ -119,6 +143,18 @@
       "amount": 175.0,
       "status": "succeeded",
       "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "fb_renewal_21545_2026-06-15",
+      "date": "2026-06-15",
+      "time": "",
+      "name": "Luis Reyes",
+      "amount": 175.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
