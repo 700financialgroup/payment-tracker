@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-15 01:05 UTC",
-  "today_total": 0,
-  "all_time_total": 244149.08,
+  "updated": "2026-06-15 02:23 UTC",
+  "today_total": 175.0,
+  "all_time_total": 244324.08,
   "payments": [
+    {
+      "id": "pi_3TiPPLDK4U0438JA2toccSE2",
+      "date": "2026-06-15",
+      "time": "01:33",
+      "name": "Gladis Cacerez",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TiJHlDK4U0438JA0eoVnJZc",
       "date": "2026-06-14",
