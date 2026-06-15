@@ -1,8 +1,56 @@
 {
-  "updated": "2026-06-15 15:31 UTC",
-  "today_total": 175.0,
-  "all_time_total": 244324.08,
+  "updated": "2026-06-15 17:25 UTC",
+  "today_total": 750.0,
+  "all_time_total": 244899.08,
   "payments": [
+    {
+      "id": "pi_3TieC5DK4U0438JA2HfOMwLe",
+      "date": "2026-06-15",
+      "time": "17:21",
+      "name": "Aneldy Cuello",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TidKcDK4U0438JA1dvC9HWg",
+      "date": "2026-06-15",
+      "time": "16:25",
+      "name": "Ninoska Sanchez Hernandez",
+      "amount": 29.99,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3TidIcDK4U0438JA1W552gPo",
+      "date": "2026-06-15",
+      "time": "16:23",
+      "name": "Yashka Alexandra",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3Ticm8DK4U0438JA1odRdCsT",
+      "date": "2026-06-15",
+      "time": "15:50",
+      "name": "Stephany Grullon Barbosa",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TiPPLDK4U0438JA2toccSE2",
       "date": "2026-06-15",
