@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-14 23:36 UTC",
+  "updated": "2026-06-15 01:05 UTC",
   "today_total": 0,
-  "all_time_total": 244349.08,
+  "all_time_total": 244149.08,
   "payments": [
     {
       "id": "pi_3TiJHlDK4U0438JA0eoVnJZc",
@@ -10259,18 +10259,6 @@
       "settled": true,
       "pending": false,
       "source": "historical_export"
-    },
-    {
-      "id": "fb_sale_17008_2026-03-16",
-      "date": "2026-03-16",
-      "time": "",
-      "name": "Paula Michel Romero Gonzalez",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
     },
     {
       "id": "fb_hist_2026-03-16_genesis_suriel_160",
