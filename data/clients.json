@@ -1,7 +1,28 @@
 {
-  "updated": "2026-06-15 20:13 UTC",
-  "total": 22,
+  "updated": "2026-06-15 21:34 UTC",
+  "total": 23,
   "clients": [
+    {
+      "id": "lYuuthDWEzgxQyzmCdC0",
+      "name": "yenderson jose polanco",
+      "phone": "+19293273980",
+      "email": "batistayenderson3@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing"
+      ],
+      "tags": [
+        "payment.failed",
+        "payment missing",
+        "docs uploaded",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-06-10"
+    },
     {
       "id": "CtAbN9b6acXGqJQ0RtkG",
       "name": "daniel alexander gutierrez",
