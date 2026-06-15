@@ -1,7 +1,24 @@
 {
-  "updated": "2026-06-15 17:25 UTC",
-  "total": 21,
+  "updated": "2026-06-15 18:55 UTC",
+  "total": 22,
   "clients": [
+    {
+      "id": "CtAbN9b6acXGqJQ0RtkG",
+      "name": "daniel alexander gutierrez",
+      "phone": "+13055901138",
+      "email": "danielocb72@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "contract signed",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-06-09"
+    },
     {
       "id": "A2kCEXo6EjJNGdGrMZNO",
       "name": "wilfred castillo",
