@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-15 20:13 UTC",
+  "updated": "2026-06-15 21:34 UTC",
   "today_total": 1056.99,
   "all_time_total": 245206.07,
   "payments": [
+    {
+      "id": "pi_3TihjsDK4U0438JA2CfgeqD3",
+      "date": "2026-06-15",
+      "time": "21:08",
+      "name": "Nusyalys Flores",
+      "amount": 29.99,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TigkKDK4U0438JA0T0PT1HL",
       "date": "2026-06-15",
