@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-15 23:38 UTC",
-  "today_total": 1591.99,
-  "all_time_total": 245741.07,
+  "updated": "2026-06-16 01:10 UTC",
+  "today_total": 0,
+  "all_time_total": 245541.07,
   "payments": [
     {
       "id": "pi_3TiinBDK4U0438JA0oKGDIrP",
@@ -10062,18 +10062,6 @@
       "amount": 160.0,
       "status": "received",
       "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_17070_2026-03-18",
-      "date": "2026-03-18",
-      "time": "",
-      "name": "Kelvin Pena",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
