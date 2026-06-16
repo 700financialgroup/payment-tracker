@@ -1,8 +1,32 @@
 {
-  "updated": "2026-06-16 18:11 UTC",
-  "today_total": 204.99,
-  "all_time_total": 245746.06,
+  "updated": "2026-06-16 19:47 UTC",
+  "today_total": 234.98,
+  "all_time_total": 245776.05,
   "payments": [
+    {
+      "id": "pi_3Tj2GdDK4U0438JA0bKc5bkr",
+      "date": "2026-06-16",
+      "time": "19:03",
+      "name": "Johanna Torres-Perozo",
+      "amount": 140.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3Tj1y1DK4U0438JA008VpQN3",
+      "date": "2026-06-16",
+      "time": "18:44",
+      "name": "Sintia paredes",
+      "amount": 29.99,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3Tj0ZiDK4U0438JA2w6ch9li",
       "date": "2026-06-16",
