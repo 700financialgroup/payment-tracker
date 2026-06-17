@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17 20:18 UTC",
+  "updated": "2026-06-17 21:17 UTC",
   "today_total": 375.0,
   "all_time_total": 246136.04,
   "payments": [
@@ -69,7 +69,7 @@
       "time": "21:54",
       "name": "Kaleigh M Garcia-Santos",
       "amount": 200.0,
-      "status": "requires_payment_method",
+      "status": "canceled",
       "platform": "Stripe",
       "ok": false,
       "settled": false,
@@ -81,7 +81,7 @@
       "time": "21:54",
       "name": "Kaleigh M Garcia-Santos",
       "amount": 200.0,
-      "status": "requires_payment_method",
+      "status": "canceled",
       "platform": "Stripe",
       "ok": false,
       "settled": false,
@@ -93,7 +93,7 @@
       "time": "21:52",
       "name": "Kaleigh M Garcia-Santos",
       "amount": 200.0,
-      "status": "requires_payment_method",
+      "status": "canceled",
       "platform": "Stripe",
       "ok": false,
       "settled": false,
