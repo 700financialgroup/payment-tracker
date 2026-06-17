@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-17 07:18 UTC",
+  "updated": "2026-06-17 09:12 UTC",
   "today_total": 0,
-  "all_time_total": 245731.05,
+  "all_time_total": 245761.04,
   "payments": [
     {
       "id": "pi_3Tj4xmDK4U0438JA1LJcaStC",
@@ -357,10 +357,10 @@
       "time": "23:45",
       "name": "Hilarie Sanchez",
       "amount": 29.99,
-      "status": "requires_payment_method",
+      "status": "succeeded",
       "platform": "Stripe",
-      "ok": false,
-      "settled": false,
+      "ok": true,
+      "settled": true,
       "pending": false
     },
     {
