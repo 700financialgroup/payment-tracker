@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-17 00:01 UTC",
-  "total": 23,
+  "updated": "2026-06-17 01:37 UTC",
+  "total": 24,
   "clients": [
     {
       "id": "lYuuthDWEzgxQyzmCdC0",
@@ -431,6 +431,23 @@
         "idiq fail"
       ],
       "dateAdded": "2026-05-26"
+    },
+    {
+      "id": "aIaWBeiQ3h2zsvRYa910",
+      "name": "danny beltre",
+      "phone": null,
+      "email": "dannybeltre35@gmail.com",
+      "round": 7,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round7",
+        "client.round7.active"
+      ],
+      "dateAdded": "2026-06-16"
     }
   ]
 }
