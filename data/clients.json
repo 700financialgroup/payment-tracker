@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-17 09:12 UTC",
-  "total": 24,
+  "updated": "2026-06-17 11:16 UTC",
+  "total": 25,
   "clients": [
+    {
+      "id": "QFYVD9WZEL7Tpj1HpOyc",
+      "name": "aneldy cuello",
+      "phone": "+19293404147",
+      "email": "aneldycuello201@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show"
+      ],
+      "tags": [
+        "contract signed",
+        "no show to call",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-06-15"
+    },
     {
       "id": "lYuuthDWEzgxQyzmCdC0",
       "name": "yenderson jose polanco",
