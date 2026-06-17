@@ -1,7 +1,29 @@
 {
-  "updated": "2026-06-17 20:18 UTC",
-  "total": 25,
+  "updated": "2026-06-17 21:17 UTC",
+  "total": 26,
   "clients": [
+    {
+      "id": "2kfMeWLB2nOLq1s5Sef3",
+      "name": "kaleigh garcia",
+      "phone": "+12038088025",
+      "email": "garciakaleigh527@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing"
+      ],
+      "tags": [
+        "payment.failed",
+        "payment missing",
+        "docs uploaded",
+        "mentoria",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-06-16"
+    },
     {
       "id": "QFYVD9WZEL7Tpj1HpOyc",
       "name": "aneldy cuello",
