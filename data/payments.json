@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-16 23:04 UTC",
-  "today_total": 784.98,
-  "all_time_total": 246326.05,
+  "updated": "2026-06-17 00:01 UTC",
+  "today_total": 0,
+  "all_time_total": 245731.05,
   "payments": [
     {
       "id": "pi_3Tj4xmDK4U0438JA1LJcaStC",
@@ -10161,54 +10161,6 @@
       "settled": true,
       "pending": false,
       "source": "historical_export"
-    },
-    {
-      "id": "zelle_28481059285",
-      "date": "2026-03-18",
-      "time": "",
-      "name": "Casilda Inoa Guzman",
-      "amount": 100.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "zelle_28482356879",
-      "date": "2026-03-18",
-      "time": "",
-      "name": "Alexander Garcia",
-      "amount": 160.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_17120_2026-03-18",
-      "date": "2026-03-18",
-      "time": "",
-      "name": "Genesis Suriel",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_17128_2026-03-18",
-      "date": "2026-03-18",
-      "time": "",
-      "name": "Melany Mendez",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
     },
     {
       "id": "fb_hist_2026-03-18_melany_mendez_175",
