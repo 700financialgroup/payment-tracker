@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-17 21:17 UTC",
-  "today_total": 375.0,
-  "all_time_total": 246136.04,
+  "updated": "2026-06-17 22:13 UTC",
+  "today_total": 550.0,
+  "all_time_total": 246311.04,
   "payments": [
+    {
+      "id": "pi_3TjRZDDK4U0438JA1Fi2e8O2",
+      "date": "2026-06-17",
+      "time": "22:04",
+      "name": "Kaleigh M Garcia-Santos",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TjPheDK4U0438JA2HoYV6Pc",
       "date": "2026-06-17",
