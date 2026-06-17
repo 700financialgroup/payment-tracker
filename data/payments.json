@@ -1,8 +1,32 @@
 {
-  "updated": "2026-06-17 19:20 UTC",
-  "today_total": 0,
-  "all_time_total": 245761.04,
+  "updated": "2026-06-17 20:18 UTC",
+  "today_total": 375.0,
+  "all_time_total": 246136.04,
   "payments": [
+    {
+      "id": "pi_3TjPheDK4U0438JA2HoYV6Pc",
+      "date": "2026-06-17",
+      "time": "20:04",
+      "name": "Manuel Alejandro de leon merejo",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TjPKMDK4U0438JA16PYs8yy",
+      "date": "2026-06-17",
+      "time": "19:40",
+      "name": "Joel a Colon",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TjOkDDK4U0438JA2gjkdzcT",
       "date": "2026-06-17",
