@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-17 18:19 UTC",
+  "updated": "2026-06-17 19:20 UTC",
   "today_total": 0,
   "all_time_total": 245761.04,
   "payments": [
+    {
+      "id": "pi_3TjOkDDK4U0438JA2gjkdzcT",
+      "date": "2026-06-17",
+      "time": "19:03",
+      "name": "Johanna Torres-Perozo",
+      "amount": 140.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TjNMwDK4U0438JA2aPdAV1k",
       "date": "2026-06-17",
