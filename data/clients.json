@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17 11:16 UTC",
+  "updated": "2026-06-17 12:50 UTC",
   "total": 25,
   "clients": [
     {
@@ -130,7 +130,8 @@
       "platform": "Auth.net",
       "flags": [],
       "tags": [
-        "client.round1.active"
+        "client.round1.active",
+        "client.unresponsive"
       ],
       "dateAdded": "2026-06-01"
     },
