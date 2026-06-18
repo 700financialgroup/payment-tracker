@@ -1,7 +1,24 @@
 {
-  "updated": "2026-06-18 12:37 UTC",
-  "total": 26,
+  "updated": "2026-06-18 14:06 UTC",
+  "total": 27,
   "clients": [
+    {
+      "id": "gTUAFc7vUNRfvw3Gbyen",
+      "name": "manuel alejandro merejo",
+      "phone": "+19083385422",
+      "email": "matteohijo1@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "contract signed",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-06-17"
+    },
     {
       "id": "2kfMeWLB2nOLq1s5Sef3",
       "name": "kaleigh garcia",
