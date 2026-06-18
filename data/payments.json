@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-18 01:24 UTC",
-  "today_total": 0,
-  "all_time_total": 246026.04,
+  "updated": "2026-06-18 02:24 UTC",
+  "today_total": 175.0,
+  "all_time_total": 246201.04,
   "payments": [
+    {
+      "id": "pi_3TjUuADK4U0438JA1gwPIcRX",
+      "date": "2026-06-18",
+      "time": "01:38",
+      "name": "Ronel Fernandez",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TjSI4DK4U0438JA0MqO2DrR",
       "date": "2026-06-17",
@@ -379,7 +391,7 @@
       "id": "pi_3ThwhxDK4U0438JA0rygxlXE",
       "date": "2026-06-13",
       "time": "18:55",
-      "name": "Ronel fernandez",
+      "name": "Ronel Fernandez",
       "amount": 175.0,
       "status": "requires_payment_method",
       "platform": "Stripe",
@@ -2551,7 +2563,7 @@
       "id": "pi_3TX3QFDK4U0438JA2fJXWgci",
       "date": "2026-05-14",
       "time": "17:51",
-      "name": "Ronel fernandez",
+      "name": "Ronel Fernandez",
       "amount": 200.0,
       "status": "succeeded",
       "platform": "Stripe",
