@@ -1,8 +1,32 @@
 {
-  "updated": "2026-06-18 15:48 UTC",
-  "today_total": 175.0,
-  "all_time_total": 246201.04,
+  "updated": "2026-06-18 17:09 UTC",
+  "today_total": 354.99,
+  "all_time_total": 246381.03,
   "payments": [
+    {
+      "id": "pi_3Tjj7VDK4U0438JA2EadB0Nj",
+      "date": "2026-06-18",
+      "time": "16:48",
+      "name": "Juan Carlos Vickys Cousin CALLER",
+      "amount": 150.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TjiStDK4U0438JA1IK58UZu",
+      "date": "2026-06-18",
+      "time": "16:06",
+      "name": "Angelica Guardado",
+      "amount": 29.99,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TjUuADK4U0438JA1gwPIcRX",
       "date": "2026-06-18",
