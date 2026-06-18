@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18 14:06 UTC",
+  "updated": "2026-06-18 15:48 UTC",
   "total": 27,
   "clients": [
     {
@@ -279,23 +279,6 @@
       "dateAdded": "2026-05-22"
     },
     {
-      "id": "1cPxJ3yVYdz7Muh6g9Ij",
-      "name": "joel colon",
-      "phone": "+13479128491",
-      "email": "joelcc1111@gmail.com",
-      "round": 1,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
-      "tags": [
-        "client.round1.active",
-        "client.round1"
-      ],
-      "dateAdded": "2026-05-18"
-    },
-    {
       "id": "flocYNv26HtD1sKMi9gF",
       "name": "argenis toribio",
       "phone": "+19783149020",
@@ -383,6 +366,23 @@
         "client.round2.active"
       ],
       "dateAdded": "2026-06-03"
+    },
+    {
+      "id": "1cPxJ3yVYdz7Muh6g9Ij",
+      "name": "joel colon",
+      "phone": "+13479128491",
+      "email": "joelcc1111@gmail.com",
+      "round": 2,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round1.active",
+        "client.round2.active"
+      ],
+      "dateAdded": "2026-05-18"
     },
     {
       "id": "6Nuk3OGpWgbm3TI0m5kM",
