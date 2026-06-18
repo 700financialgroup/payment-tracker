@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-17 23:03 UTC",
-  "today_total": 700.0,
-  "all_time_total": 246461.04,
+  "updated": "2026-06-18 00:01 UTC",
+  "today_total": 0,
+  "all_time_total": 246026.04,
   "payments": [
     {
       "id": "pi_3TjSI4DK4U0438JA0MqO2DrR",
@@ -9957,42 +9957,6 @@
       "settled": false,
       "pending": false,
       "source": "historical_export"
-    },
-    {
-      "id": "zelle_28495527833",
-      "date": "2026-03-19",
-      "time": "",
-      "name": "Madelin Hernandez",
-      "amount": 100.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_17198_2026-03-19",
-      "date": "2026-03-19",
-      "time": "",
-      "name": "Johanna De La Rosa",
-      "amount": 175.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_17159_2026-03-19",
-      "date": "2026-03-19",
-      "time": "",
-      "name": "Winiffer Ramirez",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
     },
     {
       "id": "fb_hist_2026-03-19_johanna__de_la_rosa_175",
