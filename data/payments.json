@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-18 23:10 UTC",
-  "today_total": 454.99,
-  "all_time_total": 246511.02,
+  "updated": "2026-06-19 00:06 UTC",
+  "today_total": 0,
+  "all_time_total": 246211.02,
   "payments": [
     {
       "id": "pi_3TjoFLDK4U0438JA1CbFcptf",
@@ -9908,30 +9908,6 @@
       "settled": true,
       "pending": false,
       "source": "historical_export"
-    },
-    {
-      "id": "zelle_28509862528",
-      "date": "2026-03-20",
-      "time": "",
-      "name": "Leandra Urena",
-      "amount": 100.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_17230_2026-03-20",
-      "date": "2026-03-20",
-      "time": "",
-      "name": "Crismery Paulino Castillo",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
     },
     {
       "id": "fb_hist_2026-03-20_crismery_paulino_cas_200",
