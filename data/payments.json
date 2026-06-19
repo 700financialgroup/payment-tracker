@@ -1,8 +1,32 @@
 {
-  "updated": "2026-06-19 23:28 UTC",
-  "today_total": 670.0,
-  "all_time_total": 246911.01,
+  "updated": "2026-06-19 23:55 UTC",
+  "today_total": 729.98,
+  "all_time_total": 246970.99,
   "payments": [
+    {
+      "id": "pi_3TkCASDK4U0438JA0A4Ibzgx",
+      "date": "2026-06-19",
+      "time": "23:49",
+      "name": "allersa Reyes",
+      "amount": 29.99,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TkBwzDK4U0438JA0XMmsMgE",
+      "date": "2026-06-19",
+      "time": "23:35",
+      "name": "allersa Reyes",
+      "amount": 29.99,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TkB6SDK4U0438JA1Sch5hhL",
       "date": "2026-06-19",
