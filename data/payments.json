@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-19 17:41 UTC",
-  "today_total": 160.0,
-  "all_time_total": 246401.01,
+  "updated": "2026-06-19 18:43 UTC",
+  "today_total": 320.0,
+  "all_time_total": 246561.01,
   "payments": [
     {
       "id": "pi_3TjqeDDK4U0438JA2WtnnOYR",
@@ -11,6 +11,18 @@
       "amount": 160.0,
       "status": "succeeded",
       "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "zelle_29685726237",
+      "date": "2026-06-19",
+      "time": "",
+      "name": "Alexander Garcia",
+      "amount": 160.0,
+      "status": "received",
+      "platform": "Zelle",
       "ok": true,
       "settled": true,
       "pending": false
