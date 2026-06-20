@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-19 23:55 UTC",
-  "today_total": 729.98,
-  "all_time_total": 246970.99,
+  "updated": "2026-06-20 00:59 UTC",
+  "today_total": 0,
+  "all_time_total": 246795.99,
   "payments": [
     {
       "id": "pi_3TkCASDK4U0438JA0A4Ibzgx",
@@ -9869,18 +9869,6 @@
       "settled": false,
       "pending": false,
       "source": "historical_export"
-    },
-    {
-      "id": "fb_renewal_17269_2026-03-21",
-      "date": "2026-03-21",
-      "time": "",
-      "name": "Brianna De La Cruz",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
     },
     {
       "id": "fb_hist_2026-03-21_brianna_de_la_cruz_175",
