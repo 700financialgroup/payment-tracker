@@ -1,8 +1,32 @@
 {
-  "updated": "2026-06-20 18:36 UTC",
-  "today_total": 150.0,
-  "all_time_total": 246945.99,
+  "updated": "2026-06-20 19:35 UTC",
+  "today_total": 350.0,
+  "all_time_total": 247145.99,
   "payments": [
+    {
+      "id": "pi_3TkU9PDK4U0438JA2WVW3X4n",
+      "date": "2026-06-20",
+      "time": "19:01",
+      "name": "Luis Alfonso Paulino morel",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3TkU9NDK4U0438JA1NtoCw25",
+      "date": "2026-06-20",
+      "time": "19:01",
+      "name": "Angel De Los Santos",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TkOcmDK4U0438JA0lZwwILZ",
       "date": "2026-06-20",
