@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-20 22:30 UTC",
+  "updated": "2026-06-20 22:57 UTC",
   "today_total": 350.0,
-  "all_time_total": 247145.99,
+  "all_time_total": 247320.99,
   "payments": [
     {
       "id": "pi_3TkU9PDK4U0438JA2WVW3X4n",
@@ -549,10 +549,10 @@
       "time": "18:55",
       "name": "Ronel Fernandez",
       "amount": 175.0,
-      "status": "requires_payment_method",
+      "status": "succeeded",
       "platform": "Stripe",
-      "ok": false,
-      "settled": false,
+      "ok": true,
+      "settled": true,
       "pending": false
     },
     {
