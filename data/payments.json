@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-21 18:38 UTC",
+  "updated": "2026-06-21 19:35 UTC",
   "today_total": 0,
   "all_time_total": 247145.99,
   "payments": [
+    {
+      "id": "pi_3TkqcyDK4U0438JA27O1EjqC",
+      "date": "2026-06-21",
+      "time": "19:01",
+      "name": "Luis Alfonso Paulino morel",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TkU9PDK4U0438JA2WVW3X4n",
       "date": "2026-06-20",
