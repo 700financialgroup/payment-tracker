@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-20 23:34 UTC",
-  "today_total": 350.0,
-  "all_time_total": 247320.99,
+  "updated": "2026-06-21 01:04 UTC",
+  "today_total": 0,
+  "all_time_total": 247145.99,
   "payments": [
     {
       "id": "pi_3TkU9PDK4U0438JA2WVW3X4n",
@@ -9702,18 +9702,6 @@
       "name": "Gabriel Brett",
       "amount": 200.0,
       "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_17306_2026-03-23",
-      "date": "2026-03-23",
-      "time": "",
-      "name": "Katherine Martinez",
-      "amount": 175.0,
-      "status": "Renewal",
       "platform": "Fanbasis",
       "ok": true,
       "settled": true,
