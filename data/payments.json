@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-21 23:38 UTC",
-  "today_total": 175.0,
-  "all_time_total": 247320.99,
+  "updated": "2026-06-22 01:05 UTC",
+  "today_total": 0,
+  "all_time_total": 246945.99,
   "payments": [
+    {
+      "id": "pi_3Tkv2zDK4U0438JA0zwgQkeD",
+      "date": "2026-06-21",
+      "time": "23:45",
+      "name": "Denysse Jimenez",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TkuIDDK4U0438JA1lHcA5zp",
       "date": "2026-06-21",
@@ -9441,18 +9453,6 @@
       "source": "historical_export"
     },
     {
-      "id": "fb_renewal_17360_2026-03-24",
-      "date": "2026-03-24",
-      "time": "",
-      "name": "Luis Gonzalez",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
       "id": "fb_renewal_17406_2026-03-24",
       "date": "2026-03-24",
       "time": "",
@@ -9718,18 +9718,6 @@
       "settled": true,
       "pending": false,
       "source": "historical_export"
-    },
-    {
-      "id": "fb_sale_17331_2026-03-23",
-      "date": "2026-03-23",
-      "time": "",
-      "name": "Gabriel Brett",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
     },
     {
       "id": "fb_hist_2026-03-23_luis_gonzalez_175",
