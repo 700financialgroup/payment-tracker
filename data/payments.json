@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-22 12:34 UTC",
-  "today_total": 0,
-  "all_time_total": 246975.98,
+  "updated": "2026-06-22 14:58 UTC",
+  "today_total": 29.99,
+  "all_time_total": 247005.97,
   "payments": [
+    {
+      "id": "pi_3Tl8v2DK4U0438JA0QImMYjA",
+      "date": "2026-06-22",
+      "time": "14:33",
+      "name": "Aneldy Cuello",
+      "amount": 29.99,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3Tl4azDK4U0438JA1WnGHcZE",
       "date": "2026-06-22",
