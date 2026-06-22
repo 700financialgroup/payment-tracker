@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-22 05:57 UTC",
+  "updated": "2026-06-22 08:12 UTC",
   "today_total": 0,
-  "all_time_total": 246945.99,
+  "all_time_total": 246975.98,
   "payments": [
     {
       "id": "pi_3Tkv2zDK4U0438JA0zwgQkeD",
@@ -273,10 +273,10 @@
       "time": "17:35",
       "name": "Yenderson Jos\u00e9 Batista Polanc",
       "amount": 29.99,
-      "status": "requires_payment_method",
+      "status": "succeeded",
       "platform": "Stripe",
-      "ok": false,
-      "settled": false,
+      "ok": true,
+      "settled": true,
       "pending": false
     },
     {
