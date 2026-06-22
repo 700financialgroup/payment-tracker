@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-22 14:58 UTC",
-  "today_total": 29.99,
-  "all_time_total": 247005.97,
+  "updated": "2026-06-22 16:39 UTC",
+  "today_total": 189.99,
+  "all_time_total": 247165.97,
   "payments": [
     {
       "id": "pi_3Tl8v2DK4U0438JA0QImMYjA",
@@ -25,6 +25,18 @@
       "platform": "Stripe",
       "ok": false,
       "settled": false,
+      "pending": false
+    },
+    {
+      "id": "fb_renewal_21826_2026-06-22",
+      "date": "2026-06-22",
+      "time": "",
+      "name": "Pedro Rodriguez",
+      "amount": 160.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
       "pending": false
     },
     {
