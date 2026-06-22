@@ -1,8 +1,32 @@
 {
-  "updated": "2026-06-22 16:39 UTC",
+  "updated": "2026-06-22 18:25 UTC",
   "today_total": 189.99,
   "all_time_total": 247165.97,
   "payments": [
+    {
+      "id": "pi_3TlC1eDK4U0438JA2QaEBuPy",
+      "date": "2026-06-22",
+      "time": "17:52",
+      "name": "Llancy tolina Pena philippe",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3TlBLLDK4U0438JA17GCSKkm",
+      "date": "2026-06-22",
+      "time": "17:09",
+      "name": "Norelis Martinez",
+      "amount": 29.99,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3Tl8v2DK4U0438JA0QImMYjA",
       "date": "2026-06-22",
