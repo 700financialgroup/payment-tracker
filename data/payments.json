@@ -1,8 +1,56 @@
 {
-  "updated": "2026-06-23 21:38 UTC",
-  "today_total": 234.98,
-  "all_time_total": 247065.95,
+  "updated": "2026-06-23 22:32 UTC",
+  "today_total": 469.96,
+  "all_time_total": 247300.93,
   "payments": [
+    {
+      "id": "pi_3TlcVrDK4U0438JA2wnR6xJ0",
+      "date": "2026-06-23",
+      "time": "22:09",
+      "name": "Kaleigh M Garcia-Santos",
+      "amount": 29.99,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TlcUZDK4U0438JA2J0E6Wzk",
+      "date": "2026-06-23",
+      "time": "22:08",
+      "name": "Jessica Vargas",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TlcS2DK4U0438JA2Jj4IThy",
+      "date": "2026-06-23",
+      "time": "22:05",
+      "name": "Kaleigh M Garcia-Santos",
+      "amount": 29.99,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TlcQzDK4U0438JA1p80OI7S",
+      "date": "2026-06-23",
+      "time": "22:04",
+      "name": "Jessica Vargas",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TlXjuDK4U0438JA06fryViG",
       "date": "2026-06-23",
