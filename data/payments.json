@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-23 01:46 UTC",
-  "today_total": 175.0,
-  "all_time_total": 247005.97,
+  "updated": "2026-06-23 03:14 UTC",
+  "today_total": 204.99,
+  "all_time_total": 247035.96,
   "payments": [
+    {
+      "id": "pi_3TlKSRDK4U0438JA2rtrSI6x",
+      "date": "2026-06-23",
+      "time": "02:53",
+      "name": "Adriana Valdez",
+      "amount": 29.99,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "fb_sale_21838_2026-06-23",
       "date": "2026-06-23",
