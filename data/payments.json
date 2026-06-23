@@ -1,8 +1,32 @@
 {
-  "updated": "2026-06-23 16:54 UTC",
-  "today_total": 204.99,
-  "all_time_total": 247035.96,
+  "updated": "2026-06-23 17:40 UTC",
+  "today_total": 234.98,
+  "all_time_total": 247065.95,
   "payments": [
+    {
+      "id": "pi_3TlXjuDK4U0438JA06fryViG",
+      "date": "2026-06-23",
+      "time": "17:03",
+      "name": "Ana Estefany adon Pichardo",
+      "amount": 29.99,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3TlXeEDK4U0438JA146wddgY",
+      "date": "2026-06-23",
+      "time": "16:58",
+      "name": "Ana Estefany adon Pichardo",
+      "amount": 29.99,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TlKSRDK4U0438JA2rtrSI6x",
       "date": "2026-06-23",
