@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-23 23:53 UTC",
-  "today_total": 469.96,
-  "all_time_total": 247300.93,
+  "updated": "2026-06-24 00:52 UTC",
+  "today_total": 0,
+  "all_time_total": 246965.93,
   "payments": [
+    {
+      "id": "pi_3Tle7vDK4U0438JA1J82JwVi",
+      "date": "2026-06-23",
+      "time": "23:53",
+      "name": "Jeralynn torres",
+      "amount": 150.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TlcVrDK4U0438JA2wnR6xJ0",
       "date": "2026-06-23",
@@ -9393,42 +9405,6 @@
       "amount": 10.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_17485_2026-03-25",
-      "date": "2026-03-25",
-      "time": "",
-      "name": "Daylin Zulueta",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_17492_2026-03-25",
-      "date": "2026-03-25",
-      "time": "",
-      "name": "Yahaira Kunjara",
-      "amount": 150.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_17498_2026-03-25",
-      "date": "2026-03-25",
-      "time": "",
-      "name": "Adrian Marte Mendoza",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
