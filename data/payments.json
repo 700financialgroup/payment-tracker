@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-24 13:00 UTC",
+  "updated": "2026-06-24 13:51 UTC",
   "today_total": 175.0,
   "all_time_total": 247140.93,
   "payments": [
+    {
+      "id": "pi_3Tlqy5DK4U0438JA19VwEBpl",
+      "date": "2026-06-24",
+      "time": "13:35",
+      "name": "Manuel Alejandro de leon merejo",
+      "amount": 29.99,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3Tlfm3DK4U0438JA06hMl6nM",
       "date": "2026-06-24",
