@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-24 19:06 UTC",
+  "updated": "2026-06-24 20:11 UTC",
   "today_total": 350.0,
   "all_time_total": 247315.93,
   "payments": [
+    {
+      "id": "pi_3TlwsNDK4U0438JA122QvKDe",
+      "date": "2026-06-24",
+      "time": "19:54",
+      "name": "Gislaine Dominguez",
+      "amount": 200.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TluhHDK4U0438JA2znv17j2",
       "date": "2026-06-24",
