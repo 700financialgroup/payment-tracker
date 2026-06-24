@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-24 20:11 UTC",
-  "today_total": 350.0,
-  "all_time_total": 247315.93,
+  "updated": "2026-06-24 21:06 UTC",
+  "today_total": 550.0,
+  "all_time_total": 247515.93,
   "payments": [
+    {
+      "id": "pi_3TlxN0DK4U0438JA2LZc8XSb",
+      "date": "2026-06-24",
+      "time": "20:26",
+      "name": "ansely sarita vidal",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TlwsNDK4U0438JA122QvKDe",
       "date": "2026-06-24",
