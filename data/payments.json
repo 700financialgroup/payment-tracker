@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-24 00:52 UTC",
-  "today_total": 0,
-  "all_time_total": 246965.93,
+  "updated": "2026-06-24 01:44 UTC",
+  "today_total": 175.0,
+  "all_time_total": 247140.93,
   "payments": [
+    {
+      "id": "pi_3Tlfm3DK4U0438JA06hMl6nM",
+      "date": "2026-06-24",
+      "time": "01:38",
+      "name": "madelin mosquea",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3Tle7vDK4U0438JA1J82JwVi",
       "date": "2026-06-23",
