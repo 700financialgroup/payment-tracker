@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-24 16:19 UTC",
+  "updated": "2026-06-24 17:17 UTC",
   "today_total": 175.0,
   "all_time_total": 247140.93,
   "payments": [
+    {
+      "id": "pi_3TluDDDK4U0438JA00IPgOvl",
+      "date": "2026-06-24",
+      "time": "17:03",
+      "name": "Llancy Tolina Philippe",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3Tlqy5DK4U0438JA19VwEBpl",
       "date": "2026-06-24",
@@ -151,7 +163,7 @@
       "id": "pi_3TlC1eDK4U0438JA2QaEBuPy",
       "date": "2026-06-22",
       "time": "17:52",
-      "name": "Llancy tolina Pena philippe",
+      "name": "Llancy Tolina Philippe",
       "amount": 175.0,
       "status": "requires_payment_method",
       "platform": "Stripe",
@@ -2467,7 +2479,7 @@
       "id": "pi_3TaImaDK4U0438JA1LKDfKQ4",
       "date": "2026-05-23",
       "time": "16:52",
-      "name": "Llancy tolina Pena philippe",
+      "name": "Llancy Tolina Philippe",
       "amount": 200.0,
       "status": "succeeded",
       "platform": "Stripe",
