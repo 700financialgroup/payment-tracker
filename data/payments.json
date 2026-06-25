@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-25 17:18 UTC",
+  "updated": "2026-06-25 18:19 UTC",
   "today_total": 59.98,
   "all_time_total": 246820.91,
   "payments": [
+    {
+      "id": "pi_3TmH4xDK4U0438JA14pEfy7v",
+      "date": "2026-06-25",
+      "time": "17:28",
+      "name": "Michelle Lajara",
+      "amount": 29.99,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TmGCoDK4U0438JA2gPYd4NY",
       "date": "2026-06-25",
