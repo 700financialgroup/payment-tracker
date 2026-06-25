@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-25 22:04 UTC",
-  "today_total": 434.98,
-  "all_time_total": 247195.91,
+  "updated": "2026-06-25 23:00 UTC",
+  "today_total": 634.98,
+  "all_time_total": 247395.91,
   "payments": [
+    {
+      "id": "pi_3TmLeSDK4U0438JA1ZYI6YeA",
+      "date": "2026-06-25",
+      "time": "22:21",
+      "name": "Jasmin Fernandez",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TmL1rDK4U0438JA2JtPckM6",
       "date": "2026-06-25",
