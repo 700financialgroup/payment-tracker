@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-24 23:56 UTC",
-  "today_total": 725.0,
-  "all_time_total": 247690.93,
+  "updated": "2026-06-25 00:59 UTC",
+  "today_total": 0,
+  "all_time_total": 246760.93,
   "payments": [
     {
       "id": "pi_3TlxN0DK4U0438JA2LZc8XSb",
@@ -9159,78 +9159,6 @@
       "amount": 100.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "zelle_28575187911",
-      "date": "2026-03-26",
-      "time": "",
-      "name": "Dacheli Castillo",
-      "amount": 100.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "zelle_28581195562",
-      "date": "2026-03-26",
-      "time": "",
-      "name": "Kersy Gonzalez",
-      "amount": 175.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_17566_2026-03-26",
-      "date": "2026-03-26",
-      "time": "",
-      "name": "Nitzaliz Canela",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_17567_2026-03-26",
-      "date": "2026-03-26",
-      "time": "",
-      "name": "Karla Chacon",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_17572_2026-03-26",
-      "date": "2026-03-26",
-      "time": "",
-      "name": "Marianne Bencosme",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_17589_2026-03-26",
-      "date": "2026-03-26",
-      "time": "",
-      "name": "Bielka Almonte",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
