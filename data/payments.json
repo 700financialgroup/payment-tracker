@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-25 21:08 UTC",
-  "today_total": 259.98,
-  "all_time_total": 247020.91,
+  "updated": "2026-06-25 22:04 UTC",
+  "today_total": 434.98,
+  "all_time_total": 247195.91,
   "payments": [
+    {
+      "id": "pi_3TmL1rDK4U0438JA2JtPckM6",
+      "date": "2026-06-25",
+      "time": "21:41",
+      "name": "Angela Valeria Romero Gonzales",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TmJJODK4U0438JA0g5T7Z3b",
       "date": "2026-06-25",
