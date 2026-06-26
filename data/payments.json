@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-25 23:39 UTC",
-  "today_total": 634.98,
-  "all_time_total": 247395.91,
+  "updated": "2026-06-26 00:59 UTC",
+  "today_total": 0,
+  "all_time_total": 246915.91,
   "payments": [
     {
       "id": "pi_3TmLeSDK4U0438JA1ZYI6YeA",
@@ -8977,42 +8977,6 @@
       "amount": 160.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "zelle_28583267329",
-      "date": "2026-03-27",
-      "time": "",
-      "name": "Alexis Diaz Polanco",
-      "amount": 160.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_17615_2026-03-27",
-      "date": "2026-03-27",
-      "time": "",
-      "name": "Malvin Marte",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_17616_2026-03-27",
-      "date": "2026-03-27",
-      "time": "",
-      "name": "Sheiny Mercedes",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
