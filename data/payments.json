@@ -1,8 +1,32 @@
 {
-  "updated": "2026-06-26 20:39 UTC",
-  "today_total": 389.99,
-  "all_time_total": 247305.9,
+  "updated": "2026-06-26 21:34 UTC",
+  "today_total": 589.99,
+  "all_time_total": 247505.9,
   "payments": [
+    {
+      "id": "pi_3TmgyQDK4U0438JA1RIHhKd0",
+      "date": "2026-06-26",
+      "time": "21:07",
+      "name": "Dayna Deleon",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TmgjhDK4U0438JA2iDvG5l8",
+      "date": "2026-06-26",
+      "time": "20:52",
+      "name": "Lizaida Rodriguez",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TmfP5DK4U0438JA2tdUDqaf",
       "date": "2026-06-26",
