@@ -1,8 +1,68 @@
 {
-  "updated": "2026-06-26 18:43 UTC",
-  "today_total": 0,
-  "all_time_total": 246915.91,
+  "updated": "2026-06-26 19:37 UTC",
+  "today_total": 389.99,
+  "all_time_total": 247305.9,
   "payments": [
+    {
+      "id": "pi_3TmfP5DK4U0438JA2tdUDqaf",
+      "date": "2026-06-26",
+      "time": "19:27",
+      "name": "Luceidy Torres",
+      "amount": 200.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3Tmf4JDK4U0438JA0kF7704L",
+      "date": "2026-06-26",
+      "time": "19:05",
+      "name": "Johanny Gonzalez",
+      "amount": 160.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3Tmf0bDK4U0438JA1fCVFagT",
+      "date": "2026-06-26",
+      "time": "19:01",
+      "name": "Karla Jimenez",
+      "amount": 160.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3Tmf0ZDK4U0438JA1eDIcnuk",
+      "date": "2026-06-26",
+      "time": "19:01",
+      "name": "Jorge Emmanuel Montes DeGoni",
+      "amount": 225.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3Tmeo6DK4U0438JA2tqLi5A7",
+      "date": "2026-06-26",
+      "time": "18:48",
+      "name": "Jean frely Hern\u00e1ndez",
+      "amount": 29.99,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TmLeSDK4U0438JA1ZYI6YeA",
       "date": "2026-06-25",
