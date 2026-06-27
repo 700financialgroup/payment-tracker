@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-27 19:37 UTC",
-  "today_total": 489.99,
-  "all_time_total": 248040.88,
+  "updated": "2026-06-27 20:29 UTC",
+  "today_total": 664.99,
+  "all_time_total": 248215.88,
   "payments": [
+    {
+      "id": "pi_3Tn2fdDK4U0438JA2bfJMrV4",
+      "date": "2026-06-27",
+      "time": "20:17",
+      "name": "Lorelyn hernandez",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3Tn1tJDK4U0438JA0T4Pt4qt",
       "date": "2026-06-27",
