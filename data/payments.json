@@ -1,8 +1,32 @@
 {
-  "updated": "2026-06-26 23:34 UTC",
-  "today_total": 589.99,
-  "all_time_total": 247505.9,
+  "updated": "2026-06-27 00:55 UTC",
+  "today_total": 29.99,
+  "all_time_total": 247550.89,
   "payments": [
+    {
+      "id": "pi_3Tmk44DK4U0438JA0Eo31TGi",
+      "date": "2026-06-27",
+      "time": "00:25",
+      "name": "Denysse Jimenez",
+      "amount": 29.99,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "pi_3TmjZUDK4U0438JA2J1p3fPF",
+      "date": "2026-06-26",
+      "time": "23:54",
+      "name": "Aura Cacerez",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TmgyQDK4U0438JA1RIHhKd0",
       "date": "2026-06-26",
@@ -8912,18 +8936,6 @@
       "settled": true,
       "pending": false,
       "source": "historical_export"
-    },
-    {
-      "id": "fb_renewal_17659_2026-03-28",
-      "date": "2026-03-28",
-      "time": "",
-      "name": "Yojanny Guzman",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
     },
     {
       "id": "fb_hist_2026-03-28_kendolis_cabreja_175",
