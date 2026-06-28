@@ -1,8 +1,32 @@
 {
-  "updated": "2026-06-28 18:58 UTC",
-  "today_total": 0,
-  "all_time_total": 247825.87,
+  "updated": "2026-06-28 19:37 UTC",
+  "today_total": 150.0,
+  "all_time_total": 247975.87,
   "payments": [
+    {
+      "id": "pi_3TnNxyDK4U0438JA11IThTP5",
+      "date": "2026-06-28",
+      "time": "19:02",
+      "name": "Karla Jimenez",
+      "amount": 160.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3TnNxjDK4U0438JA1NycpfwJ",
+      "date": "2026-06-28",
+      "time": "19:01",
+      "name": "Maria Contreras",
+      "amount": 150.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3Tn7MNDK4U0438JA2V7qRBVl",
       "date": "2026-06-28",
