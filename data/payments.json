@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-28 00:59 UTC",
+  "updated": "2026-06-28 01:50 UTC",
   "today_total": 0,
   "all_time_total": 247795.88,
   "payments": [
+    {
+      "id": "pi_3Tn7MNDK4U0438JA2V7qRBVl",
+      "date": "2026-06-28",
+      "time": "01:18",
+      "name": "Ambar Rashell Rivas Rodriguez",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3Tn2fdDK4U0438JA2bfJMrV4",
       "date": "2026-06-27",
