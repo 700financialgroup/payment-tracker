@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-27 23:52 UTC",
-  "today_total": 664.99,
-  "all_time_total": 248215.88,
+  "updated": "2026-06-28 00:59 UTC",
+  "today_total": 0,
+  "all_time_total": 247795.88,
   "payments": [
     {
       "id": "pi_3Tn2fdDK4U0438JA2bfJMrV4",
@@ -8909,42 +8909,6 @@
       "settled": false,
       "pending": false,
       "source": "historical_export"
-    },
-    {
-      "id": "fb_renewal_17687_2026-03-29",
-      "date": "2026-03-29",
-      "time": "",
-      "name": "Alexander Vasquez",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_17690_2026-03-29",
-      "date": "2026-03-29",
-      "time": "",
-      "name": "Omar Garcia",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_17691_2026-03-29",
-      "date": "2026-03-29",
-      "time": "",
-      "name": "Kembely Galan",
-      "amount": 100.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
     },
     {
       "id": "fb_hist_2026-03-29_yolaine__cabrera_100",
