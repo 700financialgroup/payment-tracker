@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-28 20:56 UTC",
-  "today_total": 500.0,
-  "all_time_total": 248325.87,
+  "updated": "2026-06-28 21:29 UTC",
+  "today_total": 529.99,
+  "all_time_total": 248355.86,
   "payments": [
+    {
+      "id": "pi_3TnQ6ODK4U0438JA2yR26ZLo",
+      "date": "2026-06-28",
+      "time": "21:18",
+      "name": "Alexa Neggli",
+      "amount": 29.99,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TnPdUDK4U0438JA0nbfpzrX",
       "date": "2026-06-28",
