@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-28 06:51 UTC",
+  "updated": "2026-06-28 08:12 UTC",
   "today_total": 0,
-  "all_time_total": 247795.88,
+  "all_time_total": 247825.87,
   "payments": [
     {
       "id": "pi_3Tn7MNDK4U0438JA2V7qRBVl",
@@ -693,10 +693,10 @@
       "time": "22:17",
       "name": "Jennifer Bonilla",
       "amount": 29.99,
-      "status": "requires_payment_method",
+      "status": "succeeded",
       "platform": "Stripe",
-      "ok": false,
-      "settled": false,
+      "ok": true,
+      "settled": true,
       "pending": false
     },
     {
