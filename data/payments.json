@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-28 19:37 UTC",
-  "today_total": 150.0,
-  "all_time_total": 247975.87,
+  "updated": "2026-06-28 20:31 UTC",
+  "today_total": 325.0,
+  "all_time_total": 248150.87,
   "payments": [
+    {
+      "id": "pi_3TnP8kDK4U0438JA2rmiXa22",
+      "date": "2026-06-28",
+      "time": "20:17",
+      "name": "Argenis Toribio",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TnNxyDK4U0438JA11IThTP5",
       "date": "2026-06-28",
