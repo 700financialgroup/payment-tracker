@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-28 23:29 UTC",
+  "updated": "2026-06-28 23:55 UTC",
   "today_total": 529.99,
   "all_time_total": 248355.86,
   "payments": [
+    {
+      "id": "pi_3TnSWpDK4U0438JA2kmkfJqV",
+      "date": "2026-06-28",
+      "time": "23:54",
+      "name": "Karla Jimenez",
+      "amount": 160.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TnRo5DK4U0438JA2lnGsfcz",
       "date": "2026-06-28",
