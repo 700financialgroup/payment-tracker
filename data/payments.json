@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-29 21:05 UTC",
+  "updated": "2026-06-29 21:59 UTC",
   "today_total": 0,
   "all_time_total": 247510.85,
   "payments": [
+    {
+      "id": "pi_3TnmPfDK4U0438JA2Gk8qeen",
+      "date": "2026-06-29",
+      "time": "21:08",
+      "name": "Grace Miguelina Alcala herrera",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TnlT3DK4U0438JA1qV3nGkI",
       "date": "2026-06-29",
