@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-28 23:55 UTC",
-  "today_total": 529.99,
-  "all_time_total": 248355.86,
+  "updated": "2026-06-29 01:01 UTC",
+  "today_total": 0,
+  "all_time_total": 247480.86,
   "payments": [
     {
       "id": "pi_3TnSWpDK4U0438JA2kmkfJqV",
@@ -9,10 +9,10 @@
       "time": "23:54",
       "name": "Karla Jimenez",
       "amount": 160.0,
-      "status": "requires_payment_method",
+      "status": "succeeded",
       "platform": "Stripe",
-      "ok": false,
-      "settled": false,
+      "ok": true,
+      "settled": true,
       "pending": false
     },
     {
@@ -8784,66 +8784,6 @@
       "settled": false,
       "pending": false,
       "source": "historical_export"
-    },
-    {
-      "id": "zelle_28623853880",
-      "date": "2026-03-30",
-      "time": "",
-      "name": "Genesi Patino",
-      "amount": 100.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "zelle_28624161204",
-      "date": "2026-03-30",
-      "time": "",
-      "name": "Liza Bernard",
-      "amount": 100.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_17725_2026-03-30",
-      "date": "2026-03-30",
-      "time": "",
-      "name": "Edison Vargas",
-      "amount": 500.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_17727_2026-03-30",
-      "date": "2026-03-30",
-      "time": "",
-      "name": "Elianny Estevez",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_17733_2026-03-30",
-      "date": "2026-03-30",
-      "time": "",
-      "name": "Waldy Rodriguez",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
     },
     {
       "id": "fb_hist_2026-03-30_waldy_rodriguez_160",
