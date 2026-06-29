@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-29 07:09 UTC",
+  "updated": "2026-06-29 09:10 UTC",
   "today_total": 0,
-  "all_time_total": 247480.86,
+  "all_time_total": 247510.85,
   "payments": [
     {
       "id": "pi_3TnSWpDK4U0438JA2kmkfJqV",
@@ -597,10 +597,10 @@
       "time": "17:09",
       "name": "Norelis Martinez",
       "amount": 29.99,
-      "status": "requires_payment_method",
+      "status": "succeeded",
       "platform": "Stripe",
-      "ok": false,
-      "settled": false,
+      "ok": true,
+      "settled": true,
       "pending": false
     },
     {
