@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-29 21:59 UTC",
-  "today_total": 0,
-  "all_time_total": 247510.85,
+  "updated": "2026-06-29 22:32 UTC",
+  "today_total": 250.0,
+  "all_time_total": 247760.85,
   "payments": [
     {
       "id": "pi_3TnmPfDK4U0438JA2Gk8qeen",
@@ -25,6 +25,18 @@
       "platform": "Stripe",
       "ok": false,
       "settled": false,
+      "pending": false
+    },
+    {
+      "id": "zelle_29807479580",
+      "date": "2026-06-29",
+      "time": "",
+      "name": "Jendel Sanchez",
+      "amount": 250.0,
+      "status": "received",
+      "platform": "Zelle",
+      "ok": true,
+      "settled": true,
       "pending": false
     },
     {
