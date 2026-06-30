@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-30 12:48 UTC",
-  "today_total": 0,
-  "all_time_total": 248065.84,
+  "updated": "2026-06-30 13:41 UTC",
+  "today_total": 175.0,
+  "all_time_total": 248240.84,
   "payments": [
+    {
+      "id": "pi_3To1fIDK4U0438JA0a1z7jho",
+      "date": "2026-06-30",
+      "time": "13:25",
+      "name": "Johanny Abreu",
+      "amount": 175.0,
+      "status": "succeeded",
+      "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3TnoF5DK4U0438JA1TYST4L1",
       "date": "2026-06-29",
