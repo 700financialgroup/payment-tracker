@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-29 23:51 UTC",
-  "today_total": 625.0,
-  "all_time_total": 248135.85,
+  "updated": "2026-06-30 00:57 UTC",
+  "today_total": 0,
+  "all_time_total": 248035.85,
   "payments": [
     {
       "id": "pi_3TnoF5DK4U0438JA1TYST4L1",
@@ -8761,18 +8761,6 @@
       "settled": true,
       "pending": false,
       "source": "historical_export"
-    },
-    {
-      "id": "zelle_28634578088",
-      "date": "2026-03-31",
-      "time": "",
-      "name": "Esthefany Pena",
-      "amount": 100.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
     },
     {
       "id": "fb_hist_2026-03-31_yomairi_garcia_175",
