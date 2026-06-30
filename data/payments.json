@@ -1,8 +1,20 @@
 {
-  "updated": "2026-06-30 20:43 UTC",
+  "updated": "2026-06-30 21:36 UTC",
   "today_total": 525.0,
   "all_time_total": 248590.84,
   "payments": [
+    {
+      "id": "pi_3To98FDK4U0438JA1g9CWtJp",
+      "date": "2026-06-30",
+      "time": "21:23",
+      "name": "Cherly alberty",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3To6vFDK4U0438JA2DWi8CFe",
       "date": "2026-06-30",
