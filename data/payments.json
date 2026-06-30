@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-30 22:34 UTC",
-  "today_total": 526.0,
-  "all_time_total": 248591.84,
+  "updated": "2026-06-30 23:33 UTC",
+  "today_total": 926.0,
+  "all_time_total": 248991.84,
   "payments": [
     {
       "id": "pi_3To98FDK4U0438JA1g9CWtJp",
@@ -69,6 +69,30 @@
       "time": "",
       "name": "Danny Beltre",
       "amount": 1.0,
+      "status": "New Sale",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "fb_sale_22153_2026-06-30",
+      "date": "2026-06-30",
+      "time": "",
+      "name": "Rosdany Checo",
+      "amount": 200.0,
+      "status": "New Sale",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "fb_sale_22154_2026-06-30",
+      "date": "2026-06-30",
+      "time": "",
+      "name": "Rosdany Checo",
+      "amount": 200.0,
       "status": "New Sale",
       "platform": "Fanbasis",
       "ok": true,
