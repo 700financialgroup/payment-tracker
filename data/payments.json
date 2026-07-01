@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-30 23:33 UTC",
-  "today_total": 926.0,
-  "all_time_total": 248991.84,
+  "updated": "2026-07-01 01:00 UTC",
+  "today_total": 0,
+  "all_time_total": 248716.84,
   "payments": [
     {
       "id": "pi_3To98FDK4U0438JA1g9CWtJp",
@@ -8677,30 +8677,6 @@
       "settled": true,
       "pending": false,
       "source": "historical_export"
-    },
-    {
-      "id": "zelle_28660840916",
-      "date": "2026-04-01",
-      "time": "",
-      "name": "Myosotis Salazar",
-      "amount": 100.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_17832_2026-04-01",
-      "date": "2026-04-01",
-      "time": "",
-      "name": "Yomairi Garcia",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
     },
     {
       "id": "fb_hist_2026-04-01_yomairi_garcia_175",
