@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-01 13:04 UTC",
-  "today_total": 175.0,
-  "all_time_total": 248891.84,
+  "updated": "2026-07-01 14:21 UTC",
+  "today_total": 375.0,
+  "all_time_total": 249091.84,
   "payments": [
     {
       "id": "fb_sale_22172_2026-07-01",
@@ -9,6 +9,18 @@
       "time": "",
       "name": "Cherly Alberty Dur\u00e1n",
       "amount": 175.0,
+      "status": "New Sale",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "fb_sale_22177_2026-07-01",
+      "date": "2026-07-01",
+      "time": "",
+      "name": "Rosdany Checo",
+      "amount": 200.0,
       "status": "New Sale",
       "platform": "Fanbasis",
       "ok": true,
