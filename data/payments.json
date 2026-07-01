@@ -1,8 +1,32 @@
 {
-  "updated": "2026-07-01 18:14 UTC",
+  "updated": "2026-07-01 19:12 UTC",
   "today_total": 375.0,
   "all_time_total": 249091.84,
   "payments": [
+    {
+      "id": "pi_3ToTQlDK4U0438JA1nbDOtZJ",
+      "date": "2026-07-01",
+      "time": "19:04",
+      "name": "Alberto Espiritu",
+      "amount": 150.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3ToTQQDK4U0438JA0l1NtPTO",
+      "date": "2026-07-01",
+      "time": "19:03",
+      "name": "Samantha Guerrier",
+      "amount": 200.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "fb_sale_22172_2026-07-01",
       "date": "2026-07-01",
