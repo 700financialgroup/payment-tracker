@@ -1,8 +1,20 @@
 {
-  "updated": "2026-07-01 10:25 UTC",
-  "today_total": 0,
-  "all_time_total": 248716.84,
+  "updated": "2026-07-01 11:37 UTC",
+  "today_total": 175.0,
+  "all_time_total": 248891.84,
   "payments": [
+    {
+      "id": "fb_sale_22172_2026-07-01",
+      "date": "2026-07-01",
+      "time": "",
+      "name": "Cherly Alberty Dur\u00e1n",
+      "amount": 175.0,
+      "status": "New Sale",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3To98FDK4U0438JA1g9CWtJp",
       "date": "2026-06-30",
