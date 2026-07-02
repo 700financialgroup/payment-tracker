@@ -1,8 +1,20 @@
 {
-  "updated": "2026-07-02 20:04 UTC",
+  "updated": "2026-07-02 21:45 UTC",
   "today_total": 300.0,
   "all_time_total": 249231.84,
   "payments": [
+    {
+      "id": "pi_3TorDQDK4U0438JA0ZqPAkpo",
+      "date": "2026-07-02",
+      "time": "20:28",
+      "name": "Ariel Vargas",
+      "amount": 29.99,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TopuNDK4U0438JA0kum2hgG",
       "date": "2026-07-02",
