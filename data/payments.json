@@ -1,8 +1,32 @@
 {
-  "updated": "2026-07-02 18:26 UTC",
+  "updated": "2026-07-02 20:04 UTC",
   "today_total": 300.0,
   "all_time_total": 249231.84,
   "payments": [
+    {
+      "id": "pi_3TopuNDK4U0438JA0kum2hgG",
+      "date": "2026-07-02",
+      "time": "19:04",
+      "name": "Alberto Espiritu",
+      "amount": 150.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3ToptzDK4U0438JA2rd7NaOj",
+      "date": "2026-07-02",
+      "time": "19:03",
+      "name": "Samantha Guerrier",
+      "amount": 200.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3Top2SDK4U0438JA02uUVDmS",
       "date": "2026-07-02",
