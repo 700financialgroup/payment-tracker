@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-01 23:35 UTC",
-  "today_total": 375.0,
-  "all_time_total": 249091.84,
+  "updated": "2026-07-02 00:56 UTC",
+  "today_total": 0,
+  "all_time_total": 248931.84,
   "payments": [
     {
       "id": "pi_3ToWq3DK4U0438JA1NuybOnr",
@@ -8521,18 +8521,6 @@
       "amount": 10.01,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_17925_2026-04-02",
-      "date": "2026-04-02",
-      "time": "",
-      "name": "Carolina Duran",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
