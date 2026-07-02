@@ -1,8 +1,32 @@
 {
-  "updated": "2026-07-02 16:51 UTC",
-  "today_total": 125.0,
-  "all_time_total": 249056.84,
+  "updated": "2026-07-02 18:26 UTC",
+  "today_total": 300.0,
+  "all_time_total": 249231.84,
   "payments": [
+    {
+      "id": "pi_3Top2SDK4U0438JA02uUVDmS",
+      "date": "2026-07-02",
+      "time": "18:08",
+      "name": "Maria Contreras",
+      "amount": 29.99,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3TookuDK4U0438JA1jmouhgm",
+      "date": "2026-07-02",
+      "time": "17:50",
+      "name": "Ely romero",
+      "amount": 29.99,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TokWYDK4U0438JA0xCQJ7cT",
       "date": "2026-07-02",
@@ -23,6 +47,18 @@
       "amount": 125.0,
       "status": "received",
       "platform": "Zelle",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "fb_sale_22250_2026-07-02",
+      "date": "2026-07-02",
+      "time": "",
+      "name": "Zairis Pena",
+      "amount": 175.0,
+      "status": "New Sale",
+      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
