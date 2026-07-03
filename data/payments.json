@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-02 23:10 UTC",
-  "today_total": 300.0,
-  "all_time_total": 249231.84,
+  "updated": "2026-07-03 01:11 UTC",
+  "today_total": 0,
+  "all_time_total": 248706.84,
   "payments": [
     {
       "id": "pi_3TotEkDK4U0438JA2hbpmMyQ",
@@ -8407,42 +8407,6 @@
       "amount": 97.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_17994_2026-04-03",
-      "date": "2026-04-03",
-      "time": "",
-      "name": "Edwin Ventura",
-      "amount": 175.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_18005_2026-04-03",
-      "date": "2026-04-03",
-      "time": "",
-      "name": "Angelica Ortiz",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_18006_2026-04-03",
-      "date": "2026-04-03",
-      "time": "",
-      "name": "Heidy Fana",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
