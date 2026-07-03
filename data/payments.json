@@ -1,8 +1,32 @@
 {
-  "updated": "2026-07-03 17:58 UTC",
+  "updated": "2026-07-03 19:38 UTC",
   "today_total": 0,
   "all_time_total": 248706.84,
   "payments": [
+    {
+      "id": "pi_3TpCNYDK4U0438JA0msucUgR",
+      "date": "2026-07-03",
+      "time": "19:04",
+      "name": "Samantha Guerrier",
+      "amount": 200.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3TpCLjDK4U0438JA1d2YDieg",
+      "date": "2026-07-03",
+      "time": "19:02",
+      "name": "Melissa Roman",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3Tp9FeDK4U0438JA2XH3Nc3A",
       "date": "2026-07-03",
