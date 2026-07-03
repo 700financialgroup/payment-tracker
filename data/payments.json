@@ -1,8 +1,20 @@
 {
-  "updated": "2026-07-03 21:09 UTC",
+  "updated": "2026-07-03 22:35 UTC",
   "today_total": 0,
   "all_time_total": 248706.84,
   "payments": [
+    {
+      "id": "pi_3TpEirDK4U0438JA2ZoigUlX",
+      "date": "2026-07-03",
+      "time": "21:34",
+      "name": "Yarlin Mar\u00eda Pichardo Pichardo",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TpCNYDK4U0438JA0msucUgR",
       "date": "2026-07-03",
