@@ -1,8 +1,32 @@
 {
-  "updated": "2026-07-04 17:35 UTC",
+  "updated": "2026-07-04 19:15 UTC",
   "today_total": 0,
   "all_time_total": 248531.84,
   "payments": [
+    {
+      "id": "pi_3TpYOVDK4U0438JA16997pmh",
+      "date": "2026-07-04",
+      "time": "18:34",
+      "name": "Laurycel Rodriguez",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3TpYJTDK4U0438JA0bd1NdFH",
+      "date": "2026-07-04",
+      "time": "18:29",
+      "name": "Laurycel Rodriguez",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TpW0vDK4U0438JA0NFi6IoR",
       "date": "2026-07-04",
