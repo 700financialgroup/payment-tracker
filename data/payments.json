@@ -1,8 +1,20 @@
 {
-  "updated": "2026-07-04 14:39 UTC",
+  "updated": "2026-07-04 16:04 UTC",
   "today_total": 0,
   "all_time_total": 248531.84,
   "payments": [
+    {
+      "id": "pi_3TpW0vDK4U0438JA0NFi6IoR",
+      "date": "2026-07-04",
+      "time": "16:01",
+      "name": "Juan Fernando Marte Martinez",
+      "amount": 29.99,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TpEirDK4U0438JA2ZoigUlX",
       "date": "2026-07-03",
