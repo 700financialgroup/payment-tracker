@@ -1,8 +1,20 @@
 {
-  "updated": "2026-07-05 21:02 UTC",
+  "updated": "2026-07-05 22:31 UTC",
   "today_total": 0,
   "all_time_total": 248081.84,
   "payments": [
+    {
+      "id": "pi_3TpyWVDK4U0438JA2JZkJVeK",
+      "date": "2026-07-05",
+      "time": "22:28",
+      "name": "Johanny Flores",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TpwjyDK4U0438JA2asWRc9o",
       "date": "2026-07-05",
