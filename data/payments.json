@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-04 22:59 UTC",
+  "updated": "2026-07-05 00:09 UTC",
   "today_total": 0,
-  "all_time_total": 248531.84,
+  "all_time_total": 248081.84,
   "payments": [
     {
       "id": "pi_3Tpc9WDK4U0438JA0HJ72f9w",
@@ -8225,42 +8225,6 @@
       "amount": 175.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "zelle_28715781375",
-      "date": "2026-04-05",
-      "time": "",
-      "name": "Mariela Hernandez",
-      "amount": 100.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_18074_2026-04-05",
-      "date": "2026-04-05",
-      "time": "",
-      "name": "Deyaniris Garcia De Nunez",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_18075_2026-04-05",
-      "date": "2026-04-05",
-      "time": "",
-      "name": "Deyaniris Garcia De Nunez",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
