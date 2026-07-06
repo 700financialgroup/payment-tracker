@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-05 23:40 UTC",
+  "updated": "2026-07-06 03:37 UTC",
   "today_total": 0,
-  "all_time_total": 248081.84,
+  "all_time_total": 247915.84,
   "payments": [
     {
       "id": "pi_3TpyWVDK4U0438JA2JZkJVeK",
@@ -8128,30 +8128,6 @@
       "pending": false,
       "source": "historical_export",
       "internal": false
-    },
-    {
-      "id": "zelle_28730196181",
-      "date": "2026-04-06",
-      "time": "",
-      "name": "David Ramirez",
-      "amount": 6.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_18106_2026-04-06",
-      "date": "2026-04-06",
-      "time": "",
-      "name": "Rosanna Tavares",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
     },
     {
       "id": "fb_hist_2026-04-06_darleny_lugo_175",
