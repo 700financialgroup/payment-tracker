@@ -1,8 +1,20 @@
 {
-  "updated": "2026-07-06 18:19 UTC",
+  "updated": "2026-07-06 20:26 UTC",
   "today_total": 0,
   "all_time_total": 247915.84,
   "payments": [
+    {
+      "id": "pi_3TqHmyDK4U0438JA2uMPhfNV",
+      "date": "2026-07-06",
+      "time": "19:02",
+      "name": "Cristal Gonzalez",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TpyWVDK4U0438JA2JZkJVeK",
       "date": "2026-07-05",
