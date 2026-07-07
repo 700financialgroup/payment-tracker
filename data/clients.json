@@ -1,7 +1,75 @@
 {
-  "updated": "2026-07-07 01:18 UTC",
-  "total": 28,
+  "updated": "2026-07-07 05:39 UTC",
+  "total": 34,
   "clients": [
+    {
+      "id": "kJRNUHEwyS9tntvTZMJD",
+      "name": "joseph diaz",
+      "phone": "+14846619131",
+      "email": "cruzbeltre18@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "contract signed",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-06-29"
+    },
+    {
+      "id": "llPq9GEfPDJRZgrPyzlu",
+      "name": "esther polanco",
+      "phone": "+16468979798",
+      "email": "eztherpolanco@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "docs uploaded",
+        "full-pay-client",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-06-28"
+    },
+    {
+      "id": "WpN4dakQmrKKdgQAFAq8",
+      "name": "jeralynn torres",
+      "phone": "+19178188093",
+      "email": "jeralynntorres0108@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-06-23"
+    },
+    {
+      "id": "d8lstxUdnXuSXErbJxis",
+      "name": "luceidy torres alvarado",
+      "phone": "+19087272625",
+      "email": "ltalvara2@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "docs uploaded",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-06-22"
+    },
     {
       "id": "gTUAFc7vUNRfvw3Gbyen",
       "name": "manuel alejandro merejo",
@@ -62,6 +130,24 @@
       "dateAdded": "2026-06-15"
     },
     {
+      "id": "B35RVYTKYGwHeTzY51Vw",
+      "name": "adriana michell valdez moquete",
+      "phone": "+12159085229",
+      "email": "angelinavaldez18@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "contract signed",
+        "client.unresponsive",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-06-13"
+    },
+    {
       "id": "lYuuthDWEzgxQyzmCdC0",
       "name": "yenderson jose polanco",
       "phone": "+19293273980",
@@ -98,27 +184,6 @@
         "client.round1.active"
       ],
       "dateAdded": "2026-06-09"
-    },
-    {
-      "id": "k1WV9SQkiU36nkwkDuah",
-      "name": "nusyalys alexandra flores",
-      "phone": "+14074608352",
-      "email": "nusyalysf0@gmail.com",
-      "round": 1,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [
-        "payment_missing"
-      ],
-      "tags": [
-        "payment.failed",
-        "payment missing",
-        "docs uploaded",
-        "client.round1.active"
-      ],
-      "dateAdded": "2026-06-08"
     },
     {
       "id": "hPERTNm4O2WpbH6lz7Be",
@@ -159,43 +224,6 @@
       "dateAdded": "2026-05-26"
     },
     {
-      "id": "rTGnlrdfKcQbkhKbdVdA",
-      "name": "maria contreras",
-      "phone": "+12035239864",
-      "email": "rosalbacastano242@gmail.com",
-      "round": 1,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
-      "tags": [
-        "client.round1.active"
-      ],
-      "dateAdded": "2026-05-24"
-    },
-    {
-      "id": "t9SLn2TFTrakSFL9NYqT",
-      "name": "lizaida rodriguez",
-      "phone": "+13472459239",
-      "email": "leesaa0921@gmail.com",
-      "round": 1,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [
-        "payment_missing"
-      ],
-      "tags": [
-        "client.round1.active",
-        "client.round1",
-        "payment.failed",
-        "payment missing"
-      ],
-      "dateAdded": "2026-05-23"
-    },
-    {
       "id": "gttbFi3pufUHQa8G90N4",
       "name": "aura cacerez",
       "phone": "+12016866854",
@@ -210,64 +238,6 @@
         "client.round1.active"
       ],
       "dateAdded": "2026-05-22"
-    },
-    {
-      "id": "eE41kI3qXXSX6e02lE3B",
-      "name": "jasmine reynoso",
-      "phone": "+19732344514",
-      "email": "jasminereynoso88@gmail.com",
-      "round": 1,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [
-        "no_show"
-      ],
-      "tags": [
-        "no show to call",
-        "docs uploaded",
-        "client.round1.active"
-      ],
-      "dateAdded": "2026-05-22"
-    },
-    {
-      "id": "F6XkXsx5ZCQC04xEs407",
-      "name": "germaly m\u00e9ndez",
-      "phone": "+18455047640",
-      "email": "germalym23@gmail.com",
-      "round": 1,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
-      "tags": [
-        "client.round1.active",
-        "client.round1"
-      ],
-      "dateAdded": "2026-05-09"
-    },
-    {
-      "id": "XcCrR8Nid9UEuONiJhdb",
-      "name": "llancy tolina philippe",
-      "phone": "+14078444315",
-      "email": "llancypena@gmail.com",
-      "round": 1,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [
-        "payment_missing"
-      ],
-      "tags": [
-        "client.round1.active",
-        "client.round1",
-        "payment.failed",
-        "payment missing"
-      ],
-      "dateAdded": "2026-05-09"
     },
     {
       "id": "A2kCEXo6EjJNGdGrMZNO",
@@ -286,6 +256,28 @@
         "client.round2.active"
       ],
       "dateAdded": "2026-06-09"
+    },
+    {
+      "id": "k1WV9SQkiU36nkwkDuah",
+      "name": "nusyalys alexandra flores",
+      "phone": "+14074608352",
+      "email": "nusyalysf0@gmail.com",
+      "round": 2,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing"
+      ],
+      "tags": [
+        "payment.failed",
+        "payment missing",
+        "docs uploaded",
+        "client.round1.active",
+        "client.round2.active"
+      ],
+      "dateAdded": "2026-06-08"
     },
     {
       "id": "DY1p7OQJFTz7iMqytgjM",
@@ -346,6 +338,44 @@
       "dateAdded": "2026-06-03"
     },
     {
+      "id": "rTGnlrdfKcQbkhKbdVdA",
+      "name": "maria contreras",
+      "phone": "+12035239864",
+      "email": "rosalbacastano242@gmail.com",
+      "round": 2,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round1.active",
+        "client.round2.active"
+      ],
+      "dateAdded": "2026-05-24"
+    },
+    {
+      "id": "t9SLn2TFTrakSFL9NYqT",
+      "name": "lizaida rodriguez",
+      "phone": "+13472459239",
+      "email": "leesaa0921@gmail.com",
+      "round": 2,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing"
+      ],
+      "tags": [
+        "client.round1.active",
+        "payment.failed",
+        "payment missing",
+        "client.round2.active"
+      ],
+      "dateAdded": "2026-05-23"
+    },
+    {
       "id": "1C9KpoRTnMl6NaouMZVK",
       "name": "derlin starlin",
       "phone": "+16108188735",
@@ -359,6 +389,27 @@
       "tags": [
         "client.round1.active",
         "client.unresponsive",
+        "client.round2.active"
+      ],
+      "dateAdded": "2026-05-22"
+    },
+    {
+      "id": "eE41kI3qXXSX6e02lE3B",
+      "name": "jasmine reynoso",
+      "phone": "+19732344514",
+      "email": "jasminereynoso88@gmail.com",
+      "round": 2,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show"
+      ],
+      "tags": [
+        "no show to call",
+        "docs uploaded",
+        "client.round1.active",
         "client.round2.active"
       ],
       "dateAdded": "2026-05-22"
@@ -478,16 +529,74 @@
         "client.round1.active",
         "payment.failed",
         "payment missing",
-        "client.round2"
+        "client.round2",
+        "client.round2.active"
       ],
       "dateAdded": "2026-05-11"
+    },
+    {
+      "id": "F6XkXsx5ZCQC04xEs407",
+      "name": "germaly m\u00e9ndez",
+      "phone": "+18455047640",
+      "email": "germalym23@gmail.com",
+      "round": 2,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round1.active",
+        "client.round2.active"
+      ],
+      "dateAdded": "2026-05-09"
+    },
+    {
+      "id": "XcCrR8Nid9UEuONiJhdb",
+      "name": "llancy tolina philippe",
+      "phone": "+14078444315",
+      "email": "llancypena@gmail.com",
+      "round": 2,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing"
+      ],
+      "tags": [
+        "client.round1.active",
+        "payment.failed",
+        "payment missing",
+        "client.round2.active"
+      ],
+      "dateAdded": "2026-05-09"
+    },
+    {
+      "id": "WLAT2lT58HheFBJM4YG7",
+      "name": "paula romero",
+      "phone": "+19179134936",
+      "email": "romeropaula075@gmail.com",
+      "round": 4,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show"
+      ],
+      "tags": [
+        "no show to call",
+        "client.round4.active"
+      ],
+      "dateAdded": "2026-06-08"
     },
     {
       "id": "YvfrVaxJEkSFOGUK83Tp",
       "name": "ronny ceballos",
       "phone": "+17177530765",
       "email": "ceballoslesly1320@gmail.com",
-      "round": 3,
+      "round": 4,
       "language": "Spanish",
       "plan": "",
       "installment": 0,
@@ -498,11 +607,11 @@
       ],
       "tags": [
         "client.round3",
-        "client.round3.active",
         "no show to call",
         "idiq fail",
         "client.round2",
-        "language: spanish"
+        "language: spanish",
+        "client.round4.active"
       ],
       "dateAdded": "2026-05-19"
     },
@@ -511,7 +620,7 @@
       "name": "nayelys castillo",
       "phone": "+17866082694",
       "email": "nayelys.castillo@icloud.com",
-      "round": 5,
+      "round": 6,
       "language": "Spanish",
       "plan": "",
       "installment": 0,
@@ -520,11 +629,11 @@
         "idiq_fail"
       ],
       "tags": [
-        "client.round5.active",
         "client.round5",
         "booked appointment",
         "language: spanish",
-        "idiq fail"
+        "idiq fail",
+        "client.round6.active"
       ],
       "dateAdded": "2026-05-26"
     },
