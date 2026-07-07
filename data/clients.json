@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-06 23:09 UTC",
-  "total": 27,
+  "updated": "2026-07-07 01:18 UTC",
+  "total": 28,
   "clients": [
     {
       "id": "gTUAFc7vUNRfvw3Gbyen",
@@ -100,23 +100,6 @@
       "dateAdded": "2026-06-09"
     },
     {
-      "id": "A2kCEXo6EjJNGdGrMZNO",
-      "name": "wilfred castillo",
-      "phone": "+19179466584",
-      "email": "castilloinc22@gmail.com",
-      "round": 1,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
-      "tags": [
-        "docs uploaded",
-        "client.round1.active"
-      ],
-      "dateAdded": "2026-06-09"
-    },
-    {
       "id": "k1WV9SQkiU36nkwkDuah",
       "name": "nusyalys alexandra flores",
       "phone": "+14074608352",
@@ -136,26 +119,6 @@
         "client.round1.active"
       ],
       "dateAdded": "2026-06-08"
-    },
-    {
-      "id": "g8e6TxuGnnACHnYg0Z66",
-      "name": "hilarie sanchez rivera",
-      "phone": "+14077803238",
-      "email": "hilarienachel97@gmail.com",
-      "round": 1,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [
-        "no_show"
-      ],
-      "tags": [
-        "no show to call",
-        "contract signed",
-        "client.round1.active"
-      ],
-      "dateAdded": "2026-06-05"
     },
     {
       "id": "hPERTNm4O2WpbH6lz7Be",
@@ -233,24 +196,6 @@
       "dateAdded": "2026-05-23"
     },
     {
-      "id": "1C9KpoRTnMl6NaouMZVK",
-      "name": "derlin starlin",
-      "phone": "+16108188735",
-      "email": "alissamorel18@icloud.com",
-      "round": 1,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
-      "tags": [
-        "client.round1.active",
-        "client.round1",
-        "client.unresponsive"
-      ],
-      "dateAdded": "2026-05-22"
-    },
-    {
       "id": "gttbFi3pufUHQa8G90N4",
       "name": "aura cacerez",
       "phone": "+12016866854",
@@ -285,23 +230,6 @@
         "client.round1.active"
       ],
       "dateAdded": "2026-05-22"
-    },
-    {
-      "id": "flocYNv26HtD1sKMi9gF",
-      "name": "argenis toribio",
-      "phone": "+19783149020",
-      "email": "argfx13@outlook.com",
-      "round": 1,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
-      "tags": [
-        "docs uploaded",
-        "client.round1.active"
-      ],
-      "dateAdded": "2026-05-14"
     },
     {
       "id": "F6XkXsx5ZCQC04xEs407",
@@ -342,6 +270,62 @@
       "dateAdded": "2026-05-09"
     },
     {
+      "id": "A2kCEXo6EjJNGdGrMZNO",
+      "name": "wilfred castillo",
+      "phone": "+19179466584",
+      "email": "castilloinc22@gmail.com",
+      "round": 2,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "docs uploaded",
+        "client.round1.active",
+        "client.round2.active"
+      ],
+      "dateAdded": "2026-06-09"
+    },
+    {
+      "id": "DY1p7OQJFTz7iMqytgjM",
+      "name": "jacson jose barreto torrealba",
+      "phone": "+15512479923",
+      "email": "jacsonbarreto67@gmail.com",
+      "round": 2,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "docs uploaded",
+        "client.round2.active"
+      ],
+      "dateAdded": "2026-06-08"
+    },
+    {
+      "id": "g8e6TxuGnnACHnYg0Z66",
+      "name": "hilarie sanchez rivera",
+      "phone": "+14077803238",
+      "email": "hilarienachel97@gmail.com",
+      "round": 2,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show"
+      ],
+      "tags": [
+        "no show to call",
+        "contract signed",
+        "client.round1.active",
+        "client.round2.active"
+      ],
+      "dateAdded": "2026-06-05"
+    },
+    {
       "id": "vsRjFFcNFVGclfiVgSh9",
       "name": "abigail ruiz",
       "phone": "+14012181499",
@@ -362,6 +346,24 @@
       "dateAdded": "2026-06-03"
     },
     {
+      "id": "1C9KpoRTnMl6NaouMZVK",
+      "name": "derlin starlin",
+      "phone": "+16108188735",
+      "email": "alissamorel18@icloud.com",
+      "round": 2,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round1.active",
+        "client.unresponsive",
+        "client.round2.active"
+      ],
+      "dateAdded": "2026-05-22"
+    },
+    {
       "id": "1cPxJ3yVYdz7Muh6g9Ij",
       "name": "joel colon",
       "phone": "+13479128491",
@@ -377,6 +379,24 @@
         "client.round2.active"
       ],
       "dateAdded": "2026-05-18"
+    },
+    {
+      "id": "flocYNv26HtD1sKMi9gF",
+      "name": "argenis toribio",
+      "phone": "+19783149020",
+      "email": "argfx13@outlook.com",
+      "round": 2,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "docs uploaded",
+        "client.round1.active",
+        "client.round2.active"
+      ],
+      "dateAdded": "2026-05-14"
     },
     {
       "id": "6Nuk3OGpWgbm3TI0m5kM",
