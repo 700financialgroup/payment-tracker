@@ -1,8 +1,20 @@
 {
-  "updated": "2026-07-06 23:09 UTC",
+  "updated": "2026-07-07 01:18 UTC",
   "today_total": 0,
-  "all_time_total": 247915.84,
+  "all_time_total": 247715.84,
   "payments": [
+    {
+      "id": "pi_3TqMThDK4U0438JA1r0Mz9qd",
+      "date": "2026-07-07",
+      "time": "00:03",
+      "name": "Vanessa colon Ramirez",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TqJXnDK4U0438JA2g5OqPoX",
       "date": "2026-07-06",
@@ -8083,30 +8095,6 @@
       "platform": "Stripe",
       "ok": true,
       "settled": true,
-      "pending": false
-    },
-    {
-      "id": "zelle_28734246011",
-      "date": "2026-04-07",
-      "time": "",
-      "name": "Aneudi Rodriguez",
-      "amount": 200.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_dispute_18175_2026-04-07",
-      "date": "2026-04-07",
-      "time": "",
-      "name": "Heidy Fana",
-      "amount": 212.0,
-      "status": "DISPUTE OPENED",
-      "platform": "Fanbasis",
-      "ok": false,
-      "settled": false,
       "pending": false
     },
     {
