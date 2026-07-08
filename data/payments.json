@@ -1,8 +1,32 @@
 {
-  "updated": "2026-07-08 17:39 UTC",
+  "updated": "2026-07-08 19:27 UTC",
   "today_total": 0,
   "all_time_total": 247690.84,
   "payments": [
+    {
+      "id": "pi_3Tr0k6DK4U0438JA2GmtCigw",
+      "date": "2026-07-08",
+      "time": "19:02",
+      "name": "Cristal Gonzalez",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3Tr0jEDK4U0438JA1bRNW4jh",
+      "date": "2026-07-08",
+      "time": "19:01",
+      "name": "Jacson jose barreto torreaoba",
+      "amount": 100.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3Tqi8YDK4U0438JA1mfMxsVO",
       "date": "2026-07-07",
