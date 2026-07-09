@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09 16:29 UTC",
+  "updated": "2026-07-09 18:20 UTC",
   "total": 34,
   "clients": [
     {
@@ -307,13 +307,16 @@
       "installment": 0,
       "platform": "Auth.net",
       "flags": [
+        "payment_missing",
         "no_show"
       ],
       "tags": [
         "no show to call",
         "contract signed",
         "client.round1.active",
-        "client.round2.active"
+        "client.round2.active",
+        "payment.failed",
+        "payment missing"
       ],
       "dateAdded": "2026-06-05"
     },
