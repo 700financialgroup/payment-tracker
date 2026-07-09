@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-08 23:37 UTC",
+  "updated": "2026-07-09 03:22 UTC",
   "today_total": 0,
-  "all_time_total": 247690.84,
+  "all_time_total": 247354.84,
   "payments": [
     {
       "id": "pi_3Tr3IFDK4U0438JA0frDSnEs",
@@ -7695,42 +7695,6 @@
       "amount": 10.02,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "zelle_28763376784",
-      "date": "2026-04-09",
-      "time": "",
-      "name": "Laura Vargas",
-      "amount": 1.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_18301_2026-04-09",
-      "date": "2026-04-09",
-      "time": "",
-      "name": "Angela V Romero Gonzalez",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_18324_2026-04-09",
-      "date": "2026-04-09",
-      "time": "",
-      "name": "Lisabel Lopez",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
