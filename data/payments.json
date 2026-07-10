@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-09 23:21 UTC",
+  "updated": "2026-07-10 01:10 UTC",
   "today_total": 0,
-  "all_time_total": 247354.84,
+  "all_time_total": 246644.84,
   "payments": [
     {
       "id": "pi_3TrMUFDK4U0438JA14EKeGsY",
@@ -7326,18 +7326,6 @@
       "pending": false
     },
     {
-      "id": "fb_renewal_18399_2026-04-11",
-      "date": "2026-04-11",
-      "time": "",
-      "name": "Elizabeth Bonilla",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
       "id": "fb_renewal_18429_2026-04-11",
       "date": "2026-04-11",
       "time": "",
@@ -7515,42 +7503,6 @@
       "amount": 500.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "zelle_28774627960",
-      "date": "2026-04-10",
-      "time": "",
-      "name": "Laura Vargas",
-      "amount": 200.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_18371_2026-04-10",
-      "date": "2026-04-10",
-      "time": "",
-      "name": "Ariel Vargas",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_18390_2026-04-10",
-      "date": "2026-04-10",
-      "time": "",
-      "name": "Briangel Mejia",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
