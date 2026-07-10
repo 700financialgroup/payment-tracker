@@ -1,8 +1,20 @@
 {
-  "updated": "2026-07-10 17:20 UTC",
+  "updated": "2026-07-10 19:10 UTC",
   "today_total": 175.0,
   "all_time_total": 246819.84,
   "payments": [
+    {
+      "id": "pi_3TrijLDK4U0438JA0bI8K1Bd",
+      "date": "2026-07-10",
+      "time": "18:00",
+      "name": "Angela Ramirez",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "fb_renewal_22615_2026-07-10",
       "date": "2026-07-10",
