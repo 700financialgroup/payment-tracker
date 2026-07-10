@@ -1,8 +1,20 @@
 {
-  "updated": "2026-07-10 22:05 UTC",
+  "updated": "2026-07-10 23:30 UTC",
   "today_total": 175.0,
   "all_time_total": 246819.84,
   "payments": [
+    {
+      "id": "pi_3TrniUDK4U0438JA2vygw6Xj",
+      "date": "2026-07-10",
+      "time": "23:20",
+      "name": "aglaura bertance",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TrlnPDK4U0438JA2HyOYPVk",
       "date": "2026-07-10",
