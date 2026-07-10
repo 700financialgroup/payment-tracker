@@ -1,8 +1,32 @@
 {
-  "updated": "2026-07-10 20:51 UTC",
+  "updated": "2026-07-10 22:05 UTC",
   "today_total": 175.0,
   "all_time_total": 246819.84,
   "payments": [
+    {
+      "id": "pi_3TrlnPDK4U0438JA2HyOYPVk",
+      "date": "2026-07-10",
+      "time": "21:17",
+      "name": "Sintia paredes",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3TrlSXDK4U0438JA23SUXTjm",
+      "date": "2026-07-10",
+      "time": "20:55",
+      "name": "Yenderson Jos\u00e9 Batista Polanc",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TrjgpDK4U0438JA2r6g4iLX",
       "date": "2026-07-10",
