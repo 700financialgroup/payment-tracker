@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11 22:50 UTC",
+  "updated": "2026-07-11 23:56 UTC",
   "total": 34,
   "clients": [
     {
@@ -485,11 +485,15 @@
       "plan": "",
       "installment": 0,
       "platform": "Auth.net",
-      "flags": [],
+      "flags": [
+        "payment_missing"
+      ],
       "tags": [
         "mentoria",
         "client.round1.active",
-        "client.round2.active"
+        "client.round2.active",
+        "payment.failed",
+        "payment missing"
       ],
       "dateAdded": "2026-05-11"
     },
