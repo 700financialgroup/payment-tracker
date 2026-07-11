@@ -1,8 +1,20 @@
 {
-  "updated": "2026-07-11 18:27 UTC",
+  "updated": "2026-07-11 19:44 UTC",
   "today_total": 0,
   "all_time_total": 246644.84,
   "payments": [
+    {
+      "id": "pi_3Ts6APDK4U0438JA0v9aqA9Z",
+      "date": "2026-07-11",
+      "time": "19:02",
+      "name": "Yesmelin Nunez",
+      "amount": 50.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TrnrWDK4U0438JA02eEZB8p",
       "date": "2026-07-10",
