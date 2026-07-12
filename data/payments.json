@@ -1,8 +1,32 @@
 {
-  "updated": "2026-07-12 18:28 UTC",
+  "updated": "2026-07-12 19:41 UTC",
   "today_total": 0,
   "all_time_total": 246644.84,
   "payments": [
+    {
+      "id": "pi_3TsSdyDK4U0438JA2i1sDgFz",
+      "date": "2026-07-12",
+      "time": "19:02",
+      "name": "Yesmelin Nunez",
+      "amount": 50.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3TsSdADK4U0438JA27EXH4Pa",
+      "date": "2026-07-12",
+      "time": "19:01",
+      "name": "Abigail Rivera",
+      "amount": 125.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TsR79DK4U0438JA1IinyfMF",
       "date": "2026-07-12",
