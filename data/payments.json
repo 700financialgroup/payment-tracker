@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-12 23:56 UTC",
+  "updated": "2026-07-13 02:52 UTC",
   "today_total": 0,
-  "all_time_total": 246644.84,
+  "all_time_total": 246284.84,
   "payments": [
     {
       "id": "pi_3TsX3aDK4U0438JA2DichkW7",
@@ -7135,18 +7135,6 @@
       "pending": false
     },
     {
-      "id": "fb_renewal_18483_2026-04-14",
-      "date": "2026-04-14",
-      "time": "",
-      "name": "Tirso Blanco",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
       "id": "fb_renewal_18512_2026-04-14",
       "date": "2026-04-14",
       "time": "",
@@ -7261,18 +7249,6 @@
       "amount": 100.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_18479_2026-04-13",
-      "date": "2026-04-13",
-      "time": "",
-      "name": "Luis Reyes",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
