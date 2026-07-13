@@ -1,8 +1,20 @@
 {
-  "updated": "2026-07-13 15:44 UTC",
+  "updated": "2026-07-13 17:56 UTC",
   "today_total": 0,
   "all_time_total": 246284.84,
   "payments": [
+    {
+      "id": "pi_3TsnqwDK4U0438JA0S5EgHEK",
+      "date": "2026-07-13",
+      "time": "17:41",
+      "name": "Omar White",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TsX3aDK4U0438JA2DichkW7",
       "date": "2026-07-12",
