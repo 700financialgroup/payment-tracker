@@ -1,8 +1,32 @@
 {
-  "updated": "2026-07-14 18:05 UTC",
+  "updated": "2026-07-14 19:53 UTC",
   "today_total": 0,
   "all_time_total": 246124.84,
   "payments": [
+    {
+      "id": "pi_3TtBbNDK4U0438JA10UFgJxN",
+      "date": "2026-07-14",
+      "time": "19:02",
+      "name": "Abigail Rivera",
+      "amount": 125.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3TtBatDK4U0438JA0LO46CxR",
+      "date": "2026-07-14",
+      "time": "19:02",
+      "name": "Stephany Grullon Barbosa",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3Tsp7nDK4U0438JA0uFfckBU",
       "date": "2026-07-13",
