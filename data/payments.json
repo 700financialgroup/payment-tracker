@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-13 23:02 UTC",
+  "updated": "2026-07-14 00:01 UTC",
   "today_total": 0,
-  "all_time_total": 246284.84,
+  "all_time_total": 246124.84,
   "payments": [
     {
       "id": "pi_3Tsp7nDK4U0438JA0uFfckBU",
@@ -7166,18 +7166,6 @@
       "amount": 175.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_18512_2026-04-14",
-      "date": "2026-04-14",
-      "time": "",
-      "name": "Carolin Romero",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
