@@ -1,8 +1,68 @@
 {
-  "updated": "2026-07-15 18:10 UTC",
+  "updated": "2026-07-15 19:47 UTC",
   "today_total": 0,
   "all_time_total": 245424.84,
   "payments": [
+    {
+      "id": "pi_3TtY4rDK4U0438JA0oRkqa9a",
+      "date": "2026-07-15",
+      "time": "19:02",
+      "name": "Stephany Grullon Barbosa",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3TtY4mDK4U0438JA2mbd8C4m",
+      "date": "2026-07-15",
+      "time": "19:02",
+      "name": "Emmanuel Novas Arias",
+      "amount": 150.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3TtY4iDK4U0438JA26OxVt4O",
+      "date": "2026-07-15",
+      "time": "19:02",
+      "name": "Luis Carlos Frias Castro",
+      "amount": 127.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3TtY4fDK4U0438JA2w2Uxr07",
+      "date": "2026-07-15",
+      "time": "19:02",
+      "name": "Johanna Torres-Perozo",
+      "amount": 140.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3TtXR5DK4U0438JA2yUxpGZZ",
+      "date": "2026-07-15",
+      "time": "18:21",
+      "name": "Aneldy Cuello",
+      "amount": 175.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TtVc5DK4U0438JA0Uxz8mBu",
       "date": "2026-07-15",
