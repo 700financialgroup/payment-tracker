@@ -1,8 +1,20 @@
 {
-  "updated": "2026-07-15 15:28 UTC",
+  "updated": "2026-07-15 16:53 UTC",
   "today_total": 0,
   "all_time_total": 245424.84,
   "payments": [
+    {
+      "id": "pi_3TtVc5DK4U0438JA0Uxz8mBu",
+      "date": "2026-07-15",
+      "time": "16:24",
+      "name": "Ninoska Sanchez Hernandez",
+      "amount": 29.99,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TtHcmDK4U0438JA1n9Bu7D0",
       "date": "2026-07-15",
