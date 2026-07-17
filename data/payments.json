@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-16 22:58 UTC",
+  "updated": "2026-07-17 00:06 UTC",
   "today_total": 0,
-  "all_time_total": 245074.84,
+  "all_time_total": 244164.84,
   "payments": [
     {
       "id": "pi_3TtuYPDK4U0438JA1tZlfyfC",
@@ -6766,18 +6766,6 @@
       "source": "historical_export"
     },
     {
-      "id": "fb_renewal_18708_2026-04-18",
-      "date": "2026-04-18",
-      "time": "",
-      "name": "Kelvin Pena",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
       "id": "fb_hist_2026-04-18_winiffer_ramirez_160",
       "date": "2026-04-18",
       "time": "10:34",
@@ -6854,54 +6842,6 @@
       "platform": "Stripe",
       "ok": false,
       "settled": false,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_18684_2026-04-17",
-      "date": "2026-04-17",
-      "time": "",
-      "name": "Evelyn Rodriguez",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_18698_2026-04-17",
-      "date": "2026-04-17",
-      "time": "",
-      "name": "Andrea Beauchamp",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_18701_2026-04-17",
-      "date": "2026-04-17",
-      "time": "",
-      "name": "Genesis Suriel",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_18703_2026-04-17",
-      "date": "2026-04-17",
-      "time": "",
-      "name": "Melany Mendez",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
       "pending": false
     },
     {
