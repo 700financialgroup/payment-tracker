@@ -1,8 +1,56 @@
 {
-  "updated": "2026-07-17 18:35 UTC",
+  "updated": "2026-07-17 20:07 UTC",
   "today_total": 0,
   "all_time_total": 244164.84,
   "payments": [
+    {
+      "id": "pi_3TuH1uDK4U0438JA1sOkPJhw",
+      "date": "2026-07-17",
+      "time": "19:02",
+      "name": "Emmanuel Novas Arias",
+      "amount": 150.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3TuH1qDK4U0438JA0GSvaVQl",
+      "date": "2026-07-17",
+      "time": "19:02",
+      "name": "Luis Carlos Frias Castro",
+      "amount": 127.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3TuH1qDK4U0438JA1toJ0RL9",
+      "date": "2026-07-17",
+      "time": "19:02",
+      "name": "Johanna Torres-Perozo",
+      "amount": 140.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3TuH1ODK4U0438JA1n9lk2oL",
+      "date": "2026-07-17",
+      "time": "19:02",
+      "name": "Manuel Alejandro de leon merejo",
+      "amount": 100.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TtuYPDK4U0438JA1tZlfyfC",
       "date": "2026-07-16",
