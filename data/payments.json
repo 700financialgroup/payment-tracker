@@ -1,8 +1,32 @@
 {
-  "updated": "2026-07-19 18:28 UTC",
+  "updated": "2026-07-19 19:44 UTC",
   "today_total": 0,
   "all_time_total": 244064.84,
   "payments": [
+    {
+      "id": "pi_3TuzyWDK4U0438JA2ePhxzDg",
+      "date": "2026-07-19",
+      "time": "19:02",
+      "name": "Manuel Alejandro de leon merejo",
+      "amount": 100.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
+    {
+      "id": "pi_3Tuzy9DK4U0438JA1YJxZ44Q",
+      "date": "2026-07-19",
+      "time": "19:01",
+      "name": "Juan Carlos Vickys Cousin CALLER",
+      "amount": 150.0,
+      "status": "requires_payment_method",
+      "platform": "Stripe",
+      "ok": false,
+      "settled": false,
+      "pending": false
+    },
     {
       "id": "pi_3TudUxDK4U0438JA2liXZVg5",
       "date": "2026-07-18",
