@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-20 23:02 UTC",
+  "updated": "2026-07-21 00:59 UTC",
   "today_total": 0,
-  "all_time_total": 243689.84,
+  "all_time_total": 243314.84,
   "payments": [
     {
       "id": "pi_3TvMSfDK4U0438JA2xwvxNvj",
@@ -6624,30 +6624,6 @@
       "amount": 5000.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "zelle_28915141258",
-      "date": "2026-04-21",
-      "time": "",
-      "name": "Paula Romero",
-      "amount": 175.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_18879_2026-04-21",
-      "date": "2026-04-21",
-      "time": "",
-      "name": "Carmen Martinez",
-      "amount": 200.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
