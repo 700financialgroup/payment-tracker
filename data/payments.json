@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-25 22:58 UTC",
+  "updated": "2026-07-26 00:06 UTC",
   "today_total": 0,
-  "all_time_total": 241874.84,
+  "all_time_total": 241434.84,
   "payments": [
     {
       "id": "pi_3Tw5PoDK4U0438JA22G5Neec",
@@ -5894,42 +5894,6 @@
       "amount": 400.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "zelle_28978602000",
-      "date": "2026-04-26",
-      "time": "",
-      "name": "Danny Beltre",
-      "amount": 120.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_19168_2026-04-26",
-      "date": "2026-04-26",
-      "time": "",
-      "name": "Malvin Marte",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_19170_2026-04-26",
-      "date": "2026-04-26",
-      "time": "",
-      "name": "Sheiny Mercedes",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
