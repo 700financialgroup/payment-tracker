@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27 21:40 UTC",
+  "updated": "2026-07-27 23:04 UTC",
   "total": 34,
   "clients": [
     {
@@ -292,10 +292,13 @@
       "plan": "",
       "installment": 0,
       "platform": "Auth.net",
-      "flags": [],
+      "flags": [
+        "no_show"
+      ],
       "tags": [
         "docs uploaded",
-        "client.round2.active"
+        "client.round2.active",
+        "no show to call"
       ],
       "dateAdded": "2026-06-08"
     },
