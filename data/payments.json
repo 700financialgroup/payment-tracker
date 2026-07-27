@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-26 22:36 UTC",
+  "updated": "2026-07-27 00:01 UTC",
   "today_total": 0,
-  "all_time_total": 241434.84,
+  "all_time_total": 241274.84,
   "payments": [
     {
       "id": "pi_3Tw5PoDK4U0438JA22G5Neec",
@@ -5774,18 +5774,6 @@
       "amount": 100.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_19193_2026-04-27",
-      "date": "2026-04-27",
-      "time": "",
-      "name": "Yojanny Guzman",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
