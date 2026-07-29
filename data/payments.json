@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-28 23:01 UTC",
+  "updated": "2026-07-29 00:07 UTC",
   "today_total": 0,
-  "all_time_total": 240679.84,
+  "all_time_total": 240344.84,
   "payments": [
     {
       "id": "pi_3Tw5PoDK4U0438JA22G5Neec",
@@ -5493,30 +5493,6 @@
       "amount": 500.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_19321_2026-04-29",
-      "date": "2026-04-29",
-      "time": "",
-      "name": "Elianny Estevez",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_19329_2026-04-29",
-      "date": "2026-04-29",
-      "time": "",
-      "name": "Waldy Rodriguez",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
