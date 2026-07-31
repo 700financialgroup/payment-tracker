@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-31 20:43 UTC",
-  "today_total": 1096.0,
-  "all_time_total": 241440.84,
+  "updated": "2026-07-31 22:07 UTC",
+  "today_total": 1121.0,
+  "all_time_total": 241465.84,
   "payments": [
     {
       "id": "zelle_30222981976",
@@ -9,6 +9,18 @@
       "time": "",
       "name": "Danny Beltre",
       "amount": 1096.0,
+      "status": "received",
+      "platform": "Zelle",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "zelle_30226997567",
+      "date": "2026-07-31",
+      "time": "",
+      "name": "Danny Beltre",
+      "amount": 25.0,
       "status": "received",
       "platform": "Zelle",
       "ok": true,
