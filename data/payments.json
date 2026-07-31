@@ -1,8 +1,20 @@
 {
-  "updated": "2026-07-31 17:39 UTC",
-  "today_total": 0,
-  "all_time_total": 240344.84,
+  "updated": "2026-07-31 19:27 UTC",
+  "today_total": 1096.0,
+  "all_time_total": 241440.84,
   "payments": [
+    {
+      "id": "zelle_30222981976",
+      "date": "2026-07-31",
+      "time": "",
+      "name": "Danny Beltre",
+      "amount": 1096.0,
+      "status": "received",
+      "platform": "Zelle",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "pi_3Tw5PoDK4U0438JA22G5Neec",
       "date": "2026-07-22",
