@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07 16:56 UTC",
+  "updated": "2026-08-07 17:51 UTC",
   "total": 34,
   "clients": [
     {
@@ -204,27 +204,6 @@
         "client.unresponsive"
       ],
       "dateAdded": "2026-06-01"
-    },
-    {
-      "id": "Nz0vrVrXkfLVHe1EbYPb",
-      "name": "lesdie cruz",
-      "phone": "+18608933300",
-      "email": "figueroalesdie@gmail.com",
-      "round": 1,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [
-        "payment_missing"
-      ],
-      "tags": [
-        "deposit paid",
-        "client.round1.active",
-        "payment.failed",
-        "payment missing"
-      ],
-      "dateAdded": "2026-05-26"
     },
     {
       "id": "gttbFi3pufUHQa8G90N4",
@@ -584,6 +563,28 @@
         "client.round2.active"
       ],
       "dateAdded": "2026-05-09"
+    },
+    {
+      "id": "Nz0vrVrXkfLVHe1EbYPb",
+      "name": "lesdie cruz",
+      "phone": "+18608933300",
+      "email": "figueroalesdie@gmail.com",
+      "round": 3,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing"
+      ],
+      "tags": [
+        "deposit paid",
+        "client.round1.active",
+        "payment.failed",
+        "payment missing",
+        "client.round3.active"
+      ],
+      "dateAdded": "2026-05-26"
     },
     {
       "id": "WLAT2lT58HheFBJM4YG7",
