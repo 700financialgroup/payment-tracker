@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-08 23:58 UTC",
+  "updated": "2026-08-09 02:08 UTC",
   "today_total": 0,
-  "all_time_total": 239960.84,
+  "all_time_total": 239610.84,
   "payments": [
     {
       "id": "zelle_30222981976",
@@ -4828,18 +4828,6 @@
       "pending": false
     },
     {
-      "id": "fb_renewal_19897_2026-05-11",
-      "date": "2026-05-11",
-      "time": "",
-      "name": "Elizabeth Bonilla",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
       "id": "pi_3TVcbuDK4U0438JA11Wf6205",
       "date": "2026-05-10",
       "time": "19:01",
@@ -4885,18 +4873,6 @@
       "platform": "Stripe",
       "ok": false,
       "settled": false,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_19888_2026-05-10",
-      "date": "2026-05-10",
-      "time": "",
-      "name": "Angela V Romero Gonzalez",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
       "pending": false
     },
     {
