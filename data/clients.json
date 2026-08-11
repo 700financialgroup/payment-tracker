@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-11 16:05 UTC",
-  "total": 34,
+  "updated": "2026-08-11 17:29 UTC",
+  "total": 35,
   "clients": [
+    {
+      "id": "6Vh5YvIGX5JXbIRkj8Nw",
+      "name": "shandaris lovera",
+      "phone": "+19149430277",
+      "email": "shandy.lovera@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "no_show"
+      ],
+      "tags": [
+        "no show to call",
+        "payment.failed",
+        "deposit paid",
+        "payment missing",
+        "client.unresponsive",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-07-22"
+    },
     {
       "id": "kJRNUHEwyS9tntvTZMJD",
       "name": "joseph diaz",
