@@ -1,8 +1,20 @@
 {
-  "updated": "2026-08-11 20:45 UTC",
-  "today_total": 0,
-  "all_time_total": 239610.84,
+  "updated": "2026-08-11 21:49 UTC",
+  "today_total": 1500.0,
+  "all_time_total": 241110.84,
   "payments": [
+    {
+      "id": "zelle_30371602437",
+      "date": "2026-08-11",
+      "time": "",
+      "name": "Crusita Cosmetics Llc",
+      "amount": 1500.0,
+      "status": "received",
+      "platform": "Zelle",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "zelle_30222981976",
       "date": "2026-07-31",
