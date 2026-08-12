@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-11 23:41 UTC",
-  "today_total": 1500.0,
-  "all_time_total": 241110.84,
+  "updated": "2026-08-12 01:59 UTC",
+  "today_total": 0,
+  "all_time_total": 240950.84,
   "payments": [
     {
       "id": "zelle_30371602437",
@@ -4559,18 +4559,6 @@
       "amount": 175.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_20112_2026-05-14",
-      "date": "2026-05-14",
-      "time": "",
-      "name": "Tirso Blanco",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
