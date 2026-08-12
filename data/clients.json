@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-12 15:02 UTC",
-  "total": 35,
+  "updated": "2026-08-12 16:29 UTC",
+  "total": 36,
   "clients": [
     {
       "id": "6Vh5YvIGX5JXbIRkj8Nw",
@@ -196,23 +196,6 @@
       "dateAdded": "2026-06-10"
     },
     {
-      "id": "CtAbN9b6acXGqJQ0RtkG",
-      "name": "daniel alexander gutierrez",
-      "phone": "+13055901138",
-      "email": "danielocb72@gmail.com",
-      "round": 1,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
-      "tags": [
-        "contract signed",
-        "client.round1.active"
-      ],
-      "dateAdded": "2026-06-09"
-    },
-    {
       "id": "hPERTNm4O2WpbH6lz7Be",
       "name": "dorah ganchoso",
       "phone": "+14847054444",
@@ -244,6 +227,25 @@
         "client.round1.active"
       ],
       "dateAdded": "2026-05-22"
+    },
+    {
+      "id": "s2AiWS13GoBP7MNClDmD",
+      "name": "genesis felix",
+      "phone": "+12019574493",
+      "email": "genesisfelix07@gmail.com",
+      "round": 2,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "docs uploaded",
+        "client.unresponsive",
+        "client.round3.active",
+        "client.round2.active"
+      ],
+      "dateAdded": "2026-07-10"
     },
     {
       "id": "A2kCEXo6EjJNGdGrMZNO",
@@ -485,49 +487,6 @@
       "dateAdded": "2026-05-13"
     },
     {
-      "id": "N3pHAgPQIhbjs4BXq5Q7",
-      "name": "jose arias",
-      "phone": "+13473536516",
-      "email": "arias.j0405@gmail.com",
-      "round": 2,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [
-        "payment_missing"
-      ],
-      "tags": [
-        "mentoria",
-        "client.round1.active",
-        "client.round2.active",
-        "payment.failed",
-        "payment missing"
-      ],
-      "dateAdded": "2026-05-11"
-    },
-    {
-      "id": "Olh1VMtb8dbiU7H2fN85",
-      "name": "stephanie roa",
-      "phone": "+18482831283",
-      "email": "stephanie.p.roa@gmail.com",
-      "round": 2,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [
-        "payment_missing"
-      ],
-      "tags": [
-        "client.round1.active",
-        "payment.failed",
-        "payment missing",
-        "client.round2.active"
-      ],
-      "dateAdded": "2026-05-11"
-    },
-    {
       "id": "CJgvCjPr9VGiTns23vmR",
       "name": "denysse jimenez",
       "phone": "+18622648491",
@@ -587,6 +546,24 @@
         "client.round2.active"
       ],
       "dateAdded": "2026-05-09"
+    },
+    {
+      "id": "CtAbN9b6acXGqJQ0RtkG",
+      "name": "daniel alexander gutierrez",
+      "phone": "+13055901138",
+      "email": "danielocb72@gmail.com",
+      "round": 3,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "contract signed",
+        "client.round1.active",
+        "client.round3.active"
+      ],
+      "dateAdded": "2026-06-09"
     },
     {
       "id": "Nz0vrVrXkfLVHe1EbYPb",
@@ -652,6 +629,51 @@
         "client.round4.active"
       ],
       "dateAdded": "2026-05-19"
+    },
+    {
+      "id": "N3pHAgPQIhbjs4BXq5Q7",
+      "name": "jose arias",
+      "phone": "+13473536516",
+      "email": "arias.j0405@gmail.com",
+      "round": 4,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing"
+      ],
+      "tags": [
+        "mentoria",
+        "client.round1.active",
+        "client.round2.active",
+        "payment.failed",
+        "payment missing",
+        "client.round4.active"
+      ],
+      "dateAdded": "2026-05-11"
+    },
+    {
+      "id": "Olh1VMtb8dbiU7H2fN85",
+      "name": "stephanie roa",
+      "phone": "+18482831283",
+      "email": "stephanie.p.roa@gmail.com",
+      "round": 4,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing"
+      ],
+      "tags": [
+        "client.round1.active",
+        "payment.failed",
+        "payment missing",
+        "client.round2.active",
+        "client.round4.active"
+      ],
+      "dateAdded": "2026-05-11"
     },
     {
       "id": "9BoF8uj6QUG1BBSuAi76",
