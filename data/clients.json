@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-12 18:31 UTC",
-  "total": 36,
+  "updated": "2026-08-12 19:42 UTC",
+  "total": 37,
   "clients": [
+    {
+      "id": "EllukTJ2sMU2iQ2djXW8",
+      "name": "steven malave",
+      "phone": "+19393165881",
+      "email": "stevenmalave1985@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-08-02"
+    },
     {
       "id": "6Vh5YvIGX5JXbIRkj8Nw",
       "name": "shandaris lovera",
