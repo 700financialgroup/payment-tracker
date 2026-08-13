@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-13 16:00 UTC",
-  "total": 37,
+  "updated": "2026-08-13 17:08 UTC",
+  "total": 38,
   "clients": [
     {
       "id": "EllukTJ2sMU2iQ2djXW8",
@@ -243,6 +243,23 @@
         "client.round1.active"
       ],
       "dateAdded": "2026-05-22"
+    },
+    {
+      "id": "XuJZwZwQAseeRBWKQSP6",
+      "name": "ray villavicencio govea",
+      "phone": "+17862746855",
+      "email": "ray26.rv@gmail.com",
+      "round": 2,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.unresponsive",
+        "client.round2.active"
+      ],
+      "dateAdded": "2026-07-16"
     },
     {
       "id": "s2AiWS13GoBP7MNClDmD",
