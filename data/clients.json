@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14 15:53 UTC",
+  "updated": "2026-08-14 16:54 UTC",
   "total": 38,
   "clients": [
     {
@@ -148,29 +148,6 @@
         "client.round1.active"
       ],
       "dateAdded": "2026-06-16"
-    },
-    {
-      "id": "QFYVD9WZEL7Tpj1HpOyc",
-      "name": "aneldy cuello",
-      "phone": "+19293404147",
-      "email": "aneldycuello201@gmail.com",
-      "round": 1,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [
-        "payment_missing",
-        "no_show"
-      ],
-      "tags": [
-        "contract signed",
-        "no show to call",
-        "client.round1.active",
-        "payment.failed",
-        "payment missing"
-      ],
-      "dateAdded": "2026-06-15"
     },
     {
       "id": "B35RVYTKYGwHeTzY51Vw",
@@ -579,6 +556,30 @@
         "client.round2.active"
       ],
       "dateAdded": "2026-05-09"
+    },
+    {
+      "id": "QFYVD9WZEL7Tpj1HpOyc",
+      "name": "aneldy cuello",
+      "phone": "+19293404147",
+      "email": "aneldycuello201@gmail.com",
+      "round": 3,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "no_show"
+      ],
+      "tags": [
+        "contract signed",
+        "no show to call",
+        "client.round1.active",
+        "payment.failed",
+        "payment missing",
+        "client.round3.active"
+      ],
+      "dateAdded": "2026-06-15"
     },
     {
       "id": "CtAbN9b6acXGqJQ0RtkG",
