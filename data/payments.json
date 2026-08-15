@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-14 23:49 UTC",
+  "updated": "2026-08-15 01:17 UTC",
   "today_total": 0,
-  "all_time_total": 240390.84,
+  "all_time_total": 240290.84,
   "payments": [
     {
       "id": "zelle_30371602437",
@@ -4439,18 +4439,6 @@
       "amount": 200.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "zelle_29242795199",
-      "date": "2026-05-16",
-      "time": "",
-      "name": "Dacheli Castillo",
-      "amount": 100.0,
-      "status": "received",
-      "platform": "Zelle",
       "ok": true,
       "settled": true,
       "pending": false
