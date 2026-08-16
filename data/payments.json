@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-15 23:46 UTC",
+  "updated": "2026-08-16 01:20 UTC",
   "today_total": 0,
-  "all_time_total": 240290.84,
+  "all_time_total": 239765.84,
   "payments": [
     {
       "id": "zelle_30371602437",
@@ -4372,18 +4372,6 @@
       "pending": false
     },
     {
-      "id": "fb_renewal_20328_2026-05-18",
-      "date": "2026-05-18",
-      "time": "",
-      "name": "Kelvin Pena",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
       "id": "pi_3TY9wwDK4U0438JA1SwT74pQ",
       "date": "2026-05-17",
       "time": "19:02",
@@ -4403,30 +4391,6 @@
       "amount": 100.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_20325_2026-05-17",
-      "date": "2026-05-17",
-      "time": "",
-      "name": "Andrea Beauchamp",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_20327_2026-05-17",
-      "date": "2026-05-17",
-      "time": "",
-      "name": "Melany Mendez",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
