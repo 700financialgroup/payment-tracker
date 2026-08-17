@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17 16:28 UTC",
+  "updated": "2026-08-17 16:58 UTC",
   "total": 40,
   "clients": [
     {
@@ -111,45 +111,6 @@
       "dateAdded": "2026-06-22"
     },
     {
-      "id": "gTUAFc7vUNRfvw3Gbyen",
-      "name": "manuel alejandro merejo",
-      "phone": "+19083385422",
-      "email": "matteohijo1@gmail.com",
-      "round": 1,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
-      "tags": [
-        "contract signed",
-        "client.round1.active"
-      ],
-      "dateAdded": "2026-06-17"
-    },
-    {
-      "id": "2kfMeWLB2nOLq1s5Sef3",
-      "name": "kaleigh garcia",
-      "phone": "+12038088025",
-      "email": "garciakaleigh527@gmail.com",
-      "round": 1,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [
-        "payment_missing"
-      ],
-      "tags": [
-        "payment.failed",
-        "payment missing",
-        "docs uploaded",
-        "mentoria",
-        "client.round1.active"
-      ],
-      "dateAdded": "2026-06-16"
-    },
-    {
       "id": "B35RVYTKYGwHeTzY51Vw",
       "name": "adriana michell valdez moquete",
       "phone": "+12159085229",
@@ -204,22 +165,6 @@
         "client.unresponsive"
       ],
       "dateAdded": "2026-06-01"
-    },
-    {
-      "id": "gttbFi3pufUHQa8G90N4",
-      "name": "aura cacerez",
-      "phone": "+12016866854",
-      "email": "acacerez@outlook.com",
-      "round": 1,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
-      "tags": [
-        "client.round1.active"
-      ],
-      "dateAdded": "2026-05-22"
     },
     {
       "id": "pyEWtrt58g7QZ7K2wXhN",
@@ -459,6 +404,23 @@
       "dateAdded": "2026-05-22"
     },
     {
+      "id": "gttbFi3pufUHQa8G90N4",
+      "name": "aura cacerez",
+      "phone": "+12016866854",
+      "email": "acacerez@outlook.com",
+      "round": 2,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round1.active",
+        "client.round2.active"
+      ],
+      "dateAdded": "2026-05-22"
+    },
+    {
       "id": "eE41kI3qXXSX6e02lE3B",
       "name": "jasmine reynoso",
       "phone": "+19732344514",
@@ -478,23 +440,6 @@
         "client.round2.active"
       ],
       "dateAdded": "2026-05-22"
-    },
-    {
-      "id": "1cPxJ3yVYdz7Muh6g9Ij",
-      "name": "joel colon",
-      "phone": "+13479128491",
-      "email": "joelcc1111@gmail.com",
-      "round": 2,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
-      "tags": [
-        "client.round1.active",
-        "client.round2.active"
-      ],
-      "dateAdded": "2026-05-18"
     },
     {
       "id": "flocYNv26HtD1sKMi9gF",
@@ -597,6 +542,47 @@
         "client.round2.active"
       ],
       "dateAdded": "2026-05-09"
+    },
+    {
+      "id": "gTUAFc7vUNRfvw3Gbyen",
+      "name": "manuel alejandro merejo",
+      "phone": "+19083385422",
+      "email": "matteohijo1@gmail.com",
+      "round": 3,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "contract signed",
+        "client.round1.active",
+        "client.round3.active"
+      ],
+      "dateAdded": "2026-06-17"
+    },
+    {
+      "id": "2kfMeWLB2nOLq1s5Sef3",
+      "name": "kaleigh garcia",
+      "phone": "+12038088025",
+      "email": "garciakaleigh527@gmail.com",
+      "round": 3,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing"
+      ],
+      "tags": [
+        "payment.failed",
+        "payment missing",
+        "docs uploaded",
+        "mentoria",
+        "client.round1.active",
+        "client.round3.active"
+      ],
+      "dateAdded": "2026-06-16"
     },
     {
       "id": "QFYVD9WZEL7Tpj1HpOyc",
@@ -704,6 +690,24 @@
         "client.round4.active"
       ],
       "dateAdded": "2026-05-19"
+    },
+    {
+      "id": "1cPxJ3yVYdz7Muh6g9Ij",
+      "name": "joel colon",
+      "phone": "+13479128491",
+      "email": "joelcc1111@gmail.com",
+      "round": 4,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round1.active",
+        "client.round2.active",
+        "client.round4.active"
+      ],
+      "dateAdded": "2026-05-18"
     },
     {
       "id": "N3pHAgPQIhbjs4BXq5Q7",
