@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17 15:55 UTC",
-  "total": 38,
+  "updated": "2026-08-17 16:28 UTC",
+  "total": 40,
   "clients": [
     {
       "id": "EllukTJ2sMU2iQ2djXW8",
@@ -222,6 +222,29 @@
       "dateAdded": "2026-05-22"
     },
     {
+      "id": "pyEWtrt58g7QZ7K2wXhN",
+      "name": "rafael almonte",
+      "phone": "+18565716010",
+      "email": "raag1425@gmail.com",
+      "round": 2,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "no_show"
+      ],
+      "tags": [
+        "payment.failed",
+        "payment missing",
+        "docs uploaded",
+        "no show to call",
+        "client.round2.active"
+      ],
+      "dateAdded": "2026-07-16"
+    },
+    {
       "id": "XuJZwZwQAseeRBWKQSP6",
       "name": "ray villavicencio govea",
       "phone": "+17862746855",
@@ -237,6 +260,24 @@
         "client.round2.active"
       ],
       "dateAdded": "2026-07-16"
+    },
+    {
+      "id": "9e9xL9HKmMhTLUBmG9Tp",
+      "name": "bomeilyn reyes jimenez",
+      "phone": "+19143561325",
+      "email": "b.reyes04@hotmail.com",
+      "round": 2,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "contract signed",
+        "client.unresponsive",
+        "client.round2.active"
+      ],
+      "dateAdded": "2026-07-15"
     },
     {
       "id": "s2AiWS13GoBP7MNClDmD",
