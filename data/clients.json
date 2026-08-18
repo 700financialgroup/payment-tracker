@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-18 15:33 UTC",
-  "total": 41,
+  "updated": "2026-08-18 16:32 UTC",
+  "total": 42,
   "clients": [
+    {
+      "id": "msk2LU1Yy0UpYtn7MJ8S",
+      "name": "noelia marmol frias",
+      "phone": "+13473170196",
+      "email": "noeliafrias809@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-08-13"
+    },
     {
       "id": "EllukTJ2sMU2iQ2djXW8",
       "name": "steven malave",
