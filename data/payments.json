@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-17 23:48 UTC",
+  "updated": "2026-08-18 01:15 UTC",
   "today_total": 0,
-  "all_time_total": 239765.84,
+  "all_time_total": 239490.84,
   "payments": [
     {
       "id": "zelle_30371602437",
@@ -4295,30 +4295,6 @@
       "amount": 175.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "zelle_29282610256",
-      "date": "2026-05-19",
-      "time": "",
-      "name": "Casilda Inoa Guzman",
-      "amount": 100.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_20399_2026-05-19",
-      "date": "2026-05-19",
-      "time": "",
-      "name": "Dahianny Carolina Jimenez De Altagracias",
-      "amount": 175.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
