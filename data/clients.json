@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18 14:35 UTC",
-  "total": 40,
+  "updated": "2026-08-18 15:33 UTC",
+  "total": 41,
   "clients": [
     {
       "id": "EllukTJ2sMU2iQ2djXW8",
@@ -628,6 +628,26 @@
         "client.round3.active"
       ],
       "dateAdded": "2026-06-09"
+    },
+    {
+      "id": "iHRoL6S9NVrIwZ2H75a6",
+      "name": "nathaly martinez",
+      "phone": "+13472237238",
+      "email": "nathy2131@gmail.com",
+      "round": 3,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show"
+      ],
+      "tags": [
+        "no show to call",
+        "contract signed",
+        "client.round3.active"
+      ],
+      "dateAdded": "2026-06-01"
     },
     {
       "id": "Nz0vrVrXkfLVHe1EbYPb",
