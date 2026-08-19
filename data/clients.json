@@ -1,7 +1,41 @@
 {
-  "updated": "2026-08-19 12:48 UTC",
-  "total": 44,
+  "updated": "2026-08-19 13:48 UTC",
+  "total": 46,
   "clients": [
+    {
+      "id": "llxE8hTpoUEUV6MLQg9f",
+      "name": "lisa javier",
+      "phone": "+14845384443",
+      "email": "ljavier1925@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "docs uploaded",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-08-17"
+    },
+    {
+      "id": "ZLVc5RFzdnDxxcJQkrQ8",
+      "name": "raquel vallejo",
+      "phone": "+13212627251",
+      "email": "adelmisxxx@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "docs uploaded",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-08-17"
+    },
     {
       "id": "T6mENlhzvNtzv6wi2y0I",
       "name": "angel fernandez",
