@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20 15:39 UTC",
-  "total": 54,
+  "updated": "2026-08-20 16:37 UTC",
+  "total": 58,
   "clients": [
     {
       "id": "llxE8hTpoUEUV6MLQg9f",
@@ -86,6 +86,56 @@
       "dateAdded": "2026-08-12"
     },
     {
+      "id": "g2N5oQ6pvBvqwWLSl0yK",
+      "name": "alfredo martinez",
+      "phone": "+13475996349",
+      "email": "tempoalfredo0114@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-08-10"
+    },
+    {
+      "id": "doUfz79WfxFybKg2aSIz",
+      "name": "mary de jesus",
+      "phone": "+13474656331",
+      "email": "mary0418.mdj@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "docs uploaded",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-08-08"
+    },
+    {
+      "id": "zcezYMxtAK4bVSZxlaMN",
+      "name": "jan pagan",
+      "phone": "+14706427306",
+      "email": "janpaul34@icloud.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "contract signed",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-08-03"
+    },
+    {
       "id": "EllukTJ2sMU2iQ2djXW8",
       "name": "steven malave",
       "phone": "+19393165881",
@@ -100,6 +150,25 @@
         "client.round1.active"
       ],
       "dateAdded": "2026-08-02"
+    },
+    {
+      "id": "blCT8HxtYyHp1e7RXfkc",
+      "name": "anny balbuena de martinez",
+      "phone": "+13475993658",
+      "email": "annyalfredo1693@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show"
+      ],
+      "tags": [
+        "no show to call",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-07-27"
     },
     {
       "id": "6Vh5YvIGX5JXbIRkj8Nw",
@@ -141,24 +210,6 @@
       "tags": [
         "no show to call",
         "contract signed",
-        "client.round1.active"
-      ],
-      "dateAdded": "2026-07-13"
-    },
-    {
-      "id": "dRK9jQKgOsd71beX3Ptk",
-      "name": "carolina costa",
-      "phone": "+19412898567",
-      "email": "crlacosta1412@gmail.com",
-      "round": 1,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
-      "tags": [
-        "contract signed",
-        "client.unresponsive",
         "client.round1.active"
       ],
       "dateAdded": "2026-07-13"
@@ -382,6 +433,25 @@
         "client.round2.active"
       ],
       "dateAdded": "2026-07-15"
+    },
+    {
+      "id": "dRK9jQKgOsd71beX3Ptk",
+      "name": "carolina costa",
+      "phone": "+19412898567",
+      "email": "crlacosta1412@gmail.com",
+      "round": 2,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "contract signed",
+        "client.unresponsive",
+        "client.round1.active",
+        "client.round2.active"
+      ],
+      "dateAdded": "2026-07-13"
     },
     {
       "id": "s2AiWS13GoBP7MNClDmD",
