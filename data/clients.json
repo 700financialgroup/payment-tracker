@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20 11:36 UTC",
-  "total": 46,
+  "updated": "2026-08-20 12:51 UTC",
+  "total": 52,
   "clients": [
     {
       "id": "llxE8hTpoUEUV6MLQg9f",
@@ -124,6 +124,79 @@
         "client.round1.active"
       ],
       "dateAdded": "2026-07-22"
+    },
+    {
+      "id": "Dsb3mH0Cpjp0uEnp5bFI",
+      "name": "cindy reyes",
+      "phone": "+17252270316",
+      "email": "reyescindy2790@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show"
+      ],
+      "tags": [
+        "no show to call",
+        "contract signed",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-07-13"
+    },
+    {
+      "id": "dRK9jQKgOsd71beX3Ptk",
+      "name": "carolina costa",
+      "phone": "+19412898567",
+      "email": "crlacosta1412@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "contract signed",
+        "client.unresponsive",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-07-13"
+    },
+    {
+      "id": "dRbxr0Yn9dQGNnI65516",
+      "name": "emily garcia",
+      "phone": "+19739688063",
+      "email": "eggarcia024@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "docs uploaded",
+        "client.unresponsive",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-07-12"
+    },
+    {
+      "id": "wZAOplTV9m5DPUiges7A",
+      "name": "milagros altagracia abreu de pichardo",
+      "phone": "+12408603706",
+      "email": "milagrosabreu16@hotmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "docs uploaded",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-07-09"
     },
     {
       "id": "kJRNUHEwyS9tntvTZMJD",
@@ -328,6 +401,43 @@
         "client.round2.active"
       ],
       "dateAdded": "2026-07-10"
+    },
+    {
+      "id": "aDyk8A6EohteIvDBb8sc",
+      "name": "maria tavarez",
+      "phone": "+17323510916",
+      "email": "mtavarez74@gmail.com",
+      "round": 2,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "doc pending spanish",
+        "docs uploaded",
+        "client.unresponsive",
+        "client.round2.active"
+      ],
+      "dateAdded": "2026-07-04"
+    },
+    {
+      "id": "OuSVMUBInyx1zrVHOEWT",
+      "name": "jazmin fernandez",
+      "phone": "+14846559664",
+      "email": "labayfernandez142@gmail.com",
+      "round": 2,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "docs uploaded",
+        "client.unresponsive",
+        "client.round2.active"
+      ],
+      "dateAdded": "2026-06-25"
     },
     {
       "id": "A2kCEXo6EjJNGdGrMZNO",
