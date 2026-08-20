@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20 12:51 UTC",
-  "total": 52,
+  "updated": "2026-08-20 13:48 UTC",
+  "total": 54,
   "clients": [
     {
       "id": "llxE8hTpoUEUV6MLQg9f",
@@ -440,6 +440,29 @@
       "dateAdded": "2026-06-25"
     },
     {
+      "id": "FxUfLbkx3VYeKCSQCiI8",
+      "name": "rosalba n\u00fa\u00f1ez",
+      "phone": "+14015360092",
+      "email": "rosita.rosariox@icloud.com",
+      "round": 2,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "no_show"
+      ],
+      "tags": [
+        "no show to call",
+        "payment.failed",
+        "payment missing",
+        "docs uploaded",
+        "client.round2.active"
+      ],
+      "dateAdded": "2026-06-13"
+    },
+    {
       "id": "A2kCEXo6EjJNGdGrMZNO",
       "name": "wilfred castillo",
       "phone": "+19179466584",
@@ -838,6 +861,29 @@
       "tags": [
         "no show to call",
         "contract signed",
+        "client.round3.active"
+      ],
+      "dateAdded": "2026-06-01"
+    },
+    {
+      "id": "86v2liKnJvlWVmak0XCq",
+      "name": "jose luis sierra",
+      "phone": "+14015482123",
+      "email": "joseluis.sierra63@gmail.com",
+      "round": 3,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "no_show"
+      ],
+      "tags": [
+        "no show to call",
+        "docs uploaded",
+        "payment.failed",
+        "payment missing",
         "client.round3.active"
       ],
       "dateAdded": "2026-06-01"
