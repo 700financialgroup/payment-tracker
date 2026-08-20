@@ -1,8 +1,20 @@
 {
-  "updated": "2026-08-20 20:29 UTC",
+  "updated": "2026-08-20 20:59 UTC",
   "today_total": 0,
-  "all_time_total": 233109.84,
+  "all_time_total": 239215.84,
   "payments": [
+    {
+      "id": "zelle_30371602437",
+      "date": "2026-08-11",
+      "time": "",
+      "name": "Crusita Cosmetics Llc",
+      "amount": 1500.0,
+      "status": "received",
+      "platform": "Zelle",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "zelle_30222981976",
       "date": "2026-07-31",
@@ -520,6 +532,18 @@
       "pending": false
     },
     {
+      "id": "fb_renewal_22510_2026-07-10",
+      "date": "2026-07-10",
+      "time": "",
+      "name": "Elizabeth Bonilla",
+      "amount": 175.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
       "id": "pi_3TrMUFDK4U0438JA14EKeGsY",
       "date": "2026-07-09",
       "time": "18:15",
@@ -601,6 +625,18 @@
       "platform": "Stripe",
       "ok": false,
       "settled": false,
+      "pending": false
+    },
+    {
+      "id": "fb_renewal_22352_2026-07-07",
+      "date": "2026-07-07",
+      "time": "",
+      "name": "Inmaculada Rodriguez",
+      "amount": 175.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
       "pending": false
     },
     {
@@ -868,6 +904,18 @@
       "pending": false
     },
     {
+      "id": "fb_sale_22145_2026-07-02",
+      "date": "2026-07-02",
+      "time": "",
+      "name": "Zairis Pena",
+      "amount": 175.0,
+      "status": "New Sale",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
       "id": "pi_3ToWq3DK4U0438JA1NuybOnr",
       "date": "2026-07-01",
       "time": "22:42",
@@ -901,6 +949,30 @@
       "platform": "Stripe",
       "ok": false,
       "settled": false,
+      "pending": false
+    },
+    {
+      "id": "fb_sale_22067_2026-07-01",
+      "date": "2026-07-01",
+      "time": "",
+      "name": "Cherly Alberty Dur\u00e1n",
+      "amount": 175.0,
+      "status": "New Sale",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "fb_sale_22072_2026-07-01",
+      "date": "2026-07-01",
+      "time": "",
+      "name": "Rosdany Checo",
+      "amount": 200.0,
+      "status": "New Sale",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
       "pending": false
     },
     {
@@ -959,6 +1031,42 @@
       "amount": 175.0,
       "status": "succeeded",
       "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "fb_sale_22044_2026-06-30",
+      "date": "2026-06-30",
+      "time": "",
+      "name": "Danny Beltre",
+      "amount": 1.0,
+      "status": "New Sale",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "fb_sale_22048_2026-06-30",
+      "date": "2026-06-30",
+      "time": "",
+      "name": "Rosdany Checo",
+      "amount": 200.0,
+      "status": "New Sale",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "fb_sale_22049_2026-06-30",
+      "date": "2026-06-30",
+      "time": "",
+      "name": "Rosdany Checo",
+      "amount": 200.0,
+      "status": "New Sale",
+      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
@@ -1468,6 +1576,18 @@
       "pending": false
     },
     {
+      "id": "fb_renewal_21818_2026-06-24",
+      "date": "2026-06-24",
+      "time": "",
+      "name": "Adrian Marte Mendoza",
+      "amount": 175.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
       "id": "pi_3Tle7vDK4U0438JA1J82JwVi",
       "date": "2026-06-23",
       "time": "23:53",
@@ -1564,6 +1684,18 @@
       "pending": false
     },
     {
+      "id": "fb_sale_21733_2026-06-23",
+      "date": "2026-06-23",
+      "time": "",
+      "name": "Kelvin Pena",
+      "amount": 175.0,
+      "status": "New Sale",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
       "id": "pi_3TlD7HDK4U0438JA1Oxn3GCM",
       "date": "2026-06-22",
       "time": "19:02",
@@ -1621,6 +1753,18 @@
       "platform": "Stripe",
       "ok": false,
       "settled": false,
+      "pending": false
+    },
+    {
+      "id": "fb_renewal_21721_2026-06-22",
+      "date": "2026-06-22",
+      "time": "",
+      "name": "Pedro Rodriguez",
+      "amount": 160.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
       "pending": false
     },
     {
@@ -1996,6 +2140,30 @@
       "pending": false
     },
     {
+      "id": "fb_renewal_21493_2026-06-16",
+      "date": "2026-06-16",
+      "time": "",
+      "name": "Andrea Beauchamp",
+      "amount": 175.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "fb_renewal_21504_2026-06-16",
+      "date": "2026-06-16",
+      "time": "",
+      "name": "Melany Mendez",
+      "amount": 175.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
       "id": "pi_3TiinBDK4U0438JA0oKGDIrP",
       "date": "2026-06-15",
       "time": "22:15",
@@ -2140,6 +2308,18 @@
       "pending": false
     },
     {
+      "id": "fb_renewal_21438_2026-06-15",
+      "date": "2026-06-15",
+      "time": "",
+      "name": "Luis Reyes",
+      "amount": 175.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
       "id": "pi_3TiJHlDK4U0438JA0eoVnJZc",
       "date": "2026-06-14",
       "time": "19:01",
@@ -2183,6 +2363,30 @@
       "amount": 175.0,
       "status": "succeeded",
       "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "fb_renewal_21377_2026-06-13",
+      "date": "2026-06-13",
+      "time": "",
+      "name": "Tirso Blanco",
+      "amount": 160.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "fb_renewal_21392_2026-06-13",
+      "date": "2026-06-13",
+      "time": "",
+      "name": "Carolin Romero",
+      "amount": 160.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
@@ -2416,6 +2620,18 @@
       "pending": false
     },
     {
+      "id": "fb_renewal_21248_2026-06-10",
+      "date": "2026-06-10",
+      "time": "",
+      "name": "Elizabeth Bonilla",
+      "amount": 175.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
       "id": "pi_3TgZHTDK4U0438JA00nRauTB",
       "date": "2026-06-09",
       "time": "23:42",
@@ -2536,6 +2752,18 @@
       "pending": false
     },
     {
+      "id": "fb_renewal_21184_2026-06-08",
+      "date": "2026-06-08",
+      "time": "",
+      "name": "Lisabel Lopez",
+      "amount": 160.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
       "id": "pi_3TfqY1DK4U0438JA1vDTSaug",
       "date": "2026-06-07",
       "time": "23:56",
@@ -2591,6 +2819,18 @@
       "amount": 175.0,
       "status": "succeeded",
       "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "fb_renewal_21149_2026-06-07",
+      "date": "2026-06-07",
+      "time": "",
+      "name": "Inmaculada Rodriguez",
+      "amount": 175.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
@@ -2752,6 +2992,18 @@
       "pending": false
     },
     {
+      "id": "fb_renewal_21091_2026-06-05",
+      "date": "2026-06-05",
+      "time": "",
+      "name": "Rosanna Tavares",
+      "amount": 160.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
       "id": "pi_3TejqpDK4U0438JA2WfJEoEk",
       "date": "2026-06-04",
       "time": "22:34",
@@ -2843,6 +3095,18 @@
       "amount": 175.0,
       "status": "succeeded",
       "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "fb_renewal_21058_2026-06-04",
+      "date": "2026-06-04",
+      "time": "",
+      "name": "Melissa Roman",
+      "amount": 175.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
@@ -3340,6 +3604,30 @@
       "pending": false
     },
     {
+      "id": "fb_renewal_20850_2026-05-29",
+      "date": "2026-05-29",
+      "time": "",
+      "name": "Winiffer Ramirez",
+      "amount": 160.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "fb_renewal_20856_2026-05-29",
+      "date": "2026-05-29",
+      "time": "",
+      "name": "Elianny Estevez",
+      "amount": 175.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
       "id": "pi_3TcD1jDK4U0438JA2WJcABRF",
       "date": "2026-05-28",
       "time": "23:07",
@@ -3457,6 +3745,30 @@
       "platform": "Stripe",
       "ok": false,
       "settled": false,
+      "pending": false
+    },
+    {
+      "id": "fb_renewal_20795_2026-05-28",
+      "date": "2026-05-28",
+      "time": "",
+      "name": "Alexander Vasquez",
+      "amount": 160.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "fb_renewal_20815_2026-05-28",
+      "date": "2026-05-28",
+      "time": "",
+      "name": "Kembely Galan",
+      "amount": 100.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
       "pending": false
     },
     {
@@ -3700,6 +4012,18 @@
       "pending": false
     },
     {
+      "id": "fb_renewal_20625_2026-05-24",
+      "date": "2026-05-24",
+      "time": "",
+      "name": "Adrian Marte Mendoza",
+      "amount": 175.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
       "id": "pi_3TaImaDK4U0438JA1LKDfKQ4",
       "date": "2026-05-23",
       "time": "16:52",
@@ -3707,6 +4031,30 @@
       "amount": 200.0,
       "status": "succeeded",
       "platform": "Stripe",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "fb_renewal_20567_2026-05-23",
+      "date": "2026-05-23",
+      "time": "",
+      "name": "Luis Gonzalez",
+      "amount": 175.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "fb_renewal_20595_2026-05-23",
+      "date": "2026-05-23",
+      "time": "",
+      "name": "Pedro Rodriguez",
+      "amount": 160.0,
+      "status": "Renewal",
+      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
