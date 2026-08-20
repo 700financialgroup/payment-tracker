@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-19 23:49 UTC",
+  "updated": "2026-08-20 01:16 UTC",
   "today_total": 0,
-  "all_time_total": 239490.84,
+  "all_time_total": 239215.84,
   "payments": [
     {
       "id": "zelle_30371602437",
@@ -4175,30 +4175,6 @@
       "amount": 175.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "zelle_29300202226",
-      "date": "2026-05-21",
-      "time": "",
-      "name": "Leandra Urena",
-      "amount": 100.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_20510_2026-05-21",
-      "date": "2026-05-21",
-      "time": "",
-      "name": "Mariela Tineo",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
