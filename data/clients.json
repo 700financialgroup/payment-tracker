@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21 19:52 UTC",
-  "total": 60,
+  "updated": "2026-08-21 20:26 UTC",
+  "total": 62,
   "clients": [
     {
       "id": "sKds3GmtG2koxhVwfFM7",
@@ -318,6 +318,30 @@
       "dateAdded": "2026-06-28"
     },
     {
+      "id": "i4ZPROh9HzCybDxHTiED",
+      "name": "angelmy diaz",
+      "phone": "+13476523638",
+      "email": "dtnaimee@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing",
+        "no_show"
+      ],
+      "tags": [
+        "no show to call",
+        "deposit paid",
+        "client.unresponsive",
+        "payment.failed",
+        "payment missing",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-06-26"
+    },
+    {
       "id": "WpN4dakQmrKKdgQAFAq8",
       "name": "jeralynn torres",
       "phone": "+19178188093",
@@ -391,6 +415,23 @@
         "client.unresponsive"
       ],
       "dateAdded": "2026-06-01"
+    },
+    {
+      "id": "u9WrTRlQgtSAbMqlhweV",
+      "name": "rosanny disla",
+      "phone": "+13023591661",
+      "email": "rosanny_disla@hotmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "deposit paid",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-05-14"
     },
     {
       "id": "pyEWtrt58g7QZ7K2wXhN",
