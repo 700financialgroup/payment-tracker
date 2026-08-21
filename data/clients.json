@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-21 13:46 UTC",
-  "total": 58,
+  "updated": "2026-08-21 14:36 UTC",
+  "total": 60,
   "clients": [
+    {
+      "id": "sKds3GmtG2koxhVwfFM7",
+      "name": "leslye hernandez sime",
+      "phone": "+18483158903",
+      "email": "leslyeh135@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-08-19"
+    },
+    {
+      "id": "lJJS9nlkx6EAfs6wL05a",
+      "name": "jovanna garc\u00eda",
+      "phone": "+14013067289",
+      "email": "jovannagarcia@me.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "docs uploaded",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-08-18"
+    },
     {
       "id": "llxE8hTpoUEUV6MLQg9f",
       "name": "lisa javier",
