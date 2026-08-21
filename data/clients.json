@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21 14:36 UTC",
+  "updated": "2026-08-21 15:38 UTC",
   "total": 60,
   "clients": [
     {
@@ -335,23 +335,6 @@
         "no show to call"
       ],
       "dateAdded": "2026-06-23"
-    },
-    {
-      "id": "d8lstxUdnXuSXErbJxis",
-      "name": "luceidy torres alvarado",
-      "phone": "+19087272625",
-      "email": "ltalvara2@gmail.com",
-      "round": 1,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
-      "tags": [
-        "docs uploaded",
-        "client.round1.active"
-      ],
-      "dateAdded": "2026-06-22"
     },
     {
       "id": "B35RVYTKYGwHeTzY51Vw",
@@ -805,29 +788,6 @@
       "dateAdded": "2026-05-13"
     },
     {
-      "id": "CJgvCjPr9VGiTns23vmR",
-      "name": "denysse jimenez",
-      "phone": "+18622648491",
-      "email": "dljimenez0904@gmail.com",
-      "round": 2,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [
-        "payment_missing"
-      ],
-      "tags": [
-        "contract signed",
-        "client.round1.active",
-        "payment.failed",
-        "payment missing",
-        "client.round2",
-        "client.round2.active"
-      ],
-      "dateAdded": "2026-05-11"
-    },
-    {
       "id": "F6XkXsx5ZCQC04xEs407",
       "name": "germaly m\u00e9ndez",
       "phone": "+18455047640",
@@ -864,6 +824,24 @@
         "client.round2.active"
       ],
       "dateAdded": "2026-05-09"
+    },
+    {
+      "id": "d8lstxUdnXuSXErbJxis",
+      "name": "luceidy torres alvarado",
+      "phone": "+19087272625",
+      "email": "ltalvara2@gmail.com",
+      "round": 3,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "docs uploaded",
+        "client.round1.active",
+        "client.round3.active"
+      ],
+      "dateAdded": "2026-06-22"
     },
     {
       "id": "gTUAFc7vUNRfvw3Gbyen",
@@ -1114,6 +1092,30 @@
         "client.round1.active",
         "payment.failed",
         "payment missing",
+        "client.round2.active",
+        "client.round4.active"
+      ],
+      "dateAdded": "2026-05-11"
+    },
+    {
+      "id": "CJgvCjPr9VGiTns23vmR",
+      "name": "denysse jimenez",
+      "phone": "+18622648491",
+      "email": "dljimenez0904@gmail.com",
+      "round": 4,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing"
+      ],
+      "tags": [
+        "contract signed",
+        "client.round1.active",
+        "payment.failed",
+        "payment missing",
+        "client.round2",
         "client.round2.active",
         "client.round4.active"
       ],
