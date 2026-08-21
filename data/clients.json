@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21 15:38 UTC",
+  "updated": "2026-08-21 16:35 UTC",
   "total": 60,
   "clients": [
     {
@@ -1011,30 +1011,6 @@
       "dateAdded": "2026-06-08"
     },
     {
-      "id": "YvfrVaxJEkSFOGUK83Tp",
-      "name": "ronny ceballos",
-      "phone": "+17177530765",
-      "email": "ceballoslesly1320@gmail.com",
-      "round": 4,
-      "language": "Spanish",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [
-        "no_show",
-        "idiq_fail"
-      ],
-      "tags": [
-        "client.round3",
-        "no show to call",
-        "idiq fail",
-        "client.round2",
-        "language: spanish",
-        "client.round4.active"
-      ],
-      "dateAdded": "2026-05-19"
-    },
-    {
       "id": "1cPxJ3yVYdz7Muh6g9Ij",
       "name": "joel colon",
       "phone": "+13479128491",
@@ -1142,6 +1118,31 @@
         "client.round6.active"
       ],
       "dateAdded": "2026-05-26"
+    },
+    {
+      "id": "YvfrVaxJEkSFOGUK83Tp",
+      "name": "ronny ceballos",
+      "phone": "+17177530765",
+      "email": "ceballoslesly1320@gmail.com",
+      "round": 6,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show",
+        "idiq_fail"
+      ],
+      "tags": [
+        "client.round3",
+        "no show to call",
+        "idiq fail",
+        "client.round2",
+        "language: spanish",
+        "client.round4.active",
+        "client.round6.active"
+      ],
+      "dateAdded": "2026-05-19"
     },
     {
       "id": "aIaWBeiQ3h2zsvRYa910",
