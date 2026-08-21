@@ -1,8 +1,32 @@
 {
-  "updated": "2026-08-21 14:36 UTC",
-  "today_total": 0,
-  "all_time_total": 239040.84,
+  "updated": "2026-08-21 15:38 UTC",
+  "today_total": 68.52,
+  "all_time_total": 239109.36,
   "payments": [
+    {
+      "id": "zelle_30497543395",
+      "date": "2026-08-21",
+      "time": "",
+      "name": "David Ramirez",
+      "amount": 49.02,
+      "status": "received",
+      "platform": "Zelle",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
+    {
+      "id": "zelle_30497631009",
+      "date": "2026-08-21",
+      "time": "",
+      "name": "David Ramirez",
+      "amount": 19.5,
+      "status": "received",
+      "platform": "Zelle",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "zelle_30371602437",
       "date": "2026-08-11",
