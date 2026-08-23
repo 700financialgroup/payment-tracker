@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-22 23:48 UTC",
+  "updated": "2026-08-23 01:21 UTC",
   "today_total": 0,
-  "all_time_total": 238949.36,
+  "all_time_total": 238774.36,
   "payments": [
     {
       "id": "zelle_30497543395",
@@ -4031,18 +4031,6 @@
       "amount": 175.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_20625_2026-05-24",
-      "date": "2026-05-24",
-      "time": "",
-      "name": "Adrian Marte Mendoza",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
