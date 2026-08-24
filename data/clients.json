@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24 14:48 UTC",
+  "updated": "2026-08-24 15:40 UTC",
   "total": 62,
   "clients": [
     {
@@ -266,23 +266,6 @@
       "dateAdded": "2026-07-12"
     },
     {
-      "id": "wZAOplTV9m5DPUiges7A",
-      "name": "milagros altagracia abreu de pichardo",
-      "phone": "+12408603706",
-      "email": "milagrosabreu16@hotmail.com",
-      "round": 1,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
-      "tags": [
-        "docs uploaded",
-        "client.round1.active"
-      ],
-      "dateAdded": "2026-07-09"
-    },
-    {
       "id": "kJRNUHEwyS9tntvTZMJD",
       "name": "joseph diaz",
       "phone": "+14846619131",
@@ -340,25 +323,6 @@
         "client.round1.active"
       ],
       "dateAdded": "2026-06-26"
-    },
-    {
-      "id": "WpN4dakQmrKKdgQAFAq8",
-      "name": "jeralynn torres",
-      "phone": "+19178188093",
-      "email": "jeralynntorres0108@gmail.com",
-      "round": 1,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [
-        "no_show"
-      ],
-      "tags": [
-        "client.round1.active",
-        "no show to call"
-      ],
-      "dateAdded": "2026-06-23"
     },
     {
       "id": "B35RVYTKYGwHeTzY51Vw",
@@ -530,6 +494,24 @@
       "dateAdded": "2026-07-10"
     },
     {
+      "id": "wZAOplTV9m5DPUiges7A",
+      "name": "milagros altagracia abreu de pichardo",
+      "phone": "+12408603706",
+      "email": "milagrosabreu16@hotmail.com",
+      "round": 2,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "docs uploaded",
+        "client.round1.active",
+        "client.round2.active"
+      ],
+      "dateAdded": "2026-07-09"
+    },
+    {
       "id": "aDyk8A6EohteIvDBb8sc",
       "name": "maria tavarez",
       "phone": "+17323510916",
@@ -606,28 +588,6 @@
         "client.round2.active"
       ],
       "dateAdded": "2026-06-09"
-    },
-    {
-      "id": "k1WV9SQkiU36nkwkDuah",
-      "name": "nusyalys alexandra flores",
-      "phone": "+14074608352",
-      "email": "nusyalysf0@gmail.com",
-      "round": 2,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [
-        "payment_missing"
-      ],
-      "tags": [
-        "payment.failed",
-        "payment missing",
-        "docs uploaded",
-        "client.round1.active",
-        "client.round2.active"
-      ],
-      "dateAdded": "2026-06-08"
     },
     {
       "id": "DY1p7OQJFTz7iMqytgjM",
@@ -867,6 +827,26 @@
       "dateAdded": "2026-05-09"
     },
     {
+      "id": "WpN4dakQmrKKdgQAFAq8",
+      "name": "jeralynn torres",
+      "phone": "+19178188093",
+      "email": "jeralynntorres0108@gmail.com",
+      "round": 3,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show"
+      ],
+      "tags": [
+        "client.round1.active",
+        "no show to call",
+        "client.round3.active"
+      ],
+      "dateAdded": "2026-06-23"
+    },
+    {
       "id": "d8lstxUdnXuSXErbJxis",
       "name": "luceidy torres alvarado",
       "phone": "+19087272625",
@@ -966,6 +946,28 @@
         "client.round3.active"
       ],
       "dateAdded": "2026-06-09"
+    },
+    {
+      "id": "k1WV9SQkiU36nkwkDuah",
+      "name": "nusyalys alexandra flores",
+      "phone": "+14074608352",
+      "email": "nusyalysf0@gmail.com",
+      "round": 3,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing"
+      ],
+      "tags": [
+        "payment.failed",
+        "payment missing",
+        "docs uploaded",
+        "client.round1.active",
+        "client.round3.active"
+      ],
+      "dateAdded": "2026-06-08"
     },
     {
       "id": "iHRoL6S9NVrIwZ2H75a6",
