@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-25 21:39 UTC",
-  "total": 63,
+  "updated": "2026-08-25 22:28 UTC",
+  "total": 64,
   "clients": [
+    {
+      "id": "Wp96G5QcflHuhgPmq6JK",
+      "name": "andrew nunez",
+      "phone": "+15703285924",
+      "email": "drzkd@aim.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "contract signed",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-08-24"
+    },
     {
       "id": "BmM6XakE3tGfrkWfj0wZ",
       "name": "ronelly collado",
