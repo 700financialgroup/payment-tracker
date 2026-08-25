@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25 15:43 UTC",
+  "updated": "2026-08-25 16:42 UTC",
   "total": 63,
   "clients": [
     {
@@ -1161,28 +1161,6 @@
       "dateAdded": "2026-05-11"
     },
     {
-      "id": "9BoF8uj6QUG1BBSuAi76",
-      "name": "nayelys castillo",
-      "phone": "+17866082694",
-      "email": "nayelys.castillo@icloud.com",
-      "round": 6,
-      "language": "Spanish",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [
-        "idiq_fail"
-      ],
-      "tags": [
-        "client.round5",
-        "booked appointment",
-        "language: spanish",
-        "idiq fail",
-        "client.round6.active"
-      ],
-      "dateAdded": "2026-05-26"
-    },
-    {
       "id": "YvfrVaxJEkSFOGUK83Tp",
       "name": "ronny ceballos",
       "phone": "+17177530765",
@@ -1223,6 +1201,28 @@
         "client.round7.active"
       ],
       "dateAdded": "2026-06-16"
+    },
+    {
+      "id": "9BoF8uj6QUG1BBSuAi76",
+      "name": "nayelys castillo",
+      "phone": "+17866082694",
+      "email": "nayelys.castillo@icloud.com",
+      "round": 7,
+      "language": "Spanish",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "idiq_fail"
+      ],
+      "tags": [
+        "client.round5",
+        "booked appointment",
+        "language: spanish",
+        "idiq fail",
+        "client.round7.active"
+      ],
+      "dateAdded": "2026-05-26"
     }
   ]
 }
