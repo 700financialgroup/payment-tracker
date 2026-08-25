@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25 23:00 UTC",
+  "updated": "2026-08-25 23:30 UTC",
   "total": 64,
   "clients": [
     {
@@ -15,7 +15,8 @@
       "flags": [],
       "tags": [
         "contract signed",
-        "client.round1.active"
+        "client.round1.active",
+        "mentoria"
       ],
       "dateAdded": "2026-08-24"
     },
