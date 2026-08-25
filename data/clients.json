@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25 16:42 UTC",
+  "updated": "2026-08-25 17:32 UTC",
   "total": 63,
   "clients": [
     {
@@ -551,24 +551,6 @@
       "dateAdded": "2026-07-04"
     },
     {
-      "id": "OuSVMUBInyx1zrVHOEWT",
-      "name": "jazmin fernandez",
-      "phone": "+14846559664",
-      "email": "labayfernandez142@gmail.com",
-      "round": 2,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
-      "tags": [
-        "docs uploaded",
-        "client.unresponsive",
-        "client.round2.active"
-      ],
-      "dateAdded": "2026-06-25"
-    },
-    {
       "id": "FxUfLbkx3VYeKCSQCiI8",
       "name": "rosalba n\u00fa\u00f1ez",
       "phone": "+14015360092",
@@ -845,6 +827,24 @@
         "client.round2.active"
       ],
       "dateAdded": "2026-05-09"
+    },
+    {
+      "id": "OuSVMUBInyx1zrVHOEWT",
+      "name": "jazmin fernandez",
+      "phone": "+14846559664",
+      "email": "labayfernandez142@gmail.com",
+      "round": 3,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "docs uploaded",
+        "client.unresponsive",
+        "client.round3.active"
+      ],
+      "dateAdded": "2026-06-25"
     },
     {
       "id": "WpN4dakQmrKKdgQAFAq8",
