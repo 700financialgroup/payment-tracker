@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26 13:10 UTC",
-  "total": 65,
+  "updated": "2026-08-26 14:17 UTC",
+  "total": 67,
   "clients": [
     {
       "id": "Wp96G5QcflHuhgPmq6JK",
@@ -38,6 +38,22 @@
       "dateAdded": "2026-08-21"
     },
     {
+      "id": "aG85uMZyZydPRnNzcxJx",
+      "name": "julissa lisbeth peralta de marmol",
+      "phone": "+15166884200",
+      "email": "yulissa3104@hotmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-08-21"
+    },
+    {
       "id": "sKds3GmtG2koxhVwfFM7",
       "name": "leslye hernandez sime",
       "phone": "+18483158903",
@@ -52,6 +68,24 @@
         "client.round1.active"
       ],
       "dateAdded": "2026-08-19"
+    },
+    {
+      "id": "8Yj5xOZPFZVYFAGv9dEv",
+      "name": "dahiana montes",
+      "phone": "+19788025628",
+      "email": "dahianamontes357@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "docs uploaded",
+        "idiq complete",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-08-18"
     },
     {
       "id": "lJJS9nlkx6EAfs6wL05a",
@@ -69,7 +103,8 @@
       "tags": [
         "docs uploaded",
         "client.round1.active",
-        "no show to call"
+        "no show to call",
+        "client.unresponsive"
       ],
       "dateAdded": "2026-08-18"
     },
@@ -306,6 +341,26 @@
         "client.round1.active"
       ],
       "dateAdded": "2026-07-12"
+    },
+    {
+      "id": "aDyk8A6EohteIvDBb8sc",
+      "name": "maria tavarez",
+      "phone": "+17323510916",
+      "email": "mtavarez74@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "doc pending spanish",
+        "docs uploaded",
+        "client.unresponsive",
+        "client.round2.active",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-07-04"
     },
     {
       "id": "kJRNUHEwyS9tntvTZMJD",
@@ -551,25 +606,6 @@
         "client.round2.active"
       ],
       "dateAdded": "2026-07-09"
-    },
-    {
-      "id": "aDyk8A6EohteIvDBb8sc",
-      "name": "maria tavarez",
-      "phone": "+17323510916",
-      "email": "mtavarez74@gmail.com",
-      "round": 2,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
-      "tags": [
-        "doc pending spanish",
-        "docs uploaded",
-        "client.unresponsive",
-        "client.round2.active"
-      ],
-      "dateAdded": "2026-07-04"
     },
     {
       "id": "llPq9GEfPDJRZgrPyzlu",
