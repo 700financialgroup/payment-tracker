@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25 23:51 UTC",
-  "total": 64,
+  "updated": "2026-08-26 01:20 UTC",
+  "total": 65,
   "clients": [
     {
       "id": "Wp96G5QcflHuhgPmq6JK",
@@ -361,6 +361,23 @@
         "client.round1.active"
       ],
       "dateAdded": "2026-06-26"
+    },
+    {
+      "id": "p9VUTeoNCFi0HWKTLQal",
+      "name": "claudia sosa",
+      "phone": "+19293160494",
+      "email": "claudiasosa666@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "deposit paid",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-06-18"
     },
     {
       "id": "B35RVYTKYGwHeTzY51Vw",
