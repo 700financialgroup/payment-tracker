@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26 12:00 UTC",
+  "updated": "2026-08-26 13:10 UTC",
   "total": 65,
   "clients": [
     {
@@ -168,7 +168,8 @@
       "platform": "Auth.net",
       "flags": [],
       "tags": [
-        "client.round1.active"
+        "client.round1.active",
+        "client.unresponsive"
       ],
       "dateAdded": "2026-08-10"
     },
@@ -185,7 +186,8 @@
       "flags": [],
       "tags": [
         "docs uploaded",
-        "client.round1.active"
+        "client.round1.active",
+        "client.unresponsive"
       ],
       "dateAdded": "2026-08-08"
     },
@@ -202,7 +204,8 @@
       "flags": [],
       "tags": [
         "contract signed",
-        "client.round1.active"
+        "client.round1.active",
+        "client.unresponsive"
       ],
       "dateAdded": "2026-08-03"
     },
@@ -237,7 +240,8 @@
       ],
       "tags": [
         "no show to call",
-        "client.round1.active"
+        "client.round1.active",
+        "client.unresponsive"
       ],
       "dateAdded": "2026-07-27"
     },
@@ -319,24 +323,6 @@
         "client.round1.active"
       ],
       "dateAdded": "2026-06-29"
-    },
-    {
-      "id": "llPq9GEfPDJRZgrPyzlu",
-      "name": "esther polanco",
-      "phone": "+16468979798",
-      "email": "eztherpolanco@gmail.com",
-      "round": 1,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
-      "tags": [
-        "docs uploaded",
-        "full-pay-client",
-        "client.round1.active"
-      ],
-      "dateAdded": "2026-06-28"
     },
     {
       "id": "i4ZPROh9HzCybDxHTiED",
@@ -584,6 +570,25 @@
         "client.round2.active"
       ],
       "dateAdded": "2026-07-04"
+    },
+    {
+      "id": "llPq9GEfPDJRZgrPyzlu",
+      "name": "esther polanco",
+      "phone": "+16468979798",
+      "email": "eztherpolanco@gmail.com",
+      "round": 2,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "docs uploaded",
+        "full-pay-client",
+        "client.round1.active",
+        "client.round2.active"
+      ],
+      "dateAdded": "2026-06-28"
     },
     {
       "id": "FxUfLbkx3VYeKCSQCiI8",
