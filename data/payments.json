@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-25 23:51 UTC",
+  "updated": "2026-08-26 01:20 UTC",
   "today_total": 0,
-  "all_time_total": 238774.36,
+  "all_time_total": 238674.36,
   "payments": [
     {
       "id": "zelle_30497543395",
@@ -3923,18 +3923,6 @@
       "amount": 29.99,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "zelle_29369800258",
-      "date": "2026-05-27",
-      "time": "",
-      "name": "Esthefany Pena",
-      "amount": 100.0,
-      "status": "received",
-      "platform": "Zelle",
       "ok": true,
       "settled": true,
       "pending": false
