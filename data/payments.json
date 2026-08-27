@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-26 22:26 UTC",
+  "updated": "2026-08-27 03:29 UTC",
   "today_total": 0,
-  "all_time_total": 238674.36,
+  "all_time_total": 238414.36,
   "payments": [
     {
       "id": "zelle_30497543395",
@@ -3769,30 +3769,6 @@
       "platform": "Stripe",
       "ok": false,
       "settled": false,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_20795_2026-05-28",
-      "date": "2026-05-28",
-      "time": "",
-      "name": "Alexander Vasquez",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_20815_2026-05-28",
-      "date": "2026-05-28",
-      "time": "",
-      "name": "Kembely Galan",
-      "amount": 100.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
       "pending": false
     },
     {
