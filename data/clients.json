@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-27 03:29 UTC",
-  "total": 67,
+  "updated": "2026-08-27 14:39 UTC",
+  "total": 69,
   "clients": [
+    {
+      "id": "uQE3ZnnxrTTRf7DoSkkJ",
+      "name": "jesus alberto quintero",
+      "phone": "+16309898000",
+      "email": "jesussck@icloud.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-08-26"
+    },
     {
       "id": "Wp96G5QcflHuhgPmq6JK",
       "name": "andrew nunez",
@@ -33,6 +49,23 @@
       "flags": [],
       "tags": [
         "contract signed",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-08-21"
+    },
+    {
+      "id": "23dWgzLPM2KR72JvmUQu",
+      "name": "awilda castillo",
+      "phone": "+13473984047",
+      "email": "carolina.a2379@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "docs uploaded",
         "client.round1.active"
       ],
       "dateAdded": "2026-08-21"
