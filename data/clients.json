@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-28 11:41 UTC",
-  "total": 70,
+  "updated": "2026-08-28 21:47 UTC",
+  "total": 71,
   "clients": [
     {
       "id": "uQE3ZnnxrTTRf7DoSkkJ",
@@ -49,6 +49,23 @@
         "contract signed",
         "client.round1.active",
         "mentoria"
+      ],
+      "dateAdded": "2026-08-24"
+    },
+    {
+      "id": "hp5gl8HIUZbeejyvdLhJ",
+      "name": "fanny peguero",
+      "phone": "+16892242674",
+      "email": "kkpeguero@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "docs uploaded",
+        "client.round1.active"
       ],
       "dateAdded": "2026-08-24"
     },
@@ -454,24 +471,6 @@
       "dateAdded": "2026-06-18"
     },
     {
-      "id": "B35RVYTKYGwHeTzY51Vw",
-      "name": "adriana michell valdez moquete",
-      "phone": "+12159085229",
-      "email": "angelinavaldez18@gmail.com",
-      "round": 1,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
-      "tags": [
-        "contract signed",
-        "client.unresponsive",
-        "client.round1.active"
-      ],
-      "dateAdded": "2026-06-13"
-    },
-    {
       "id": "lYuuthDWEzgxQyzmCdC0",
       "name": "yenderson jose polanco",
       "phone": "+19293273980",
@@ -765,44 +764,6 @@
       "dateAdded": "2026-06-03"
     },
     {
-      "id": "rTGnlrdfKcQbkhKbdVdA",
-      "name": "maria contreras",
-      "phone": "+12035239864",
-      "email": "rosalbacastano242@gmail.com",
-      "round": 2,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
-      "tags": [
-        "client.round1.active",
-        "client.round2.active"
-      ],
-      "dateAdded": "2026-05-24"
-    },
-    {
-      "id": "t9SLn2TFTrakSFL9NYqT",
-      "name": "lizaida rodriguez",
-      "phone": "+13472459239",
-      "email": "leesaa0921@gmail.com",
-      "round": 2,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [
-        "payment_missing"
-      ],
-      "tags": [
-        "client.round1.active",
-        "payment.failed",
-        "payment missing",
-        "client.round2.active"
-      ],
-      "dateAdded": "2026-05-23"
-    },
-    {
       "id": "1C9KpoRTnMl6NaouMZVK",
       "name": "derlin starlin",
       "phone": "+16108188735",
@@ -1077,6 +1038,25 @@
       "dateAdded": "2026-06-15"
     },
     {
+      "id": "B35RVYTKYGwHeTzY51Vw",
+      "name": "adriana valdez",
+      "phone": "+12159085229",
+      "email": "angelinavaldez18@gmail.com",
+      "round": 3,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "contract signed",
+        "client.unresponsive",
+        "client.round1.active",
+        "client.round3.active"
+      ],
+      "dateAdded": "2026-06-13"
+    },
+    {
       "id": "CtAbN9b6acXGqJQ0RtkG",
       "name": "daniel alexander gutierrez",
       "phone": "+13055901138",
@@ -1199,6 +1179,47 @@
         "client.round4.active"
       ],
       "dateAdded": "2026-06-08"
+    },
+    {
+      "id": "rTGnlrdfKcQbkhKbdVdA",
+      "name": "maria contreras",
+      "phone": "+12035239864",
+      "email": "rosalbacastano242@gmail.com",
+      "round": 4,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round1.active",
+        "client.round2.active",
+        "client.round4.active"
+      ],
+      "dateAdded": "2026-05-24"
+    },
+    {
+      "id": "t9SLn2TFTrakSFL9NYqT",
+      "name": "lizaida rodriguez",
+      "phone": "+13472459239",
+      "email": "leesaa0921@gmail.com",
+      "round": 4,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "payment_missing"
+      ],
+      "tags": [
+        "client.round1.active",
+        "payment.failed",
+        "payment missing",
+        "client.round2.active",
+        "client.round5.active",
+        "client.round4.active"
+      ],
+      "dateAdded": "2026-05-23"
     },
     {
       "id": "1cPxJ3yVYdz7Muh6g9Ij",
