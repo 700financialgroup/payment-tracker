@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-27 14:39 UTC",
+  "updated": "2026-08-28 00:17 UTC",
   "today_total": 0,
-  "all_time_total": 238414.36,
+  "all_time_total": 238079.36,
   "payments": [
     {
       "id": "zelle_30497543395",
@@ -3625,30 +3625,6 @@
       "platform": "Stripe",
       "ok": false,
       "settled": false,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_20850_2026-05-29",
-      "date": "2026-05-29",
-      "time": "",
-      "name": "Winiffer Ramirez",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_20856_2026-05-29",
-      "date": "2026-05-29",
-      "time": "",
-      "name": "Elianny Estevez",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
       "pending": false
     },
     {
