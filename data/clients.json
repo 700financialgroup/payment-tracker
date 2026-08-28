@@ -1,12 +1,28 @@
 {
-  "updated": "2026-08-27 14:39 UTC",
-  "total": 69,
+  "updated": "2026-08-28 00:17 UTC",
+  "total": 70,
   "clients": [
     {
       "id": "uQE3ZnnxrTTRf7DoSkkJ",
       "name": "jesus alberto quintero",
       "phone": "+16309898000",
       "email": "jesussck@icloud.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-08-26"
+    },
+    {
+      "id": "iTG1F0YA1SaegTU5DL8n",
+      "name": "franklin domingo castillo plasencia",
+      "phone": "+16105703731",
+      "email": "selitruckingllc@gmail.com",
       "round": 1,
       "language": "",
       "plan": "",
@@ -395,23 +411,6 @@
         "client.round1.active"
       ],
       "dateAdded": "2026-07-04"
-    },
-    {
-      "id": "kJRNUHEwyS9tntvTZMJD",
-      "name": "joseph diaz",
-      "phone": "+14846619131",
-      "email": "cruzbeltre18@gmail.com",
-      "round": 1,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
-      "tags": [
-        "contract signed",
-        "client.round1.active"
-      ],
-      "dateAdded": "2026-06-29"
     },
     {
       "id": "i4ZPROh9HzCybDxHTiED",
@@ -937,6 +936,24 @@
         "client.round2.active"
       ],
       "dateAdded": "2026-05-09"
+    },
+    {
+      "id": "kJRNUHEwyS9tntvTZMJD",
+      "name": "joseph diaz",
+      "phone": "+14846619131",
+      "email": "cruzbeltre18@gmail.com",
+      "round": 3,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "contract signed",
+        "client.round1.active",
+        "client.round3.active"
+      ],
+      "dateAdded": "2026-06-29"
     },
     {
       "id": "OuSVMUBInyx1zrVHOEWT",
