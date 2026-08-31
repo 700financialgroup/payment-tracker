@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31 11:04 UTC",
+  "updated": "2026-08-31 18:06 UTC",
   "total": 71,
   "clients": [
     {
@@ -509,23 +509,6 @@
       "dateAdded": "2026-06-01"
     },
     {
-      "id": "u9WrTRlQgtSAbMqlhweV",
-      "name": "rosanny disla",
-      "phone": "+13023591661",
-      "email": "rosanny_disla@hotmail.com",
-      "round": 1,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
-      "tags": [
-        "deposit paid",
-        "client.round1.active"
-      ],
-      "dateAdded": "2026-05-14"
-    },
-    {
       "id": "pyEWtrt58g7QZ7K2wXhN",
       "name": "rafael almonte",
       "phone": "+18565716010",
@@ -638,25 +621,6 @@
         "client.round2.active"
       ],
       "dateAdded": "2026-07-09"
-    },
-    {
-      "id": "llPq9GEfPDJRZgrPyzlu",
-      "name": "esther polanco",
-      "phone": "+16468979798",
-      "email": "eztherpolanco@gmail.com",
-      "round": 2,
-      "language": "",
-      "plan": "",
-      "installment": 0,
-      "platform": "Auth.net",
-      "flags": [],
-      "tags": [
-        "docs uploaded",
-        "full-pay-client",
-        "client.round1.active",
-        "client.round2.active"
-      ],
-      "dateAdded": "2026-06-28"
     },
     {
       "id": "FxUfLbkx3VYeKCSQCiI8",
@@ -799,25 +763,22 @@
       "dateAdded": "2026-05-22"
     },
     {
-      "id": "eE41kI3qXXSX6e02lE3B",
-      "name": "jasmine reynoso",
-      "phone": "+19732344514",
-      "email": "jasminereynoso88@gmail.com",
+      "id": "u9WrTRlQgtSAbMqlhweV",
+      "name": "rosanny disla",
+      "phone": "+13023591661",
+      "email": "rosanny_disla@hotmail.com",
       "round": 2,
       "language": "",
       "plan": "",
       "installment": 0,
       "platform": "Auth.net",
-      "flags": [
-        "no_show"
-      ],
+      "flags": [],
       "tags": [
-        "no show to call",
-        "docs uploaded",
+        "deposit paid",
         "client.round1.active",
         "client.round2.active"
       ],
-      "dateAdded": "2026-05-22"
+      "dateAdded": "2026-05-14"
     },
     {
       "id": "flocYNv26HtD1sKMi9gF",
@@ -915,6 +876,25 @@
         "client.round3.active"
       ],
       "dateAdded": "2026-06-29"
+    },
+    {
+      "id": "llPq9GEfPDJRZgrPyzlu",
+      "name": "esther polanco",
+      "phone": "+16468979798",
+      "email": "eztherpolanco@gmail.com",
+      "round": 3,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "docs uploaded",
+        "full-pay-client",
+        "client.round1.active",
+        "client.round3.active"
+      ],
+      "dateAdded": "2026-06-28"
     },
     {
       "id": "OuSVMUBInyx1zrVHOEWT",
@@ -1220,6 +1200,28 @@
         "client.round4.active"
       ],
       "dateAdded": "2026-05-23"
+    },
+    {
+      "id": "eE41kI3qXXSX6e02lE3B",
+      "name": "jasmine reynoso",
+      "phone": "+19732344514",
+      "email": "jasminereynoso88@gmail.com",
+      "round": 4,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show"
+      ],
+      "tags": [
+        "no show to call",
+        "docs uploaded",
+        "client.round1.active",
+        "client.round2.active",
+        "client.round4.active"
+      ],
+      "dateAdded": "2026-05-22"
     },
     {
       "id": "1cPxJ3yVYdz7Muh6g9Ij",
