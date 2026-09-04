@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-04 08:11 UTC",
-  "total": 71,
+  "updated": "2026-09-04 12:52 UTC",
+  "total": 72,
   "clients": [
+    {
+      "id": "7NtU7kvUZlXkaVqXfcE1",
+      "name": "jennifer jasmin fernandez",
+      "phone": "+12014497565",
+      "email": "jenniferfernandez09@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-08-28"
+    },
     {
       "id": "uQE3ZnnxrTTRf7DoSkkJ",
       "name": "jesus alberto quintero",
