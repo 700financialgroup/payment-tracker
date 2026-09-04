@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-03 23:50 UTC",
+  "updated": "2026-09-04 03:17 UTC",
   "today_total": 0,
-  "all_time_total": 238804.36,
+  "all_time_total": 238469.36,
   "payments": [
     {
       "id": "zelle_30580930392",
@@ -3013,30 +3013,6 @@
       "platform": "Stripe",
       "ok": false,
       "settled": false,
-      "pending": false
-    },
-    {
-      "id": "zelle_29498043489",
-      "date": "2026-06-05",
-      "time": "",
-      "name": "Laura Vargas",
-      "amount": 175.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_21091_2026-06-05",
-      "date": "2026-06-05",
-      "time": "",
-      "name": "Rosanna Tavares",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
       "pending": false
     },
     {
