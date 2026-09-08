@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-07 23:23 UTC",
+  "updated": "2026-09-08 01:19 UTC",
   "today_total": 0,
-  "all_time_total": 238134.36,
+  "all_time_total": 237959.36,
   "payments": [
     {
       "id": "zelle_30580930392",
@@ -2651,18 +2651,6 @@
       "amount": 175.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_21248_2026-06-10",
-      "date": "2026-06-10",
-      "time": "",
-      "name": "Elizabeth Bonilla",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
