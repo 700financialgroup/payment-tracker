@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-11 23:55 UTC",
+  "updated": "2026-09-12 03:29 UTC",
   "today_total": 0,
-  "all_time_total": 237799.36,
+  "all_time_total": 237639.36,
   "payments": [
     {
       "id": "zelle_30580930392",
@@ -2399,18 +2399,6 @@
       "amount": 175.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_21392_2026-06-13",
-      "date": "2026-06-13",
-      "time": "",
-      "name": "Carolin Romero",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
