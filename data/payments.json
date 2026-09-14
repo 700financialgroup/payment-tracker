@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-13 23:21 UTC",
+  "updated": "2026-09-14 01:29 UTC",
   "today_total": 0,
-  "all_time_total": 237639.36,
+  "all_time_total": 237464.36,
   "payments": [
     {
       "id": "zelle_30580930392",
@@ -2339,18 +2339,6 @@
       "amount": 175.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_21438_2026-06-15",
-      "date": "2026-06-15",
-      "time": "",
-      "name": "Luis Reyes",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
       "ok": true,
       "settled": true,
       "pending": false
