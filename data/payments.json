@@ -1,8 +1,20 @@
 {
-  "updated": "2026-09-17 23:26 UTC",
+  "updated": "2026-09-18 01:25 UTC",
   "today_total": 0,
-  "all_time_total": 237114.36,
+  "all_time_total": 237454.36,
   "payments": [
+    {
+      "id": "zelle_30859440775",
+      "date": "2026-09-17",
+      "time": "",
+      "name": "Eternal Essence Llc",
+      "amount": 500.0,
+      "status": "received",
+      "platform": "Zelle",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "zelle_30580930392",
       "date": "2026-08-28",
@@ -1931,18 +1943,6 @@
       "amount": 160.0,
       "status": "succeeded",
       "platform": "Stripe",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "zelle_29685726237",
-      "date": "2026-06-19",
-      "time": "",
-      "name": "Alexander Garcia",
-      "amount": 160.0,
-      "status": "received",
-      "platform": "Zelle",
       "ok": true,
       "settled": true,
       "pending": false
