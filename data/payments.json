@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-20 23:22 UTC",
+  "updated": "2026-09-21 01:24 UTC",
   "today_total": 0,
-  "all_time_total": 237824.36,
+  "all_time_total": 237489.36,
   "payments": [
     {
       "id": "zelle_30882668861",
@@ -1768,18 +1768,6 @@
       "pending": false
     },
     {
-      "id": "fb_sale_21733_2026-06-23",
-      "date": "2026-06-23",
-      "time": "",
-      "name": "Kelvin Pena",
-      "amount": 175.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
       "id": "pi_3TlD7HDK4U0438JA1Oxn3GCM",
       "date": "2026-06-22",
       "time": "19:02",
@@ -1837,18 +1825,6 @@
       "platform": "Stripe",
       "ok": false,
       "settled": false,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_21721_2026-06-22",
-      "date": "2026-06-22",
-      "time": "",
-      "name": "Pedro Rodriguez",
-      "amount": 160.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
       "pending": false
     },
     {
