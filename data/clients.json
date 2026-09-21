@@ -1,7 +1,25 @@
 {
-  "updated": "2026-09-21 19:07 UTC",
-  "total": 72,
+  "updated": "2026-09-21 22:46 UTC",
+  "total": 74,
   "clients": [
+    {
+      "id": "NBZT6Lb7Drn5FDtkSmRc",
+      "name": "eloisa rodriguez",
+      "phone": "+19177921719",
+      "email": "elorodriguez124@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "contract signed",
+        "client.unresponsive",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-09-01"
+    },
     {
       "id": "7NtU7kvUZlXkaVqXfcE1",
       "name": "jennifer jasmin fernandez",
@@ -85,6 +103,23 @@
         "client.round1.active"
       ],
       "dateAdded": "2026-08-24"
+    },
+    {
+      "id": "LhOrlsn6ifeVRMUlaiyr",
+      "name": "jorfi martinez",
+      "phone": "+16464066803",
+      "email": "jorfi19@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.unresponsive",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-08-22"
     },
     {
       "id": "BmM6XakE3tGfrkWfj0wZ",
