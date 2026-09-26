@@ -1,8 +1,20 @@
 {
-  "updated": "2026-09-26 12:21 UTC",
-  "today_total": 0,
-  "all_time_total": 238908.36,
+  "updated": "2026-09-26 16:36 UTC",
+  "today_total": 300.0,
+  "all_time_total": 239208.36,
   "payments": [
+    {
+      "id": "zelle_30969267647",
+      "date": "2026-09-26",
+      "time": "",
+      "name": "Eternal Essence Llc",
+      "amount": 300.0,
+      "status": "received",
+      "platform": "Zelle",
+      "ok": true,
+      "settled": true,
+      "pending": false
+    },
     {
       "id": "zelle_30952857068",
       "date": "2026-09-25",
