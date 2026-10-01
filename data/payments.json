@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-30 21:16 UTC",
+  "updated": "2026-10-01 00:43 UTC",
   "today_total": 0,
-  "all_time_total": 239482.36,
+  "all_time_total": 239182.36,
   "payments": [
     {
       "id": "zelle_30969267647",
@@ -1117,30 +1117,6 @@
       "platform": "Stripe",
       "ok": false,
       "settled": false,
-      "pending": false
-    },
-    {
-      "id": "zelle_29853912759",
-      "date": "2026-07-02",
-      "time": "",
-      "name": "Jendel Sanchez",
-      "amount": 125.0,
-      "status": "received",
-      "platform": "Zelle",
-      "ok": true,
-      "settled": true,
-      "pending": false
-    },
-    {
-      "id": "fb_sale_22145_2026-07-02",
-      "date": "2026-07-02",
-      "time": "",
-      "name": "Zairis Pena",
-      "amount": 175.0,
-      "status": "New Sale",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
       "pending": false
     },
     {
