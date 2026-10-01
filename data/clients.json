@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30 21:16 UTC",
-  "total": 74,
+  "updated": "2026-10-01 00:43 UTC",
+  "total": 76,
   "clients": [
     {
       "id": "NBZT6Lb7Drn5FDtkSmRc",
@@ -19,6 +19,24 @@
         "client.round1.active"
       ],
       "dateAdded": "2026-09-01"
+    },
+    {
+      "id": "l4OgIPjaCPn9ni4fV7IT",
+      "name": "juana yonery michi",
+      "phone": "+19147508711",
+      "email": "bellasgsb@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "contract signed",
+        "client.unresponsive",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-08-31"
     },
     {
       "id": "7NtU7kvUZlXkaVqXfcE1",
@@ -563,6 +581,23 @@
         "client.unresponsive"
       ],
       "dateAdded": "2026-06-01"
+    },
+    {
+      "id": "25nTug87Op9peyvjcXTU",
+      "name": "jenny amaro",
+      "phone": "+16467215182",
+      "email": "jenny.c.amaro@gmail.com",
+      "round": 2,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.unresponsive",
+        "client.round2.active"
+      ],
+      "dateAdded": "2026-08-28"
     },
     {
       "id": "pyEWtrt58g7QZ7K2wXhN",
