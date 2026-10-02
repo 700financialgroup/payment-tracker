@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-01 23:44 UTC",
-  "total": 76,
+  "updated": "2026-10-02 04:26 UTC",
+  "total": 77,
   "clients": [
     {
       "id": "NBZT6Lb7Drn5FDtkSmRc",
@@ -118,6 +118,26 @@
       "flags": [],
       "tags": [
         "docs uploaded",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-08-24"
+    },
+    {
+      "id": "BMZHyxUcfcxzB3j6q8Sp",
+      "name": "andreina olivares cruz",
+      "phone": "+19297149523",
+      "email": "oandreina0521@icloud.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show"
+      ],
+      "tags": [
+        "no show to call",
+        "contract signed",
         "client.round1.active"
       ],
       "dateAdded": "2026-08-24"
