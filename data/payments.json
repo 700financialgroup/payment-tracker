@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-05 22:08 UTC",
+  "updated": "2026-10-06 02:25 UTC",
   "today_total": 0,
-  "all_time_total": 239182.36,
+  "all_time_total": 239007.36,
   "payments": [
     {
       "id": "zelle_30969267647",
@@ -853,18 +853,6 @@
       "platform": "Stripe",
       "ok": false,
       "settled": false,
-      "pending": false
-    },
-    {
-      "id": "fb_renewal_22352_2026-07-07",
-      "date": "2026-07-07",
-      "time": "",
-      "name": "Inmaculada Rodriguez",
-      "amount": 175.0,
-      "status": "Renewal",
-      "platform": "Fanbasis",
-      "ok": true,
-      "settled": true,
       "pending": false
     },
     {
