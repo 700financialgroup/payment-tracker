@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-07 14:16 UTC",
-  "total": 77,
+  "updated": "2026-10-07 20:06 UTC",
+  "total": 78,
   "clients": [
+    {
+      "id": "rAwV3pvKM3YX3YE8FqiL",
+      "name": "jose luis moya hernandez",
+      "phone": "+17324961666",
+      "email": "moyahernandez1222@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show"
+      ],
+      "tags": [
+        "no show to call",
+        "docs uploaded",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-09-26"
+    },
     {
       "id": "NBZT6Lb7Drn5FDtkSmRc",
       "name": "eloisa rodriguez",
