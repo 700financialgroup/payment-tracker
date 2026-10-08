@@ -1,7 +1,45 @@
 {
-  "updated": "2026-10-08 13:57 UTC",
-  "total": 78,
+  "updated": "2026-10-08 19:43 UTC",
+  "total": 92,
   "clients": [
+    {
+      "id": "uAr7HnbzvhFjXRwXKstC",
+      "name": "hansel luna tejada",
+      "phone": "+19293738236",
+      "email": "hanselluna24@hotmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "deposit paid",
+        "contract signed",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-10-06"
+    },
+    {
+      "id": "bUHNnIXo4m4zXllrMU29",
+      "name": "claudely alejandra mendez acosta",
+      "phone": "+13472572897",
+      "email": "mendezclaudely@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show"
+      ],
+      "tags": [
+        "no show to call",
+        "contract signed",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-09-29"
+    },
     {
       "id": "rAwV3pvKM3YX3YE8FqiL",
       "name": "jose luis moya hernandez",
@@ -21,6 +59,164 @@
         "client.round1.active"
       ],
       "dateAdded": "2026-09-26"
+    },
+    {
+      "id": "lyo65cL1ilpIhCHoYR2J",
+      "name": "jordaly morillo",
+      "phone": "+19734890147",
+      "email": "lalyhernan0320@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show"
+      ],
+      "tags": [
+        "no show to call",
+        "contract signed",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-09-25"
+    },
+    {
+      "id": "qe9YiO0jPupH3W7n8GEw",
+      "name": "hector parada",
+      "phone": "+13213169205",
+      "email": "matatan0517@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "contract signed",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-09-22"
+    },
+    {
+      "id": "M5Qe9Mu5RaTo5Zx8dg8D",
+      "name": "jhonny almonte corcino",
+      "phone": "+17325013180",
+      "email": "jhonnyalmonte31@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "idiq complete",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-09-19"
+    },
+    {
+      "id": "VbJLhalXTCoEcOPxwjYV",
+      "name": "alicet diaz pena",
+      "phone": "+14012554586",
+      "email": "alucetdiaz32@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "docs uploaded",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-09-18"
+    },
+    {
+      "id": "IIEumGrysFrsZwjSESrD",
+      "name": "ana tejada",
+      "phone": "+14013016034",
+      "email": "eddy2311@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-09-17"
+    },
+    {
+      "id": "GTw072xMNeycqSzKqHw8",
+      "name": "shane de la cruz de jesus",
+      "phone": "+13479932364",
+      "email": "shane.delacruz@aol.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "idiq complete",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-09-15"
+    },
+    {
+      "id": "N61RnNViPhuklj7MepqZ",
+      "name": "catherine garcia",
+      "phone": "+12018955257",
+      "email": "cathyvzw@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [
+        "no_show"
+      ],
+      "tags": [
+        "no show to call",
+        "idiq complete",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-09-04"
+    },
+    {
+      "id": "WXHJOSAXvo0bYYxXPYZU",
+      "name": "madelyn acevedo ulloa",
+      "phone": "+14847734044",
+      "email": "madelinacevedo17@icloud.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "contract signed",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-09-03"
+    },
+    {
+      "id": "PQYNIfX8HZxTdVhEoBxg",
+      "name": "dianira yoemis valerio almonte",
+      "phone": "+19734896146",
+      "email": "dayanaravalerio@gmail.com",
+      "round": 1,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "docs uploaded",
+        "client.round1.active"
+      ],
+      "dateAdded": "2026-09-03"
     },
     {
       "id": "NBZT6Lb7Drn5FDtkSmRc",
@@ -621,6 +817,57 @@
         "client.unresponsive"
       ],
       "dateAdded": "2026-06-01"
+    },
+    {
+      "id": "pMdATRySAOQh2HIqI2Rw",
+      "name": "odalisa anderson",
+      "phone": "+19178537898",
+      "email": "aodalisa@yahoo.com",
+      "round": 2,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "idiq complete",
+        "client.round2.active"
+      ],
+      "dateAdded": "2026-09-04"
+    },
+    {
+      "id": "AfKStJq5qlxgALB7wZns",
+      "name": "ashley susana gonzalez",
+      "phone": "+13476802652",
+      "email": "ashleypelopelo@gmail.com",
+      "round": 2,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "docs uploaded",
+        "client.round2.active"
+      ],
+      "dateAdded": "2026-09-03"
+    },
+    {
+      "id": "ZJLHR313aV9LsbPBwEZR",
+      "name": "ambar vargas",
+      "phone": "+18622972059",
+      "email": "ambarrvargas4@gmail.com",
+      "round": 2,
+      "language": "",
+      "plan": "",
+      "installment": 0,
+      "platform": "Auth.net",
+      "flags": [],
+      "tags": [
+        "docs uploaded",
+        "client.round2.active"
+      ],
+      "dateAdded": "2026-09-03"
     },
     {
       "id": "25nTug87Op9peyvjcXTU",
