@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08 19:43 UTC",
+  "updated": "2026-10-09 00:11 UTC",
   "total": 92,
   "clients": [
     {
@@ -36,7 +36,8 @@
       "tags": [
         "no show to call",
         "contract signed",
-        "client.round1.active"
+        "client.round1.active",
+        "client.unresponsive"
       ],
       "dateAdded": "2026-09-29"
     },
@@ -93,7 +94,8 @@
       "flags": [],
       "tags": [
         "contract signed",
-        "client.round1.active"
+        "client.round1.active",
+        "client.unresponsive"
       ],
       "dateAdded": "2026-09-22"
     },
@@ -110,7 +112,8 @@
       "flags": [],
       "tags": [
         "idiq complete",
-        "client.round1.active"
+        "client.round1.active",
+        "client.unresponsive"
       ],
       "dateAdded": "2026-09-19"
     },
@@ -127,7 +130,8 @@
       "flags": [],
       "tags": [
         "docs uploaded",
-        "client.round1.active"
+        "client.round1.active",
+        "client.unresponsive"
       ],
       "dateAdded": "2026-09-18"
     },
@@ -143,7 +147,8 @@
       "platform": "Auth.net",
       "flags": [],
       "tags": [
-        "client.round1.active"
+        "client.round1.active",
+        "client.unresponsive"
       ],
       "dateAdded": "2026-09-17"
     },
@@ -160,7 +165,8 @@
       "flags": [],
       "tags": [
         "idiq complete",
-        "client.round1.active"
+        "client.round1.active",
+        "client.unresponsive"
       ],
       "dateAdded": "2026-09-15"
     },
@@ -180,7 +186,8 @@
       "tags": [
         "no show to call",
         "idiq complete",
-        "client.round1.active"
+        "client.round1.active",
+        "client.unresponsive"
       ],
       "dateAdded": "2026-09-04"
     },
@@ -197,7 +204,8 @@
       "flags": [],
       "tags": [
         "contract signed",
-        "client.round1.active"
+        "client.round1.active",
+        "client.unresponsive"
       ],
       "dateAdded": "2026-09-03"
     },
@@ -214,7 +222,8 @@
       "flags": [],
       "tags": [
         "docs uploaded",
-        "client.round1.active"
+        "client.round1.active",
+        "client.unresponsive"
       ],
       "dateAdded": "2026-09-03"
     },
@@ -831,7 +840,8 @@
       "flags": [],
       "tags": [
         "idiq complete",
-        "client.round2.active"
+        "client.round2.active",
+        "client.unresponsive"
       ],
       "dateAdded": "2026-09-04"
     },
@@ -848,7 +858,8 @@
       "flags": [],
       "tags": [
         "docs uploaded",
-        "client.round2.active"
+        "client.round2.active",
+        "client.unresponsive"
       ],
       "dateAdded": "2026-09-03"
     },
@@ -865,7 +876,8 @@
       "flags": [],
       "tags": [
         "docs uploaded",
-        "client.round2.active"
+        "client.round2.active",
+        "client.unresponsive"
       ],
       "dateAdded": "2026-09-03"
     },
