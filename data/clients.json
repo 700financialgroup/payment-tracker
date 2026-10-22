@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22 10:28 UTC",
+  "updated": "2026-10-22 15:31 UTC",
   "total": 122,
   "clients": [
     {
@@ -15,8 +15,7 @@
       "flags": [],
       "tags": [
         "idiq complete",
-        "client.round1.active",
-        "round.backfill.notify"
+        "client.round1.active"
       ],
       "dateAdded": "2026-10-15"
     },
@@ -34,8 +33,7 @@
       "tags": [
         "contract signed",
         "afterhours.notified",
-        "client.round1.active",
-        "round.backfill.notify"
+        "client.round1.active"
       ],
       "dateAdded": "2026-10-12"
     },
@@ -52,8 +50,7 @@
       "flags": [],
       "tags": [
         "deposit paid",
-        "client.round1.active",
-        "round.backfill.notify"
+        "client.round1.active"
       ],
       "dateAdded": "2026-10-10"
     },
@@ -70,8 +67,7 @@
       "flags": [],
       "tags": [
         "contract signed",
-        "client.round1.active",
-        "round.backfill.notify"
+        "client.round1.active"
       ],
       "dateAdded": "2026-10-09"
     },
@@ -124,7 +120,7 @@
       "tags": [
         "contract signed",
         "client.round1.active",
-        "round.backfill.notify"
+        "afterhours.notified"
       ],
       "dateAdded": "2026-10-02"
     },
@@ -268,8 +264,7 @@
       "flags": [],
       "tags": [
         "idiq complete",
-        "client.round1.active",
-        "round.backfill.notify"
+        "client.round1.active"
       ],
       "dateAdded": "2026-09-15"
     },
@@ -359,7 +354,9 @@
         "deposit paid",
         "no show to call",
         "contract signed",
-        "client.round1.active"
+        "client.round1.active",
+        "afterhours.notified",
+        "ai.escalated"
       ],
       "dateAdded": "2026-08-25"
     },
@@ -415,8 +412,7 @@
       "tags": [
         "no show to call",
         "contract signed",
-        "client.round1.active",
-        "round.backfill.notify"
+        "client.round1.active"
       ],
       "dateAdded": "2026-08-22"
     },
@@ -502,7 +498,9 @@
       "flags": [],
       "tags": [
         "contract signed",
-        "client.round1.active"
+        "client.round1.active",
+        "afterhours.notified",
+        "ai.escalated"
       ],
       "dateAdded": "2026-08-17"
     },
@@ -576,8 +574,7 @@
       "flags": [],
       "tags": [
         "idiq complete",
-        "client.round1.active",
-        "round.backfill.notify"
+        "client.round1.active"
       ],
       "dateAdded": "2026-06-30"
     },
@@ -632,8 +629,7 @@
       "platform": "Auth.net",
       "flags": [],
       "tags": [
-        "client.round2.active",
-        "round.backfill.notify"
+        "client.round2.active"
       ],
       "dateAdded": "2026-09-22"
     },
@@ -650,7 +646,7 @@
       "flags": [],
       "tags": [
         "client.round2.active",
-        "round.backfill.notify"
+        "afterhours.notified"
       ],
       "dateAdded": "2026-09-17"
     },
@@ -738,8 +734,7 @@
       "flags": [],
       "tags": [
         "docs uploaded",
-        "client.round2.active",
-        "round.backfill.notify"
+        "client.round2.active"
       ],
       "dateAdded": "2026-09-03"
     },
@@ -994,8 +989,7 @@
       "platform": "Auth.net",
       "flags": [],
       "tags": [
-        "client.round2.active",
-        "round.backfill.notify"
+        "client.round2.active"
       ],
       "dateAdded": "2026-08-16"
     },
@@ -1029,8 +1023,7 @@
       "flags": [],
       "tags": [
         "deposit paid",
-        "client.round2.active",
-        "round.backfill.notify"
+        "client.round2.active"
       ],
       "dateAdded": "2026-08-05"
     },
@@ -1237,8 +1230,7 @@
       "flags": [],
       "tags": [
         "docs uploaded",
-        "client.round3.active",
-        "round.backfill.notify"
+        "client.round3.active"
       ],
       "dateAdded": "2026-08-17"
     },
@@ -1254,8 +1246,7 @@
       "platform": "Auth.net",
       "flags": [],
       "tags": [
-        "client.round3.active",
-        "round.backfill.notify"
+        "client.round3.active"
       ],
       "dateAdded": "2026-08-13"
     },
@@ -1271,8 +1262,7 @@
       "platform": "Auth.net",
       "flags": [],
       "tags": [
-        "client.round3.active",
-        "round.backfill.notify"
+        "client.round3.active"
       ],
       "dateAdded": "2026-08-10"
     },
@@ -1293,8 +1283,7 @@
         "docs uploaded",
         "payment.failed",
         "payment missing",
-        "client.round3.active",
-        "round.backfill.notify"
+        "client.round3.active"
       ],
       "dateAdded": "2026-08-08"
     },
@@ -1374,8 +1363,7 @@
         "payment missing",
         "docs uploaded",
         "no show to call",
-        "client.round4.active",
-        "round.backfill.notify"
+        "client.round4.active"
       ],
       "dateAdded": "2026-07-16"
     },
@@ -1408,8 +1396,7 @@
       "flags": [],
       "tags": [
         "contract signed",
-        "client.round4.active",
-        "round.backfill.notify"
+        "client.round4.active"
       ],
       "dateAdded": "2026-07-13"
     },
@@ -1430,8 +1417,7 @@
         "docs uploaded",
         "payment.failed",
         "payment missing",
-        "client.round4.active",
-        "round.backfill.notify"
+        "client.round4.active"
       ],
       "dateAdded": "2026-07-10"
     },
@@ -1610,8 +1596,7 @@
       "flags": [],
       "tags": [
         "contract signed",
-        "client.round4.active",
-        "round.backfill.notify"
+        "client.round4.active"
       ],
       "dateAdded": "2026-06-09"
     },
@@ -1671,8 +1656,7 @@
       "platform": "Auth.net",
       "flags": [],
       "tags": [
-        "client.round4.active",
-        "round.backfill.notify"
+        "client.round4.active"
       ],
       "dateAdded": "2026-05-22"
     },
@@ -1864,8 +1848,7 @@
       "tags": [
         "no show to call",
         "contract signed",
-        "client.round5.active",
-        "round.backfill.notify"
+        "client.round5.active"
       ],
       "dateAdded": "2026-06-01"
     },
@@ -2104,8 +2087,7 @@
       ],
       "tags": [
         "no show to call",
-        "client.round7.active",
-        "round.backfill.notify"
+        "client.round7.active"
       ],
       "dateAdded": "2026-06-30"
     },
@@ -2163,8 +2145,7 @@
       ],
       "tags": [
         "no show to call",
-        "client.round8.active",
-        "round.backfill.notify"
+        "client.round8.active"
       ],
       "dateAdded": "2026-06-08"
     },
