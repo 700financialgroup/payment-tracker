@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22 15:31 UTC",
+  "updated": "2026-10-22 19:25 UTC",
   "total": 122,
   "clients": [
     {
@@ -32,7 +32,6 @@
       "flags": [],
       "tags": [
         "contract signed",
-        "afterhours.notified",
         "client.round1.active"
       ],
       "dateAdded": "2026-10-12"
@@ -119,8 +118,7 @@
       "flags": [],
       "tags": [
         "contract signed",
-        "client.round1.active",
-        "afterhours.notified"
+        "client.round1.active"
       ],
       "dateAdded": "2026-10-02"
     },
@@ -355,7 +353,6 @@
         "no show to call",
         "contract signed",
         "client.round1.active",
-        "afterhours.notified",
         "ai.escalated"
       ],
       "dateAdded": "2026-08-25"
@@ -499,7 +496,6 @@
       "tags": [
         "contract signed",
         "client.round1.active",
-        "afterhours.notified",
         "ai.escalated"
       ],
       "dateAdded": "2026-08-17"
@@ -645,8 +641,7 @@
       "platform": "Auth.net",
       "flags": [],
       "tags": [
-        "client.round2.active",
-        "afterhours.notified"
+        "client.round2.active"
       ],
       "dateAdded": "2026-09-17"
     },
@@ -886,7 +881,8 @@
       "platform": "Auth.net",
       "flags": [],
       "tags": [
-        "client.round2.active"
+        "client.round2.active",
+        "recovery.active"
       ],
       "dateAdded": "2026-08-23"
     },
