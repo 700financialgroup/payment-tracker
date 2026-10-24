@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24 01:50 UTC",
+  "updated": "2026-10-24 06:57 UTC",
   "total": 122,
   "clients": [
     {
@@ -442,7 +442,8 @@
       "platform": "Auth.net",
       "flags": [],
       "tags": [
-        "client.round1.active"
+        "client.round1.active",
+        "afterhours.notified"
       ],
       "dateAdded": "2026-08-21"
     },
@@ -1592,7 +1593,8 @@
       "flags": [],
       "tags": [
         "contract signed",
-        "client.round4.active"
+        "client.round4.active",
+        "afterhours.notified"
       ],
       "dateAdded": "2026-06-09"
     },
